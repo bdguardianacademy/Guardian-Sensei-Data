@@ -1448,6 +1448,6 @@ const NFiveVocab = [
     {
         lesson: '02',
         id: 'n5_l02',
-        all_vocab: [],
+        all_vocab: [{}],
     },
 ]
