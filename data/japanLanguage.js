@@ -5336,8 +5336,488 @@ const NFiveVocab = [
     "こんばん 8じに ばんごはんを たべます。"
   ],
   "synonyms": ""
+},{
+  "id": "n5_l04_29",
+  "name": "やすみ",
+  "pronounce": "yasumi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "rest; holiday; day off",
+      "chin": "休息；休假；休息日",
+      "Nepal": "आराम; बिदा",
+      "Vietnam": "nghỉ ngơi; ngày nghỉ; kỳ nghỉ",
+      "Myanmar": "အနားယူခြင်း; အားလပ်ရက်",
+      "Sri_Lanka": "විවේකය; නිවාඩුව",
+      "Bangladesh": "বিশ্রাম; ছুটি; অবকাশ",
+      "Indonesia": "istirahat; libur; hari libur",
+      "Thailand": "การพักผ่อน; วันหยุด",
+      "Philippine": "pahinga; bakasyon; araw ng pahinga",
+      "Malaysia": "rehat; cuti; hari cuti",
+      "Taiwan": "休息；假日；休假",
+      "Korea": "휴식; 휴일; 쉬는 날",
+      "France": "repos; congé; jour de repos",
+      "German": "Ruhe; Urlaub; Ruhetag"
+    }
+  ],
+  "kanji": "休み",
+  "type": "noun",
+  "sentence": [
+    "きょうは やすみです。",
+    "にちようびは やすみです。",
+    "やすみに ほんを よみます。"
+  ],
+  "synonyms": "きゅうじつ"
+},{
+  "id": "n5_l04_30",
+  "name": "ひるやすみ",
+  "pronounce": "hiruyasumi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "lunch break; noon break",
+      "chin": "午休；午餐休息",
+      "Nepal": "दिउँसोको विश्राम",
+      "Vietnam": "giờ nghỉ trưa",
+      "Myanmar": "နေ့လယ်နားချိန်",
+      "Sri_Lanka": "දවල් විවේකය",
+      "Bangladesh": "দুপুরের বিরতি; লাঞ্চ ব্রেক",
+      "Indonesia": "istirahat siang; jam makan siang",
+      "Thailand": "พักกลางวัน; เวลาพักเที่ยง",
+      "Philippine": "pahinga sa tanghali; lunch break",
+      "Malaysia": "rehat tengah hari; waktu makan tengah hari",
+      "Taiwan": "午休；午餐休息時間",
+      "Korea": "점심시간; 점심 휴식",
+      "France": "pause déjeuner; pause de midi",
+      "German": "Mittagspause"
+    }
+  ],
+  "kanji": "昼休み",
+  "type": "noun",
+  "sentence": [
+    "ひるやすみは 12じからです。",
+    "ひるやすみに ごはんを たべます。",
+    "ひるやすみに ともだちと はなします。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_31",
+  "name": "まいあさ",
+  "pronounce": "maiasa",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "every morning",
+      "chin": "每天早上",
+      "Nepal": "हरेक बिहान",
+      "Vietnam": "mỗi sáng",
+      "Myanmar": "မနက်တိုင်း",
+      "Sri_Lanka": "සෑම උදෑසනකම",
+      "Bangladesh": "প্রতিদিন সকালে",
+      "Indonesia": "setiap pagi",
+      "Thailand": "ทุกเช้า",
+      "Philippine": "tuwing umaga",
+      "Malaysia": "setiap pagi",
+      "Taiwan": "每天早上",
+      "Korea": "매일 아침",
+      "France": "chaque matin",
+      "German": "jeden Morgen"
+    }
+  ],
+  "kanji": "毎朝",
+  "type": "adverb",
+  "sentence": [
+    "まいあさ 6じに おきます。",
+    "まいあさ コーヒーを のみます。",
+    "まいあさ がっこうへ いきます。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_32",
+  "name": "まいばん",
+  "pronounce": "maiban",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "every evening; every night",
+      "chin": "每天晚上",
+      "Nepal": "हरेक साँझ; हरेक रात",
+      "Vietnam": "mỗi tối; mỗi đêm",
+      "Myanmar": "ညတိုင်း",
+      "Sri_Lanka": "සෑම රාත්‍රියකම",
+      "Bangladesh": "প্রতিদিন সন্ধ্যায়; প্রতি রাতে",
+      "Indonesia": "setiap malam",
+      "Thailand": "ทุกเย็น; ทุกคืน",
+      "Philippine": "gabi-gabi",
+      "Malaysia": "setiap malam",
+      "Taiwan": "每天晚上",
+      "Korea": "매일 저녁; 매일 밤",
+      "France": "chaque soir; chaque nuit",
+      "German": "jeden Abend; jede Nacht"
+    }
+  ],
+  "kanji": "毎晩",
+  "type": "adverb",
+  "sentence": [
+    "まいばん 11じに ねます。",
+    "まいばん ほんを よみます。",
+    "まいばん テレビを みます。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_33",
+  "name": "まいにち",
+  "pronounce": "mainichi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "every day; daily",
+      "chin": "每天；每日",
+      "Nepal": "हरेक दिन; दैनिक",
+      "Vietnam": "mỗi ngày; hàng ngày",
+      "Myanmar": "နေ့တိုင်း; နေ့စဉ်",
+      "Sri_Lanka": "සෑම දිනකම; දිනපතා",
+      "Bangladesh": "প্রতিদিন; দৈনিক",
+      "Indonesia": "setiap hari; sehari-hari",
+      "Thailand": "ทุกวัน; ประจำวัน",
+      "Philippine": "araw-araw; bawat araw",
+      "Malaysia": "setiap hari; harian",
+      "Taiwan": "每天；每日",
+      "Korea": "매일; 날마다",
+      "France": "tous les jours; quotidiennement",
+      "German": "jeden Tag; täglich"
+    }
+  ],
+  "kanji": "毎日",
+  "type": "adverb",
+  "sentence": [
+    "まいにち べんきょうします。",
+    "まいにち がっこうへ いきます。",
+    "まいにち にほんごを はなします。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_34",
+  "name": "げつようび",
+  "pronounce": "getsuyoubi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "Monday",
+      "chin": "星期一",
+      "Nepal": "सोमबार",
+      "Vietnam": "thứ Hai",
+      "Myanmar": "တနင်္လာနေ့",
+      "Sri_Lanka": "සඳුදා",
+      "Bangladesh": "সোমবার",
+      "Indonesia": "Senin",
+      "Thailand": "วันจันทร์",
+      "Philippine": "Lunes",
+      "Malaysia": "Isnin",
+      "Taiwan": "星期一",
+      "Korea": "월요일",
+      "France": "lundi",
+      "German": "Montag"
+    }
+  ],
+  "kanji": "月曜日",
+  "type": "noun",
+  "sentence": [
+    "きょうは げつようびです。",
+    "げつようびに がっこうへ いきます。",
+    "げつようびは しごとです。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_35",
+  "name": "かようび",
+  "pronounce": "kayoubi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "Tuesday",
+      "chin": "星期二",
+      "Nepal": "मंगलबार",
+      "Vietnam": "thứ Ba",
+      "Myanmar": "အင်္ဂါနေ့",
+      "Sri_Lanka": "අඟහරුවාදා",
+      "Bangladesh": "মঙ্গলবার",
+      "Indonesia": "Selasa",
+      "Thailand": "วันอังคาร",
+      "Philippine": "Martes",
+      "Malaysia": "Selasa",
+      "Taiwan": "星期二",
+      "Korea": "화요일",
+      "France": "mardi",
+      "German": "Dienstag"
+    }
+  ],
+  "kanji": "火曜日",
+  "type": "noun",
+  "sentence": [
+    "きょうは かようびです。",
+    "かようびに がっこうへ いきます。",
+    "かようびは しごとです。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_36",
+  "name": "すいようび",
+  "pronounce": "suiyoubi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "Wednesday",
+      "chin": "星期三",
+      "Nepal": "बुधबार",
+      "Vietnam": "thứ Tư",
+      "Myanmar": "ဗုဒ္ဓဟူးနေ့",
+      "Sri_Lanka": "බදාදා",
+      "Bangladesh": "বুধবার",
+      "Indonesia": "Rabu",
+      "Thailand": "วันพุธ",
+      "Philippine": "Miyerkules",
+      "Malaysia": "Rabu",
+      "Taiwan": "星期三",
+      "Korea": "수요일",
+      "France": "mercredi",
+      "German": "Mittwoch"
+    }
+  ],
+  "kanji": "水曜日",
+  "type": "noun",
+  "sentence": [
+    "きょうは すいようびです。",
+    "すいようびに がっこうへ いきます。",
+    "すいようびは しごとです。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_37",
+  "name": "もくようび",
+  "pronounce": "mokuyoubi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "Thursday",
+      "chin": "星期四",
+      "Nepal": "बिहिबार",
+      "Vietnam": "thứ Năm",
+      "Myanmar": "ကြာသပတေးနေ့",
+      "Sri_Lanka": "බ්‍රහස්පතින්දා",
+      "Bangladesh": "বৃহস্পতিবার",
+      "Indonesia": "Kamis",
+      "Thailand": "วันพฤหัสบดี",
+      "Philippine": "Huwebes",
+      "Malaysia": "Khamis",
+      "Taiwan": "星期四",
+      "Korea": "목요일",
+      "France": "jeudi",
+      "German": "Donnerstag"
+    }
+  ],
+  "kanji": "木曜日",
+  "type": "noun",
+  "sentence": [
+    "きょうは もくようびです。",
+    "もくようびに がっこうへ いきます。",
+    "もくようびは しごとです。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_38",
+  "name": "きんようび",
+  "pronounce": "kinyoubi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "Friday",
+      "chin": "星期五",
+      "Nepal": "शुक्रबार",
+      "Vietnam": "thứ Sáu",
+      "Myanmar": "သောကြာနေ့",
+      "Sri_Lanka": "සිකුරාදා",
+      "Bangladesh": "শুক্রবার",
+      "Indonesia": "Jumat",
+      "Thailand": "วันศุกร์",
+      "Philippine": "Biyernes",
+      "Malaysia": "Jumaat",
+      "Taiwan": "星期五",
+      "Korea": "금요일",
+      "France": "vendredi",
+      "German": "Freitag"
+    }
+  ],
+  "kanji": "金曜日",
+  "type": "noun",
+  "sentence": [
+    "きょうは きんようびです。",
+    "きんようびに がっこうへ いきます。",
+    "きんようびは しごとです。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_39",
+  "name": "どようび",
+  "pronounce": "doyoubi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "Saturday",
+      "chin": "星期六",
+      "Nepal": "शनिबार",
+      "Vietnam": "thứ Bảy",
+      "Myanmar": "စနေနေ့",
+      "Sri_Lanka": "සෙනසුරාදා",
+      "Bangladesh": "শনিবার",
+      "Indonesia": "Sabtu",
+      "Thailand": "วันเสาร์",
+      "Philippine": "Sabado",
+      "Malaysia": "Sabtu",
+      "Taiwan": "星期六",
+      "Korea": "토요일",
+      "France": "samedi",
+      "German": "Samstag"
+    }
+  ],
+  "kanji": "土曜日",
+  "type": "noun",
+  "sentence": [
+    "きょうは どようびです。",
+    "どようびに ともだちと あそびます。",
+    "どようびは やすみです。"
+  ],
+  "synonyms": ""
+}, {
+  "id": "n5_l04_40",
+  "name": "なんようび",
+  "pronounce": "nanyoubi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "what day of the week",
+      "chin": "星期几",
+      "Nepal": "हप्ताको कुन दिन",
+      "Vietnam": "thứ mấy",
+      "Myanmar": "ဘယ်နေ့လဲ",
+      "Sri_Lanka": "සතියේ කීවැනි දවසද",
+      "Bangladesh": "সপ্তাহের কোন দিন",
+      "Indonesia": "hari apa",
+      "Thailand": "วันอะไร",
+      "Philippine": "anong araw",
+      "Malaysia": "hari apa",
+      "Taiwan": "星期幾",
+      "Korea": "무슨 요일",
+      "France": "quel jour de la semaine",
+      "German": "welcher Wochentag"
+    }
+  ],
+  "kanji": "何曜日",
+  "type": "question",
+  "sentence": [
+    "きょうは なんようびですか。",
+    "あしたは なんようびですか。",
+    "きんようびは なんようびですか。"
+  ],
+  "synonyms": ""
 },
-
+{
+  "id": "n5_l04_42",
+  "name": "なんばん",
+  "pronounce": "nanban",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "what number; which number",
+      "chin": "几号；第几个号码",
+      "Nepal": "कुन नम्बर",
+      "Vietnam": "số mấy",
+      "Myanmar": "ဘယ်နံပါတ်လဲ",
+      "Sri_Lanka": "කුමන අංකයද",
+      "Bangladesh": "কত নম্বর; কোন নম্বর",
+      "Indonesia": "nomor berapa",
+      "Thailand": "หมายเลขอะไร; เบอร์อะไร",
+      "Philippine": "anong numero",
+      "Malaysia": "nombor berapa",
+      "Taiwan": "幾號；第幾號",
+      "Korea": "몇 번",
+      "France": "quel numéro",
+      "German": "welche Nummer"
+    }
+  ],
+  "kanji": "何番",
+  "type": "question",
+  "sentence": [
+    "なんばんですか。",
+    "でんわばんごうは なんばんですか。",
+    "あなたの ばんごうは なんばんですか。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_43",
+  "name": "～から",
+  "pronounce": "kara",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "from; starting from",
+      "chin": "从；从……开始",
+      "Nepal": "देखि; बाट",
+      "Vietnam": "từ; bắt đầu từ",
+      "Myanmar": "မှ; မှစ၍",
+      "Sri_Lanka": "සිට; පටන්",
+      "Bangladesh": "থেকে; শুরু থেকে",
+      "Indonesia": "dari; mulai dari",
+      "Thailand": "จาก; ตั้งแต่",
+      "Philippine": "mula sa; simula sa",
+      "Malaysia": "dari; bermula dari",
+      "Taiwan": "從；從……開始",
+      "Korea": "~부터; ~에서",
+      "France": "de; à partir de",
+      "German": "von; ab"
+    }
+  ],
+  "kanji": "",
+  "type": "particle",
+  "sentence": [
+    "9じから べんきょうします。",
+    "げつようびから がっこうへ いきます。",
+    "あしたから はたらきます。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l04_44",
+  "name": "～まで",
+  "pronounce": "made",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "until; up to; to",
+      "chin": "直到；到……为止",
+      "Nepal": "सम्म; सम्ममा",
+      "Vietnam": "đến; cho đến",
+      "Myanmar": "အထိ",
+      "Sri_Lanka": "තෙක්; දක්වා",
+      "Bangladesh": "পর্যন্ত; অবধি",
+      "Indonesia": "sampai; hingga",
+      "Thailand": "จนถึง; ถึง",
+      "Philippine": "hanggang",
+      "Malaysia": "hingga; sampai",
+      "Taiwan": "直到；到……為止",
+      "Korea": "~까지",
+      "France": "jusqu’à",
+      "German": "bis"
+    }
+  ],
+  "kanji": "",
+  "type": "particle",
+  "sentence": [
+    "5じまで べんきょうします。",
+    "9じから 5じまで はたらきます。",
+    "きょうまで まちます。"
+  ],
+  "synonyms": ""
+}
 
 
 
