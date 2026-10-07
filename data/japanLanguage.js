@@ -18772,1545 +18772,1545 @@ const NFiveVocab = [
     lesson: '12',
     id: 'n5_l12',
     all_vocab: [
-{
-  "id": "n5_l12_02",
-  "name": "かんたん",
-  "pronounce": "kantan",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "easy; simple",
-      "chin": "简单；容易",
-      "Nepal": "सजिलो; सरल",
-      "Vietnam": "dễ dàng; đơn giản",
-      "Myanmar": "လွယ်ကူသော; ရိုးရှင်းသော",
-      "Sri_Lanka": "ලේසි; සරල",
-      "Bangladesh": "সহজ; সরল",
-      "Indonesia": "mudah; sederhana",
-      "Thailand": "ง่าย; เรียบง่าย",
-      "Philippine": "madali; simple",
-      "Malaysia": "mudah; ringkas",
-      "Taiwan": "簡單；容易",
-      "Korea": "간단하다; 쉽다",
-      "France": "facile; simple",
-      "German": "einfach; leicht"
-    }
-  ],
-  "kanji": "簡単",
-  "type": "な-adjective",
-  "sentence": [
-    "これは かんたんな もんだいです。",
-    "にほんごは かんたんですか。",
-    "かんたんな りょうりを つくります。"
-  ],
-  "synonyms": "やさしい"
-},{
-  "id": "n5_l12_03",
-  "name": "ちかい",
-  "pronounce": "chikai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "near; close",
-      "chin": "近的；附近的",
-      "Nepal": "नजिक; नजिकको",
-      "Vietnam": "gần",
-      "Myanmar": "နီးသော",
-      "Sri_Lanka": "ළඟ; ආසන්න",
-      "Bangladesh": "কাছের; নিকটবর্তী",
-      "Indonesia": "dekat",
-      "Thailand": "ใกล้",
-      "Philippine": "malapit",
-      "Malaysia": "dekat",
-      "Taiwan": "近的；附近的",
-      "Korea": "가깝다",
-      "France": "proche",
-      "German": "nah; nahe"
-    }
-  ],
-  "kanji": "近い",
-  "type": "い-adjective",
-  "sentence": [
-    "えきは ちかいです。",
-    "がっこうは いえから ちかいです。",
-    "ちかい みせで かいます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_04",
-  "name": "とおい",
-  "pronounce": "tooi",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "far; distant",
-      "chin": "远的；遥远的",
-      "Nepal": "टाढा; टाढाको",
-      "Vietnam": "xa; xa xôi",
-      "Myanmar": "ဝေးသော; အဝေး",
-      "Sri_Lanka": "දුර; ඈත",
-      "Bangladesh": "দূরের; দূরবর্তী",
-      "Indonesia": "jauh",
-      "Thailand": "ไกล",
-      "Philippine": "malayo",
-      "Malaysia": "jauh",
-      "Taiwan": "遠的；遙遠的",
-      "Korea": "멀다",
-      "France": "loin; éloigné",
-      "German": "weit; fern"
-    }
-  ],
-  "kanji": "遠い",
-  "type": "い-adjective",
-  "sentence": [
-    "えきは とおいです。",
-    "がっこうは いえから とおいです。",
-    "とおい ところへ いきます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_05",
-  "name": "はやい",
-  "pronounce": "hayai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "fast; early",
-      "chin": "快的；早的",
-      "Nepal": "छिटो; चाँडो",
-      "Vietnam": "nhanh; sớm",
-      "Myanmar": "မြန်သော; စောသော",
-      "Sri_Lanka": "ඉක්මන්; වේලාසන",
-      "Bangladesh": "দ্রুত; তাড়াতাড়ি; ভোরে",
-      "Indonesia": "cepat; awal",
-      "Thailand": "เร็ว; เช้า",
-      "Philippine": "mabilis; maaga",
-      "Malaysia": "cepat; awal",
-      "Taiwan": "快的；早的",
-      "Korea": "빠르다; 이르다",
-      "France": "rapide; tôt",
-      "German": "schnell; früh"
-    }
-  ],
-  "kanji": "早い・速い",
-  "type": "い-adjective",
-  "sentence": [
-    "はやい でんしゃに のります。",
-    "あさ はやく おきます。",
-    "かれは あるくのが はやいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_06",
-  "name": "おそい",
-  "pronounce": "osoi",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "late; slow",
-      "chin": "晚的；慢的",
-      "Nepal": "ढिलो; सुस्त",
-      "Vietnam": "muộn; chậm",
-      "Myanmar": "နောက်ကျသော; နှေးသော",
-      "Sri_Lanka": "ප්‍රමාද; මන්දගාමී",
-      "Bangladesh": "দেরি; ধীর",
-      "Indonesia": "terlambat; lambat",
-      "Thailand": "สาย; ช้า",
-      "Philippine": "huli; mabagal",
-      "Malaysia": "lambat; lewat",
-      "Taiwan": "晚的；慢的",
-      "Korea": "늦다; 느리다",
-      "France": "tard; lent",
-      "German": "spät; langsam"
-    }
-  ],
-  "kanji": "遅い",
-  "type": "い-adjective",
-  "sentence": [
-    "でんしゃが おそいです。",
-    "あさ おきるのが おそいです。",
-    "かれは あるくのが おそいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_07",
-  "name": "おおい [ひと が～]",
-  "pronounce": "ooi [hito ga ~]",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "many; a lot of [people]",
-      "chin": "很多；许多[人]",
-      "Nepal": "धेरै; धेरै जना [मानिस]",
-      "Vietnam": "nhiều; đông [người]",
-      "Myanmar": "များသော; လူများသော",
-      "Sri_Lanka": "බොහෝ; බොහෝ දෙනෙක්",
-      "Bangladesh": "অনেক; প্রচুর [মানুষ]",
-      "Indonesia": "banyak; banyak orang",
-      "Thailand": "มาก; คนจำนวนมาก",
-      "Philippine": "marami; maraming tao",
-      "Malaysia": "banyak; ramai orang",
-      "Taiwan": "很多；許多[人]",
-      "Korea": "많다; 사람이 많다",
-      "France": "nombreux; beaucoup de [personnes]",
-      "German": "viele; viele [Menschen]"
-    }
-  ],
-  "kanji": "多い",
-  "type": "い-adjective",
-  "sentence": [
-    "ひとが おおいです。",
-    "とうきょうは ひとが おおいです。",
-    "この みせは ひとが おおいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_08",
-  "name": "すくない [ひと が～]",
-  "pronounce": "sukunai [hito ga ~]",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "few; not many [people]",
-      "chin": "少；不多[人]",
-      "Nepal": "थोरै; धेरै मानिस नभएको",
-      "Vietnam": "ít; không nhiều [người]",
-      "Myanmar": "နည်းသော; လူမများသော",
-      "Sri_Lanka": "ස්වල්ප; බොහෝ දෙනෙක් නොවන",
-      "Bangladesh": "কম; অল্প [মানুষ]",
-      "Indonesia": "sedikit; tidak banyak orang",
-      "Thailand": "น้อย; คนไม่มาก",
-      "Philippine": "kaunti; hindi maraming tao",
-      "Malaysia": "sedikit; tidak ramai orang",
-      "Taiwan": "少；不多[人]",
-      "Korea": "적다; 사람이 적다",
-      "France": "peu nombreux; peu de [personnes]",
-      "German": "wenige; nicht viele [Menschen]"
-    }
-  ],
-  "kanji": "少ない",
-  "type": "い-adjective",
-  "sentence": [
-    "ひとが すくないです。",
-    "この みせは ひとが すくないです。",
-    "きょうは でんしゃの ひとが すくないです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_09",
-  "name": "あたたかい",
-  "pronounce": "atatakai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "warm",
-      "chin": "温暖的；暖和的",
-      "Nepal": "न्यानो",
-      "Vietnam": "ấm; ấm áp",
-      "Myanmar": "နွေးသော",
-      "Sri_Lanka": "උණුසුම්",
-      "Bangladesh": "উষ্ণ; গরম",
-      "Indonesia": "hangat",
-      "Thailand": "อบอุ่น; อุ่น",
-      "Philippine": "mainit-init; maginhawa",
-      "Malaysia": "hangat",
-      "Taiwan": "溫暖的；暖和的",
-      "Korea": "따뜻하다",
-      "France": "chaud; chaleureux",
-      "German": "warm"
-    }
-  ],
-  "kanji": "暖かい",
-  "type": "い-adjective",
-  "sentence": [
-    "きょうは あたたかいです。",
-    "あたたかい おちゃを のみます。",
-    "この へやは あたたかいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_10",
-  "name": "すずしい",
-  "pronounce": "suzushii",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "cool; refreshing",
-      "chin": "凉爽的；清凉的",
-      "Nepal": "शीतल; चिसो",
-      "Vietnam": "mát; dễ chịu",
-      "Myanmar": "အေးမြသော; လန်းဆန်းသော",
-      "Sri_Lanka": "සිසිල්; ප්‍රසන්න",
-      "Bangladesh": "শীতল; ঠান্ডা ও আরামদায়ক",
-      "Indonesia": "sejuk; menyegarkan",
-      "Thailand": "เย็นสบาย; สดชื่น",
-      "Philippine": "malamig; presko",
-      "Malaysia": "sejuk; menyegarkan",
-      "Taiwan": "涼爽的；清涼的",
-      "Korea": "시원하다; 선선하다",
-      "France": "frais; rafraîchissant",
-      "German": "kühl; erfrischend"
-    }
-  ],
-  "kanji": "涼しい",
-  "type": "い-adjective",
-  "sentence": [
-    "きょうは すずしいです。",
-    "あさは すずしいです。",
-    "すずしい かぜが ふいています。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_11",
-  "name": "あまい",
-  "pronounce": "amai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "sweet",
-      "chin": "甜的",
-      "Nepal": "गुलियो",
-      "Vietnam": "ngọt",
-      "Myanmar": "ချိုသော",
-      "Sri_Lanka": "මිහිරි",
-      "Bangladesh": "মিষ্টি",
-      "Indonesia": "manis",
-      "Thailand": "หวาน",
-      "Philippine": "matamis",
-      "Malaysia": "manis",
-      "Taiwan": "甜的",
-      "Korea": "달다",
-      "France": "sucré",
-      "German": "süß"
-    }
-  ],
-  "kanji": "甘い",
-  "type": "い-adjective",
-  "sentence": [
-    "この りんごは あまいです。",
-    "あまい ケーキが すきです。",
-    "この コーヒーは あまいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_12",
-  "name": "からい",
-  "pronounce": "karai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "spicy; hot",
-      "chin": "辣的；辛辣的",
-      "Nepal": "पिरो",
-      "Vietnam": "cay",
-      "Myanmar": "စပ်သော",
-      "Sri_Lanka": "සැර",
-      "Bangladesh": "ঝাল",
-      "Indonesia": "pedas",
-      "Thailand": "เผ็ด",
-      "Philippine": "maanghang",
-      "Malaysia": "pedas",
-      "Taiwan": "辣的；辛辣的",
-      "Korea": "맵다",
-      "France": "épicé; piquant",
-      "German": "scharf; würzig"
-    }
-  ],
-  "kanji": "辛い",
-  "type": "い-adjective",
-  "sentence": [
-    "この カレーは からいです。",
-    "からい たべものが すきです。",
-    "この ラーメンは からいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_13",
-  "name": "おもい",
-  "pronounce": "omoi",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "heavy",
-      "chin": "重的",
-      "Nepal": "भारी",
-      "Vietnam": "nặng",
-      "Myanmar": "လေးသော",
-      "Sri_Lanka": "බර",
-      "Bangladesh": "ভারী",
-      "Indonesia": "berat",
-      "Thailand": "หนัก",
-      "Philippine": "mabigat",
-      "Malaysia": "berat",
-      "Taiwan": "重的",
-      "Korea": "무겁다",
-      "France": "lourd",
-      "German": "schwer"
-    }
-  ],
-  "kanji": "重い",
-  "type": "い-adjective",
-  "sentence": [
-    "この かばんは おもいです。",
-    "おもい にもつを もちます。",
-    "この ほんは おもいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_14",
-  "name": "かるい",
-  "pronounce": "karui",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "light",
-      "chin": "轻的",
-      "Nepal": "हलुका",
-      "Vietnam": "nhẹ",
-      "Myanmar": "ပေါ့သော",
-      "Sri_Lanka": "සැහැල්ලු",
-      "Bangladesh": "হালকা",
-      "Indonesia": "ringan",
-      "Thailand": "เบา",
-      "Philippine": "magaan",
-      "Malaysia": "ringan",
-      "Taiwan": "輕的",
-      "Korea": "가볍다",
-      "France": "léger",
-      "German": "leicht"
-    }
-  ],
-  "kanji": "軽い",
-  "type": "い-adjective",
-  "sentence": [
-    "この かばんは かるいです。",
-    "かるい にもつを もちます。",
-    "この くつは かるいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_15",
-  "name": "いい [コーヒーが～]",
-  "pronounce": "ii [koohii ga ~]",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "good; tastes good [coffee]",
-      "chin": "好的；味道好[咖啡]",
-      "Nepal": "राम्रो; स्वादिष्ट [कफी]",
-      "Vietnam": "ngon; tốt [cà phê]",
-      "Myanmar": "ကောင်းသော; အရသာကောင်းသော [ကော်ဖီ]",
-      "Sri_Lanka": "හොඳ; රසවත් [කෝපි]",
-      "Bangladesh": "ভালো; সুস্বাদু [কফি]",
-      "Indonesia": "enak; baik [kopi]",
-      "Thailand": "ดี; อร่อย [กาแฟ]",
-      "Philippine": "mabuti; masarap [kape]",
-      "Malaysia": "baik; sedap [kopi]",
-      "Taiwan": "好的；味道好[咖啡]",
-      "Korea": "좋다; 맛이 좋다 [커피]",
-      "France": "bon; délicieux [café]",
-      "German": "gut; schmeckt gut [Kaffee]"
-    }
-  ],
-  "kanji": "いい [コーヒーが～]",
-  "type": "い-adjective",
-  "sentence": [
-    "この コーヒーは いいです。",
-    "いい コーヒーを のみます。",
-    "この コーヒーは あじが いいです。"
-  ],
-  "synonyms": "おいしい"
-},{
-  "id": "n5_l12_16",
-  "name": "きせつ",
-  "pronounce": "kisetsu",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "season",
-      "chin": "季节",
-      "Nepal": "ऋतु; मौसम",
-      "Vietnam": "mùa",
-      "Myanmar": "ရာသီ",
-      "Sri_Lanka": "ඍතුව; කාලය",
-      "Bangladesh": "ঋতু; মৌসুম",
-      "Indonesia": "musim",
-      "Thailand": "ฤดู",
-      "Philippine": "panahon; season",
-      "Malaysia": "musim",
-      "Taiwan": "季節",
-      "Korea": "계절",
-      "France": "saison",
-      "German": "Jahreszeit; Saison"
-    }
-  ],
-  "kanji": "季節",
-  "type": "noun",
-  "sentence": [
-    "にほんには よっつの きせつが あります。",
-    "すきな きせつは はるです。",
-    "いまは あつい きせつです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_17",
-  "name": "はる",
-  "pronounce": "haru",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "spring",
-      "chin": "春天",
-      "Nepal": "वसन्त ऋतु",
-      "Vietnam": "mùa xuân",
-      "Myanmar": "နွေဦးရာသီ",
-      "Sri_Lanka": "වසන්ත ඍතුව",
-      "Bangladesh": "বসন্ত",
-      "Indonesia": "musim semi",
-      "Thailand": "ฤดูใบไม้ผลิ",
-      "Philippine": "tagsibol",
-      "Malaysia": "musim bunga",
-      "Taiwan": "春天",
-      "Korea": "봄",
-      "France": "printemps",
-      "German": "Frühling"
-    }
-  ],
-  "kanji": "春",
-  "type": "noun",
-  "sentence": [
-    "はるは あたたかいです。",
-    "はるに さくらが さきます。",
-    "はるが いちばん すきです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_18",
-  "name": "なつ",
-  "pronounce": "natsu",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "summer",
-      "chin": "夏天",
-      "Nepal": "गर्मी; ग्रीष्म ऋतु",
-      "Vietnam": "mùa hè",
-      "Myanmar": "နွေရာသီ",
-      "Sri_Lanka": "ග්‍රීෂ්ම ඍතුව",
-      "Bangladesh": "গ্রীষ্ম; গরমকাল",
-      "Indonesia": "musim panas",
-      "Thailand": "ฤดูร้อน",
-      "Philippine": "tag-araw",
-      "Malaysia": "musim panas",
-      "Taiwan": "夏天",
-      "Korea": "여름",
-      "France": "été",
-      "German": "Sommer"
-    }
-  ],
-  "kanji": "夏",
-  "type": "noun",
-  "sentence": [
-    "なつは あついです。",
-    "なつに うみへ いきます。",
-    "なつが いちばん すきです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_19",
-  "name": "あき",
-  "pronounce": "aki",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "autumn; fall",
-      "chin": "秋天",
-      "Nepal": "शरद ऋतु",
-      "Vietnam": "mùa thu",
-      "Myanmar": "ဆောင်းဦးရာသီ",
-      "Sri_Lanka": "සරත් ඍතුව",
-      "Bangladesh": "শরৎ; হেমন্তকাল",
-      "Indonesia": "musim gugur",
-      "Thailand": "ฤดูใบไม้ร่วง",
-      "Philippine": "taglagas",
-      "Malaysia": "musim luruh",
-      "Taiwan": "秋天",
-      "Korea": "가을",
-      "France": "automne",
-      "German": "Herbst"
-    }
-  ],
-  "kanji": "秋",
-  "type": "noun",
-  "sentence": [
-    "あきは すずしいです。",
-    "あきに こうようを みます。",
-    "あきが いちばん すきです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_20",
-  "name": "ふゆ",
-  "pronounce": "fuyu",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "winter",
-      "chin": "冬天",
-      "Nepal": "जाडो; हिउँद ऋतु",
-      "Vietnam": "mùa đông",
-      "Myanmar": "ဆောင်းရာသီ",
-      "Sri_Lanka": "ශීත ඍතුව",
-      "Bangladesh": "শীত; শীতকাল",
-      "Indonesia": "musim dingin",
-      "Thailand": "ฤดูหนาว",
-      "Philippine": "taglamig",
-      "Malaysia": "musim sejuk",
-      "Taiwan": "冬天",
-      "Korea": "겨울",
-      "France": "hiver",
-      "German": "Winter"
-    }
-  ],
-  "kanji": "冬",
-  "type": "noun",
-  "sentence": [
-    "ふゆは さむいです。",
-    "ふゆに ゆきが ふります。",
-    "ふゆが いちばん すきです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_21",
-  "name": "てんき",
-  "pronounce": "tenki",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "weather",
-      "chin": "天气",
-      "Nepal": "मौसम",
-      "Vietnam": "thời tiết",
-      "Myanmar": "ရာသီဥတု",
-      "Sri_Lanka": "කාලගුණය",
-      "Bangladesh": "আবহাওয়া",
-      "Indonesia": "cuaca",
-      "Thailand": "สภาพอากาศ",
-      "Philippine": "panahon; lagay ng panahon",
-      "Malaysia": "cuaca",
-      "Taiwan": "天氣",
-      "Korea": "날씨",
-      "France": "temps; météo",
-      "German": "Wetter"
-    }
-  ],
-  "kanji": "天気",
-  "type": "noun",
-  "sentence": [
-    "きょうは いい てんきです。",
-    "あしたの てんきは どうですか。",
-    "てんきが いいですから、さんぽします。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_22",
-  "name": "あめ",
-  "pronounce": "ame",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "rain",
-      "chin": "雨；下雨",
-      "Nepal": "वर्षा; पानी",
-      "Vietnam": "mưa",
-      "Myanmar": "မိုး",
-      "Sri_Lanka": "වැස්ස",
-      "Bangladesh": "বৃষ্টি",
-      "Indonesia": "hujan",
-      "Thailand": "ฝน",
-      "Philippine": "ulan",
-      "Malaysia": "hujan",
-      "Taiwan": "雨；下雨",
-      "Korea": "비",
-      "France": "pluie",
-      "German": "Regen"
-    }
-  ],
-  "kanji": "雨",
-  "type": "noun",
-  "sentence": [
-    "あめが ふっています。",
-    "きょうは あめです。",
-    "あめが ふりますから、かさを もちます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_23",
-  "name": "ゆき",
-  "pronounce": "yuki",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "snow",
-      "chin": "雪",
-      "Nepal": "हिउँ",
-      "Vietnam": "tuyết",
-      "Myanmar": "နှင်း",
-      "Sri_Lanka": "හිම",
-      "Bangladesh": "তুষার; বরফ",
-      "Indonesia": "salju",
-      "Thailand": "หิมะ",
-      "Philippine": "niyebe",
-      "Malaysia": "salji",
-      "Taiwan": "雪",
-      "Korea": "눈",
-      "France": "neige",
-      "German": "Schnee"
-    }
-  ],
-  "kanji": "雪",
-  "type": "noun",
-  "sentence": [
-    "ゆきが ふっています。",
-    "ふゆに ゆきが ふります。",
-    "ゆきが たくさん あります。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_24",
-  "name": "くもり",
-  "pronounce": "kumori",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "cloudy weather; cloudy",
-      "chin": "阴天；多云",
-      "Nepal": "बादल लागेको मौसम; बादली",
-      "Vietnam": "trời nhiều mây; nhiều mây",
-      "Myanmar": "မိုးအုံ့ခြင်း; တိမ်ထူသော",
-      "Sri_Lanka": "වලාකුළු සහිත කාලගුණය; වලාකුළු සහිත",
-      "Bangladesh": "মেঘলা আবহাওয়া; মেঘাচ্ছন্ন",
-      "Indonesia": "cuaca mendung; mendung",
-      "Thailand": "อากาศครึ้ม; มีเมฆมาก",
-      "Philippine": "maulap na panahon; maulap",
-      "Malaysia": "cuaca mendung; mendung",
-      "Taiwan": "陰天；多雲",
-      "Korea": "흐림; 흐린 날씨",
-      "France": "temps nuageux; nuageux",
-      "German": "bewölktes Wetter; bewölkt"
-    }
-  ],
-  "kanji": "曇り",
-  "type": "noun",
-  "sentence": [
-    "きょうは くもりです。",
-    "あしたは くもりでしょう。",
-    "くもりの ひは すずしいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_25",
-  "name": "ホテル",
-  "pronounce": "hoteru",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "hotel",
-      "chin": "酒店；宾馆",
-      "Nepal": "होटल",
-      "Vietnam": "khách sạn",
-      "Myanmar": "ဟိုတယ်",
-      "Sri_Lanka": "හෝටලය",
-      "Bangladesh": "হোটেল",
-      "Indonesia": "hotel",
-      "Thailand": "โรงแรม",
-      "Philippine": "hotel",
-      "Malaysia": "hotel",
-      "Taiwan": "飯店；旅館",
-      "Korea": "호텔",
-      "France": "hôtel",
-      "German": "Hotel"
-    }
-  ],
-  "kanji": "",
-  "type": "noun",
-  "sentence": [
-    "ホテルに とまります。",
-    "この ホテルは きれいです。",
-    "ホテルの へやは おおきいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_26",
-  "name": "くうこう",
-  "pronounce": "kuukou",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "airport",
-      "chin": "机场",
-      "Nepal": "विमानस्थल",
-      "Vietnam": "sân bay",
-      "Myanmar": "လေဆိပ်",
-      "Sri_Lanka": "ගුවන් තොටුපළ",
-      "Bangladesh": "বিমানবন্দর",
-      "Indonesia": "bandara",
-      "Thailand": "สนามบิน",
-      "Philippine": "paliparan",
-      "Malaysia": "lapangan terbang",
-      "Taiwan": "機場",
-      "Korea": "공항",
-      "France": "aéroport",
-      "German": "Flughafen"
-    }
-  ],
-  "kanji": "空港",
-  "type": "noun",
-  "sentence": [
-    "くうこうへ いきます。",
-    "くうこうで ともだちを まちます。",
-    "くうこうは えきから とおいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_27",
-  "name": "うみ",
-  "pronounce": "umi",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "sea; ocean",
-      "chin": "海；大海",
-      "Nepal": "समुद्र",
-      "Vietnam": "biển",
-      "Myanmar": "ပင်လယ်",
-      "Sri_Lanka": "මුහුද",
-      "Bangladesh": "সমুদ্র",
-      "Indonesia": "laut",
-      "Thailand": "ทะเล",
-      "Philippine": "dagat",
-      "Malaysia": "laut",
-      "Taiwan": "海；大海",
-      "Korea": "바다",
-      "France": "mer; océan",
-      "German": "Meer; Ozean"
-    }
-  ],
-  "kanji": "海",
-  "type": "noun",
-  "sentence": [
-    "うみへ いきます。",
-    "うみで およぎます。",
-    "なつに うみへ いきたいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_28",
-  "name": "せかい",
-  "pronounce": "sekai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "world",
-      "chin": "世界",
-      "Nepal": "संसार; विश्व",
-      "Vietnam": "thế giới",
-      "Myanmar": "ကမ္ဘာ",
-      "Sri_Lanka": "ලෝකය",
-      "Bangladesh": "বিশ্ব; পৃথিবী",
-      "Indonesia": "dunia",
-      "Thailand": "โลก",
-      "Philippine": "mundo",
-      "Malaysia": "dunia",
-      "Taiwan": "世界",
-      "Korea": "세계",
-      "France": "monde",
-      "German": "Welt"
-    }
-  ],
-  "kanji": "世界",
-  "type": "noun",
-  "sentence": [
-    "せかいは ひろいです。",
-    "せかいの くにを りょこうしたいです。",
-    "せかいには たくさんの くにが あります。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_29",
-  "name": "パーティー",
-  "pronounce": "paatii",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "party",
-      "chin": "聚会；派对",
-      "Nepal": "पार्टी; भोज",
-      "Vietnam": "bữa tiệc; tiệc",
-      "Myanmar": "ပါတီပွဲ; ဧည့်ခံပွဲ",
-      "Sri_Lanka": "සාදය; සාදයක්",
-      "Bangladesh": "পার্টি; অনুষ্ঠান",
-      "Indonesia": "pesta",
-      "Thailand": "งานเลี้ยง; ปาร์ตี้",
-      "Philippine": "pista; salu-salo",
-      "Malaysia": "pesta",
-      "Taiwan": "聚會；派對",
-      "Korea": "파티",
-      "France": "fête; soirée",
-      "German": "Party; Feier"
-    }
-  ],
-  "kanji": "",
-  "type": "noun",
-  "sentence": [
-    "あした パーティーが あります。",
-    "パーティーに ともだちを よびます。",
-    "パーティーで たくさん たべます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_30",
-  "name": "[ お ] まつり",
-  "pronounce": "o matsuri",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "festival; traditional festival",
-      "chin": "节日；祭典",
-      "Nepal": "चाडपर्व; उत्सव",
-      "Vietnam": "lễ hội",
-      "Myanmar": "ပွဲတော်; ရိုးရာပွဲတော်",
-      "Sri_Lanka": "උත්සවය; පෙරහැර",
-      "Bangladesh": "উৎসব; মেলা",
-      "Indonesia": "festival; perayaan",
-      "Thailand": "เทศกาล; งานเทศกาล",
-      "Philippine": "pista; pagdiriwang",
-      "Malaysia": "perayaan; pesta",
-      "Taiwan": "節日；祭典",
-      "Korea": "축제; 마쓰리",
-      "France": "festival; fête traditionnelle",
-      "German": "Fest; Festival"
-    }
-  ],
-  "kanji": "お祭り",
-  "type": "noun",
-  "sentence": [
-    "おまつりが あります。",
-    "おまつりに いきます。",
-    "おまつりで たこやきを たべます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_31",
-  "name": "しけん",
-  "pronounce": "shiken",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "exam; examination; test",
-      "chin": "考试；测验",
-      "Nepal": "परीक्षा",
-      "Vietnam": "kỳ thi; bài kiểm tra",
-      "Myanmar": "စာမေးပွဲ; စမ်းသပ်မှု",
-      "Sri_Lanka": "විභාගය; පරීක්ෂණය",
-      "Bangladesh": "পরীক্ষা; পরীক্ষা-নিরীক্ষা",
-      "Indonesia": "ujian; tes",
-      "Thailand": "การสอบ; การทดสอบ",
-      "Philippine": "pagsusulit; eksaminasyon",
-      "Malaysia": "peperiksaan; ujian",
-      "Taiwan": "考試；測驗",
-      "Korea": "시험",
-      "France": "examen; épreuve",
-      "German": "Prüfung; Test"
-    }
-  ],
-  "kanji": "試験",
-  "type": "noun",
-  "sentence": [
-    "あした しけんが あります。",
-    "しけんの まえに べんきょうします。",
-    "しけんは むずかしかったです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_32",
-  "name": "すきやき",
-  "pronounce": "sukiyaki",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "sukiyaki; Japanese hot pot dish",
-      "chin": "寿喜烧；日式火锅",
-      "Nepal": "सुकीयाकी; जापानी तातो भाँडाको परिकार",
-      "Vietnam": "sukiyaki; lẩu Nhật Bản",
-      "Myanmar": "ဆူကီယာကီ; ဂျပန်စတိုင် ဟော့ပေါ့",
-      "Sri_Lanka": "සුකියාකි; ජපන් උණු බඳුන් ආහාරයක්",
-      "Bangladesh": "সুকিয়াকি; জাপানি হট পট খাবার",
-      "Indonesia": "sukiyaki; hidangan hot pot Jepang",
-      "Thailand": "สุกี้ยากี้; อาหารหม้อไฟญี่ปุ่น",
-      "Philippine": "sukiyaki; pagkaing hot pot ng Japan",
-      "Malaysia": "sukiyaki; hidangan hot pot Jepun",
-      "Taiwan": "壽喜燒；日式火鍋",
-      "Korea": "스키야키; 일본식 전골 요리",
-      "France": "sukiyaki; fondue japonaise",
-      "German": "Sukiyaki; japanisches Eintopfgericht"
-    }
-  ],
-  "kanji": "すき焼き",
-  "type": "noun",
-  "sentence": [
-    "すきやきを たべます。",
-    "きょう すきやきを つくります。",
-    "すきやきは おいしいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_33",
-  "name": "さしみ",
-  "pronounce": "sashimi",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "sashimi; raw fish dish",
-      "chin": "生鱼片",
-      "Nepal": "साशिमी; काँचो माछाको परिकार",
-      "Vietnam": "sashimi; món cá sống",
-      "Myanmar": "ဆာရှီမီ; ငါးစိမ်းအစားအစာ",
-      "Sri_Lanka": "සෂිමි; අමු මාළු ආහාරයක්",
-      "Bangladesh": "সাশিমি; কাঁচা মাছের খাবার",
-      "Indonesia": "sashimi; hidangan ikan mentah",
-      "Thailand": "ซาชิมิ; อาหารปลาดิบ",
-      "Philippine": "sashimi; pagkaing hilaw na isda",
-      "Malaysia": "sashimi; hidangan ikan mentah",
-      "Taiwan": "生魚片",
-      "Korea": "사시미; 생선회",
-      "France": "sashimi; poisson cru",
-      "German": "Sashimi; roher Fisch"
-    }
-  ],
-  "kanji": "刺身",
-  "type": "noun",
-  "sentence": [
-    "さしみを たべます。",
-    "さしみは おいしいです。",
-    "レストランで さしみを たべました。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_34",
-  "name": "[ お ] すし",
-  "pronounce": "o sushi",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "sushi",
-      "chin": "寿司",
-      "Nepal": "सुशी",
-      "Vietnam": "sushi",
-      "Myanmar": "ဆူရှီ",
-      "Sri_Lanka": "සුෂි",
-      "Bangladesh": "সুশি",
-      "Indonesia": "sushi",
-      "Thailand": "ซูชิ",
-      "Philippine": "sushi",
-      "Malaysia": "sushi",
-      "Taiwan": "壽司",
-      "Korea": "초밥; 스시",
-      "France": "sushi",
-      "German": "Sushi"
-    }
-  ],
-  "kanji": "お寿司",
-  "type": "noun",
-  "sentence": [
-    "おすしを たべます。",
-    "おすしが すきです。",
-    "レストランで おすしを たべました。"
-  ],
-  "synonyms": ""
-},
-{
-  "id": "n5_l12_35",
-  "name": "てんぷら",
-  "pronounce": "tenpura",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "tempura; deep-fried Japanese dish",
-      "chin": "天妇罗；日式炸物",
-      "Nepal": "टेम्पुरा; जापानी तारेर पकाइएको परिकार",
-      "Vietnam": "tempura; món chiên kiểu Nhật",
-      "Myanmar": "တင်ပူရာ; ဂျပန်စတိုင် ကြော်ထားသောအစားအစာ",
-      "Sri_Lanka": "ටෙම්පුරා; ජපන් විදිහට බැදපු ආහාරයක්",
-      "Bangladesh": "টেম্পুরা; জাপানি ভাজা খাবার",
-      "Indonesia": "tempura; hidangan goreng Jepang",
-      "Thailand": "เทมปุระ; อาหารทอดแบบญี่ปุ่น",
-      "Philippine": "tempura; pagkaing prito ng Japan",
-      "Malaysia": "tempura; hidangan goreng Jepun",
-      "Taiwan": "天婦羅；日式炸物",
-      "Korea": "튀김; 덴푸라",
-      "France": "tempura; beignet japonais",
-      "German": "Tempura; japanisches Frittiergericht"
-    }
-  ],
-  "kanji": "天ぷら",
-  "type": "noun",
-  "sentence": [
-    "てんぷらを たべます。",
-    "てんぷらが すきです。",
-    "レストランで てんぷらを たべました。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_36",
-  "name": "いけばな",
-  "pronounce": "ikebana",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "ikebana; Japanese flower arrangement",
-      "chin": "插花；日本花道",
-      "Nepal": "इकेबाना; जापानी फूल सजाउने कला",
-      "Vietnam": "ikebana; nghệ thuật cắm hoa Nhật Bản",
-      "Myanmar": "အိကေဘနာ; ဂျပန်ပန်းအလှဆင်အနုပညာ",
-      "Sri_Lanka": "ඉකෙබනා; ජපන් මල් සැකසීමේ කලාව",
-      "Bangladesh": "ইকেবানা; জাপানি ফুল সাজানোর শিল্প",
-      "Indonesia": "ikebana; seni merangkai bunga Jepang",
-      "Thailand": "อิเคบานะ; ศิลปะการจัดดอกไม้ญี่ปุ่น",
-      "Philippine": "ikebana; sining ng pag-aayos ng bulaklak sa Japan",
-      "Malaysia": "ikebana; seni gubahan bunga Jepun",
-      "Taiwan": "插花；日本花道",
-      "Korea": "이케바나; 일본 꽃꽂이",
-      "France": "ikebana; art floral japonais",
-      "German": "Ikebana; japanische Blumensteckkunst"
-    }
-  ],
-  "kanji": "生け花",
-  "type": "noun",
-  "sentence": [
-    "いけばなを します。",
-    "いけばなが すきです。",
-    "いけばなを ならいます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_37",
-  "name": "もみじ",
-  "pronounce": "momiji",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "autumn leaves; maple leaves",
-      "chin": "红叶；枫叶",
-      "Nepal": "शरद ऋतुका पात; मेपलका पात",
-      "Vietnam": "lá mùa thu; lá phong",
-      "Myanmar": "ဆောင်းဦးရွက်များ; မေပယ်ရွက်",
-      "Sri_Lanka": "සරත් කාලයේ කොළ; මේපල් කොළ",
-      "Bangladesh": "শরতের পাতা; ম্যাপল পাতা",
-      "Indonesia": "daun musim gugur; daun maple",
-      "Thailand": "ใบไม้เปลี่ยนสี; ใบเมเปิล",
-      "Philippine": "mga dahon sa taglagas; dahon ng maple",
-      "Malaysia": "daun musim luruh; daun maple",
-      "Taiwan": "紅葉；楓葉",
-      "Korea": "단풍; 단풍잎",
-      "France": "feuilles d'automne; feuilles d'érable",
-      "German": "Herbstlaub; Ahornblätter"
-    }
-  ],
-  "kanji": "紅葉",
-  "type": "noun",
-  "sentence": [
-    "あきは もみじが きれいです。",
-    "もみじを みに いきます。",
-    "こうえんの もみじは あかいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_38",
-  "name": "どちら",
-  "pronounce": "dochira",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "which; which one; where (polite)",
-      "chin": "哪个；哪一个；哪里（礼貌）",
-      "Nepal": "कुन; कुनचाहिँ; कहाँ (विनम्र)",
-      "Vietnam": "cái nào; bên nào; ở đâu (lịch sự)",
-      "Myanmar": "ဘယ်ဟာ; ဘယ်ဘက်; ဘယ်နေရာ (ယဉ်ကျေးသောအသုံး)",
-      "Sri_Lanka": "කොයි එකද; කුමන පැත්තද; කොහෙද (ආචාරශීලී)",
-      "Bangladesh": "কোনটি; কোন দিক; কোথায় (ভদ্রভাবে)",
-      "Indonesia": "yang mana; sebelah mana; di mana (sopan)",
-      "Thailand": "อันไหน; ทางไหน; ที่ไหน (สุภาพ)",
-      "Philippine": "alin; saang panig; saan (magalang)",
-      "Malaysia": "yang mana; sebelah mana; di mana (sopan)",
-      "Taiwan": "哪個；哪一個；哪裡（禮貌）",
-      "Korea": "어느 것; 어느 쪽; 어디 (공손한 표현)",
-      "France": "lequel; lequel des deux; où (poli)",
-      "German": "welches; welche Seite; wo (höflich)"
-    }
-  ],
-  "kanji": "どちら",
-  "type": "question",
-  "sentence": [
-    "どちらが すきですか。",
-    "おなまえは どちらですか。",
-    "どちらへ いきますか。"
-  ],
-  "synonyms": "どっち"
-},{
-  "id": "n5_l12_39",
-  "name": "どちらも",
-  "pronounce": "dochira mo",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "both; both of them",
-      "chin": "两者都；两个都",
-      "Nepal": "दुवै; दुवैवटा",
-      "Vietnam": "cả hai; cả hai đều",
-      "Myanmar": "နှစ်ခုလုံး; နှစ်ဖက်လုံး",
-      "Sri_Lanka": "දෙකම; දෙකමත්",
-      "Bangladesh": "দুটিই; উভয়ই",
-      "Indonesia": "keduanya; kedua-duanya",
-      "Thailand": "ทั้งสอง; ทั้งคู่",
-      "Philippine": "pareho; kapwa",
-      "Malaysia": "kedua-duanya; kedua-duanya juga",
-      "Taiwan": "兩個都；兩者都",
-      "Korea": "둘 다; 양쪽 다",
-      "France": "les deux; tous les deux",
-      "German": "beide; beide von ihnen"
-    }
-  ],
-  "kanji": "どちらも",
-  "type": "expression",
-  "sentence": [
-    "どちらも すきです。",
-    "りんごと みかんと、どちらも おいしいです。",
-    "どちらも いいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_40",
-  "name": "ずっと",
-  "pronounce": "zutto",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "all the time; continuously; much more",
-      "chin": "一直；始终；更加",
-      "Nepal": "सधैं; निरन्तर; धेरै बढी",
-      "Vietnam": "suốt; liên tục; hơn nhiều",
-      "Myanmar": "တစ်လျှောက်လုံး; အဆက်မပြတ်; အများကြီးပို",
-      "Sri_Lanka": "දිගටම; අඛණ්ඩව; වඩා බොහෝ",
-      "Bangladesh": "সবসময়; একটানা; অনেক বেশি",
-      "Indonesia": "terus-menerus; sepanjang waktu; jauh lebih",
-      "Thailand": "ตลอดเวลา; อย่างต่อเนื่อง; มากกว่าอย่างมาก",
-      "Philippine": "palagi; tuloy-tuloy; mas higit",
-      "Malaysia": "sentiasa; berterusan; jauh lebih",
-      "Taiwan": "一直；始終；更加",
-      "Korea": "계속; 줄곧; 훨씬",
-      "France": "tout le temps; continuellement; beaucoup plus",
-      "German": "die ganze Zeit; ständig; viel mehr"
-    }
-  ],
-  "kanji": "ずっと",
-  "type": "adverb",
-  "sentence": [
-    "ずっと ここに います。",
-    "きのうから ずっと あめです。",
-    "これの ほうが ずっと おおきいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_41",
-  "name": "はじめて",
-  "pronounce": "hajimete",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "for the first time",
-      "chin": "第一次；初次",
-      "Nepal": "पहिलो पटक",
-      "Vietnam": "lần đầu tiên",
-      "Myanmar": "ပထမဆုံးအကြိမ်",
-      "Sri_Lanka": "පළමු වරට",
-      "Bangladesh": "প্রথমবার",
-      "Indonesia": "untuk pertama kali",
-      "Thailand": "เป็นครั้งแรก",
-      "Philippine": "sa unang pagkakataon",
-      "Malaysia": "buat kali pertama",
-      "Taiwan": "第一次；初次",
-      "Korea": "처음으로; 처음",
-      "France": "pour la première fois",
-      "German": "zum ersten Mal"
-    }
-  ],
-  "kanji": "初めて",
-  "type": "adverb",
-  "sentence": [
-    "はじめて にほんへ いきます。",
-    "きょう はじめて すしを たべました。",
-    "はじめて ひこうきに のりました。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_42",
-  "name": "ただいま",
-  "pronounce": "tadaima",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "I'm home; I'm back",
-      "chin": "我回来了",
-      "Nepal": "म घर आएँ; म फर्किएँ",
-      "Vietnam": "tôi về rồi; tôi đã về",
-      "Myanmar": "ကျွန်တော်/ကျွန်မ ပြန်ရောက်ပြီ",
-      "Sri_Lanka": "මම ආවා; මම ආපහු ආවා",
-      "Bangladesh": "আমি ফিরে এসেছি; আমি বাড়ি এসেছি",
-      "Indonesia": "saya pulang; saya sudah kembali",
-      "Thailand": "ฉันกลับมาแล้ว; กลับมาแล้ว",
-      "Philippine": "nakauwi na ako; nakabalik na ako",
-      "Malaysia": "saya dah balik; saya sudah pulang",
-      "Taiwan": "我回來了",
-      "Korea": "다녀왔습니다; 돌아왔어요",
-      "France": "je suis rentré(e); me voilà de retour",
-      "German": "Ich bin wieder da; Ich bin zurück"
-    }
-  ],
-  "kanji": "ただいま",
-  "type": "expression",
-  "sentence": [
-    "ただいま。",
-    "ただいま。きょうは つかれました。",
-    "ただいま。おなかが すきました。"
-  ],
-  "synonyms": ""
-},
-{
-  "id": "n5_l12_43",
-  "name": "おかえりなさい",
-  "pronounce": "okaerinasai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "welcome home; welcome back",
-      "chin": "欢迎回来；欢迎回家",
-      "Nepal": "घर फर्किनुभएकोमा स्वागत छ",
-      "Vietnam": "mừng bạn về nhà; chào mừng bạn trở lại",
-      "Myanmar": "ပြန်လာတာကို ကြိုဆိုပါတယ်",
-      "Sri_Lanka": "ආපසු පැමිණි ඔබ සාදරයෙන් පිළිගනිමු",
-      "Bangladesh": "ফিরে আসার জন্য স্বাগতম; বাড়িতে ফিরে আসায় স্বাগতম",
-      "Indonesia": "selamat datang kembali; selamat pulang",
-      "Thailand": "ยินดีต้อนรับกลับบ้าน; ยินดีต้อนรับกลับมา",
-      "Philippine": "maligayang pagbalik; maligayang pag-uwi",
-      "Malaysia": "selamat kembali; selamat pulang",
-      "Taiwan": "歡迎回來；歡迎回家",
-      "Korea": "어서 오세요; 다녀오셨어요",
-      "France": "bon retour; bienvenue à la maison",
-      "German": "Willkommen zurück; Willkommen zu Hause"
-    }
-  ],
-  "kanji": "お帰りなさい",
-  "type": "expression",
-  "sentence": [
-    "おかえりなさい。",
-    "おかえりなさい。きょうは どうでしたか。",
-    "おかえりなさい。ごはんが できました。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_44",
-  "name": "すごいですね",
-  "pronounce": "sugoi desu ne",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "That's amazing; That's great",
-      "chin": "真厉害；真棒",
-      "Nepal": "अचम्मको छ; धेरै राम्रो छ",
-      "Vietnam": "tuyệt quá; giỏi quá",
-      "Myanmar": "အရမ်းကောင်းတယ်; အံ့သြစရာကောင်းတယ်",
-      "Sri_Lanka": "නියමයි; හරිම විශිෂ්ටයි",
-      "Bangladesh": "দারুণ তো; অসাধারণ তো",
-      "Indonesia": "hebat ya; luar biasa",
-      "Thailand": "สุดยอดเลย; เยี่ยมมาก",
-      "Philippine": "ang galing naman; kahanga-hanga",
-      "Malaysia": "hebatnya; bagusnya",
-      "Taiwan": "真厲害；真棒",
-      "Korea": "대단하네요; 정말 멋지네요",
-      "France": "c'est incroyable; c'est super",
-      "German": "Das ist erstaunlich; Das ist großartig"
-    }
-  ],
-  "kanji": "すごいですね",
-  "type": "expression",
-  "sentence": [
-    "にほんごが じょうずですね。すごいですね。",
-    "この くるまは おおきいですね。すごいですね。",
-    "きょう ひとりで りょうりを しました。すごいですね。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_45",
-  "name": "でも",
-  "pronounce": "demo",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "but; however",
-      "chin": "但是；可是",
-      "Nepal": "तर; तर पनि",
-      "Vietnam": "nhưng; tuy nhiên",
-      "Myanmar": "ဒါပေမယ့်; သို့သော်",
-      "Sri_Lanka": "නමුත්; එහෙත්",
-      "Bangladesh": "কিন্তু; তবে",
-      "Indonesia": "tetapi; namun",
-      "Thailand": "แต่; อย่างไรก็ตาม",
-      "Philippine": "pero; gayunpaman",
-      "Malaysia": "tetapi; namun",
-      "Taiwan": "但是；可是",
-      "Korea": "하지만; 그러나",
-      "France": "mais; cependant",
-      "German": "aber; jedoch"
-    }
-  ],
-  "kanji": "",
-  "type": "conjunction",
-  "sentence": [
-    "この りんごは おいしいです。でも、たかいです。",
-    "にほんごは むずかしいです。でも、おもしろいです。",
-    "きょうは いそがしいです。でも、べんきょうします。"
-  ],
-  "synonyms": "しかし"
-},{
-  "id": "n5_l12_46",
-  "name": "つかれました",
-  "pronounce": "tsukaremashita",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "I am tired; I got tired",
-      "chin": "累了；感到疲倦了",
-      "Nepal": "म थाकें; थकाइ लाग्यो",
-      "Vietnam": "tôi mệt; đã mệt",
-      "Myanmar": "ပင်ပန်းသွားပြီ; ပင်ပန်းပါတယ်",
-      "Sri_Lanka": "මට මහන්සියි; මම වෙහෙසුණා",
-      "Bangladesh": "আমি ক্লান্ত; ক্লান্ত হয়ে গেছি",
-      "Indonesia": "saya lelah; sudah lelah",
-      "Thailand": "เหนื่อยแล้ว; ฉันเหนื่อย",
-      "Philippine": "pagod na ako; napagod ako",
-      "Malaysia": "saya penat; sudah penat",
-      "Taiwan": "累了；感到疲倦了",
-      "Korea": "피곤해요; 피곤했습니다",
-      "France": "je suis fatigué(e); je me suis fatigué(e)",
-      "German": "Ich bin müde; Ich bin erschöpft"
-    }
-  ],
-  "kanji": "疲れました",
-  "type": "verb",
-  "sentence": [
-    "きょうは つかれました。",
-    "たくさん あるいて、つかれました。",
-    "しごとの あとで つかれました。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_47",
-  "name": "ぎおんまつり",
-  "pronounce": "Gion matsuri",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "Gion Festival",
-      "chin": "祇园祭",
-      "Nepal": "गिओन उत्सव",
-      "Vietnam": "Lễ hội Gion",
-      "Myanmar": "ဂိအွန်ပွဲတော်",
-      "Sri_Lanka": "ගියොන් උත්සවය",
-      "Bangladesh": "গিয়ন উৎসব",
-      "Indonesia": "Festival Gion",
-      "Thailand": "เทศกาลกิออน",
-      "Philippine": "Pista ng Gion",
-      "Malaysia": "Perayaan Gion",
-      "Taiwan": "祇園祭",
-      "Korea": "기온 마쓰리; 기온 축제",
-      "France": "festival de Gion",
-      "German": "Gion-Fest"
-    }
-  ],
-  "kanji": "祇園祭",
-  "type": "noun",
-  "sentence": [
-    "ぎおんまつりは きょうとで あります。",
-    "ぎおんまつりを みに いきたいです。",
-    "ぎおんまつりは ゆうめいな おまつりです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_48",
-  "name": "ホンコン",
-  "pronounce": "Honkon",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "Hong Kong",
-      "chin": "香港",
-      "Nepal": "हङकङ",
-      "Vietnam": "Hồng Kông",
-      "Myanmar": "ဟောင်ကောင်",
-      "Sri_Lanka": "හොංකොං",
-      "Bangladesh": "হংকং",
-      "Indonesia": "Hong Kong",
-      "Thailand": "ฮ่องกง",
-      "Philippine": "Hong Kong",
-      "Malaysia": "Hong Kong",
-      "Taiwan": "香港",
-      "Korea": "홍콩",
-      "France": "Hong Kong",
-      "German": "Hongkong"
-    }
-  ],
-  "kanji": "香港",
-  "type": "place",
-  "sentence": [
-    "ホンコンへ いきます。",
-    "ホンコンは おおきい まちです。",
-    "ホンコンで しゃしんを とりました。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l12_49",
-  "name": "シンガポール",
-  "pronounce": "Shingapōru",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "Singapore",
-      "chin": "新加坡",
-      "Nepal": "सिङ्गापुर",
-      "Vietnam": "Singapore",
-      "Myanmar": "စင်္ကာပူ",
-      "Sri_Lanka": "සිංගප්පූරුව",
-      "Bangladesh": "সিঙ্গাপুর",
-      "Indonesia": "Singapura",
-      "Thailand": "สิงคโปร์",
-      "Philippine": "Singapore",
-      "Malaysia": "Singapura",
-      "Taiwan": "新加坡",
-      "Korea": "싱가포르",
-      "France": "Singapour",
-      "German": "Singapur"
-    }
-  ],
-  "kanji": "シンガポール",
-  "type": "country",
-  "sentence": [
-    "シンガポールへ いきます。",
-    "シンガポールは あたたかい くにです。",
-    "シンガポールで しゃしんを とりました。"
-  ],
-  "synonyms": ""
-},
+      {
+        "id": "n5_l12_02",
+        "name": "かんたん",
+        "pronounce": "kantan",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "easy; simple",
+            "chin": "简单；容易",
+            "Nepal": "सजिलो; सरल",
+            "Vietnam": "dễ dàng; đơn giản",
+            "Myanmar": "လွယ်ကူသော; ရိုးရှင်းသော",
+            "Sri_Lanka": "ලේසි; සරල",
+            "Bangladesh": "সহজ; সরল",
+            "Indonesia": "mudah; sederhana",
+            "Thailand": "ง่าย; เรียบง่าย",
+            "Philippine": "madali; simple",
+            "Malaysia": "mudah; ringkas",
+            "Taiwan": "簡單；容易",
+            "Korea": "간단하다; 쉽다",
+            "France": "facile; simple",
+            "German": "einfach; leicht"
+          }
+        ],
+        "kanji": "簡単",
+        "type": "な-adjective",
+        "sentence": [
+          "これは かんたんな もんだいです。",
+          "にほんごは かんたんですか。",
+          "かんたんな りょうりを つくります。"
+        ],
+        "synonyms": "やさしい"
+      }, {
+        "id": "n5_l12_03",
+        "name": "ちかい",
+        "pronounce": "chikai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "near; close",
+            "chin": "近的；附近的",
+            "Nepal": "नजिक; नजिकको",
+            "Vietnam": "gần",
+            "Myanmar": "နီးသော",
+            "Sri_Lanka": "ළඟ; ආසන්න",
+            "Bangladesh": "কাছের; নিকটবর্তী",
+            "Indonesia": "dekat",
+            "Thailand": "ใกล้",
+            "Philippine": "malapit",
+            "Malaysia": "dekat",
+            "Taiwan": "近的；附近的",
+            "Korea": "가깝다",
+            "France": "proche",
+            "German": "nah; nahe"
+          }
+        ],
+        "kanji": "近い",
+        "type": "い-adjective",
+        "sentence": [
+          "えきは ちかいです。",
+          "がっこうは いえから ちかいです。",
+          "ちかい みせで かいます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_04",
+        "name": "とおい",
+        "pronounce": "tooi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "far; distant",
+            "chin": "远的；遥远的",
+            "Nepal": "टाढा; टाढाको",
+            "Vietnam": "xa; xa xôi",
+            "Myanmar": "ဝေးသော; အဝေး",
+            "Sri_Lanka": "දුර; ඈත",
+            "Bangladesh": "দূরের; দূরবর্তী",
+            "Indonesia": "jauh",
+            "Thailand": "ไกล",
+            "Philippine": "malayo",
+            "Malaysia": "jauh",
+            "Taiwan": "遠的；遙遠的",
+            "Korea": "멀다",
+            "France": "loin; éloigné",
+            "German": "weit; fern"
+          }
+        ],
+        "kanji": "遠い",
+        "type": "い-adjective",
+        "sentence": [
+          "えきは とおいです。",
+          "がっこうは いえから とおいです。",
+          "とおい ところへ いきます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_05",
+        "name": "はやい",
+        "pronounce": "hayai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "fast; early",
+            "chin": "快的；早的",
+            "Nepal": "छिटो; चाँडो",
+            "Vietnam": "nhanh; sớm",
+            "Myanmar": "မြန်သော; စောသော",
+            "Sri_Lanka": "ඉක්මන්; වේලාසන",
+            "Bangladesh": "দ্রুত; তাড়াতাড়ি; ভোরে",
+            "Indonesia": "cepat; awal",
+            "Thailand": "เร็ว; เช้า",
+            "Philippine": "mabilis; maaga",
+            "Malaysia": "cepat; awal",
+            "Taiwan": "快的；早的",
+            "Korea": "빠르다; 이르다",
+            "France": "rapide; tôt",
+            "German": "schnell; früh"
+          }
+        ],
+        "kanji": "早い・速い",
+        "type": "い-adjective",
+        "sentence": [
+          "はやい でんしゃに のります。",
+          "あさ はやく おきます。",
+          "かれは あるくのが はやいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_06",
+        "name": "おそい",
+        "pronounce": "osoi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "late; slow",
+            "chin": "晚的；慢的",
+            "Nepal": "ढिलो; सुस्त",
+            "Vietnam": "muộn; chậm",
+            "Myanmar": "နောက်ကျသော; နှေးသော",
+            "Sri_Lanka": "ප්‍රමාද; මන්දගාමී",
+            "Bangladesh": "দেরি; ধীর",
+            "Indonesia": "terlambat; lambat",
+            "Thailand": "สาย; ช้า",
+            "Philippine": "huli; mabagal",
+            "Malaysia": "lambat; lewat",
+            "Taiwan": "晚的；慢的",
+            "Korea": "늦다; 느리다",
+            "France": "tard; lent",
+            "German": "spät; langsam"
+          }
+        ],
+        "kanji": "遅い",
+        "type": "い-adjective",
+        "sentence": [
+          "でんしゃが おそいです。",
+          "あさ おきるのが おそいです。",
+          "かれは あるくのが おそいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_07",
+        "name": "おおい [ひと が～]",
+        "pronounce": "ooi [hito ga ~]",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "many; a lot of [people]",
+            "chin": "很多；许多[人]",
+            "Nepal": "धेरै; धेरै जना [मानिस]",
+            "Vietnam": "nhiều; đông [người]",
+            "Myanmar": "များသော; လူများသော",
+            "Sri_Lanka": "බොහෝ; බොහෝ දෙනෙක්",
+            "Bangladesh": "অনেক; প্রচুর [মানুষ]",
+            "Indonesia": "banyak; banyak orang",
+            "Thailand": "มาก; คนจำนวนมาก",
+            "Philippine": "marami; maraming tao",
+            "Malaysia": "banyak; ramai orang",
+            "Taiwan": "很多；許多[人]",
+            "Korea": "많다; 사람이 많다",
+            "France": "nombreux; beaucoup de [personnes]",
+            "German": "viele; viele [Menschen]"
+          }
+        ],
+        "kanji": "多い",
+        "type": "い-adjective",
+        "sentence": [
+          "ひとが おおいです。",
+          "とうきょうは ひとが おおいです。",
+          "この みせは ひとが おおいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_08",
+        "name": "すくない [ひと が～]",
+        "pronounce": "sukunai [hito ga ~]",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "few; not many [people]",
+            "chin": "少；不多[人]",
+            "Nepal": "थोरै; धेरै मानिस नभएको",
+            "Vietnam": "ít; không nhiều [người]",
+            "Myanmar": "နည်းသော; လူမများသော",
+            "Sri_Lanka": "ස්වල්ප; බොහෝ දෙනෙක් නොවන",
+            "Bangladesh": "কম; অল্প [মানুষ]",
+            "Indonesia": "sedikit; tidak banyak orang",
+            "Thailand": "น้อย; คนไม่มาก",
+            "Philippine": "kaunti; hindi maraming tao",
+            "Malaysia": "sedikit; tidak ramai orang",
+            "Taiwan": "少；不多[人]",
+            "Korea": "적다; 사람이 적다",
+            "France": "peu nombreux; peu de [personnes]",
+            "German": "wenige; nicht viele [Menschen]"
+          }
+        ],
+        "kanji": "少ない",
+        "type": "い-adjective",
+        "sentence": [
+          "ひとが すくないです。",
+          "この みせは ひとが すくないです。",
+          "きょうは でんしゃの ひとが すくないです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_09",
+        "name": "あたたかい",
+        "pronounce": "atatakai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "warm",
+            "chin": "温暖的；暖和的",
+            "Nepal": "न्यानो",
+            "Vietnam": "ấm; ấm áp",
+            "Myanmar": "နွေးသော",
+            "Sri_Lanka": "උණුසුම්",
+            "Bangladesh": "উষ্ণ; গরম",
+            "Indonesia": "hangat",
+            "Thailand": "อบอุ่น; อุ่น",
+            "Philippine": "mainit-init; maginhawa",
+            "Malaysia": "hangat",
+            "Taiwan": "溫暖的；暖和的",
+            "Korea": "따뜻하다",
+            "France": "chaud; chaleureux",
+            "German": "warm"
+          }
+        ],
+        "kanji": "暖かい",
+        "type": "い-adjective",
+        "sentence": [
+          "きょうは あたたかいです。",
+          "あたたかい おちゃを のみます。",
+          "この へやは あたたかいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_10",
+        "name": "すずしい",
+        "pronounce": "suzushii",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "cool; refreshing",
+            "chin": "凉爽的；清凉的",
+            "Nepal": "शीतल; चिसो",
+            "Vietnam": "mát; dễ chịu",
+            "Myanmar": "အေးမြသော; လန်းဆန်းသော",
+            "Sri_Lanka": "සිසිල්; ප්‍රසන්න",
+            "Bangladesh": "শীতল; ঠান্ডা ও আরামদায়ক",
+            "Indonesia": "sejuk; menyegarkan",
+            "Thailand": "เย็นสบาย; สดชื่น",
+            "Philippine": "malamig; presko",
+            "Malaysia": "sejuk; menyegarkan",
+            "Taiwan": "涼爽的；清涼的",
+            "Korea": "시원하다; 선선하다",
+            "France": "frais; rafraîchissant",
+            "German": "kühl; erfrischend"
+          }
+        ],
+        "kanji": "涼しい",
+        "type": "い-adjective",
+        "sentence": [
+          "きょうは すずしいです。",
+          "あさは すずしいです。",
+          "すずしい かぜが ふいています。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_11",
+        "name": "あまい",
+        "pronounce": "amai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "sweet",
+            "chin": "甜的",
+            "Nepal": "गुलियो",
+            "Vietnam": "ngọt",
+            "Myanmar": "ချိုသော",
+            "Sri_Lanka": "මිහිරි",
+            "Bangladesh": "মিষ্টি",
+            "Indonesia": "manis",
+            "Thailand": "หวาน",
+            "Philippine": "matamis",
+            "Malaysia": "manis",
+            "Taiwan": "甜的",
+            "Korea": "달다",
+            "France": "sucré",
+            "German": "süß"
+          }
+        ],
+        "kanji": "甘い",
+        "type": "い-adjective",
+        "sentence": [
+          "この りんごは あまいです。",
+          "あまい ケーキが すきです。",
+          "この コーヒーは あまいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_12",
+        "name": "からい",
+        "pronounce": "karai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "spicy; hot",
+            "chin": "辣的；辛辣的",
+            "Nepal": "पिरो",
+            "Vietnam": "cay",
+            "Myanmar": "စပ်သော",
+            "Sri_Lanka": "සැර",
+            "Bangladesh": "ঝাল",
+            "Indonesia": "pedas",
+            "Thailand": "เผ็ด",
+            "Philippine": "maanghang",
+            "Malaysia": "pedas",
+            "Taiwan": "辣的；辛辣的",
+            "Korea": "맵다",
+            "France": "épicé; piquant",
+            "German": "scharf; würzig"
+          }
+        ],
+        "kanji": "辛い",
+        "type": "い-adjective",
+        "sentence": [
+          "この カレーは からいです。",
+          "からい たべものが すきです。",
+          "この ラーメンは からいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_13",
+        "name": "おもい",
+        "pronounce": "omoi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "heavy",
+            "chin": "重的",
+            "Nepal": "भारी",
+            "Vietnam": "nặng",
+            "Myanmar": "လေးသော",
+            "Sri_Lanka": "බර",
+            "Bangladesh": "ভারী",
+            "Indonesia": "berat",
+            "Thailand": "หนัก",
+            "Philippine": "mabigat",
+            "Malaysia": "berat",
+            "Taiwan": "重的",
+            "Korea": "무겁다",
+            "France": "lourd",
+            "German": "schwer"
+          }
+        ],
+        "kanji": "重い",
+        "type": "い-adjective",
+        "sentence": [
+          "この かばんは おもいです。",
+          "おもい にもつを もちます。",
+          "この ほんは おもいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_14",
+        "name": "かるい",
+        "pronounce": "karui",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "light",
+            "chin": "轻的",
+            "Nepal": "हलुका",
+            "Vietnam": "nhẹ",
+            "Myanmar": "ပေါ့သော",
+            "Sri_Lanka": "සැහැල්ලු",
+            "Bangladesh": "হালকা",
+            "Indonesia": "ringan",
+            "Thailand": "เบา",
+            "Philippine": "magaan",
+            "Malaysia": "ringan",
+            "Taiwan": "輕的",
+            "Korea": "가볍다",
+            "France": "léger",
+            "German": "leicht"
+          }
+        ],
+        "kanji": "軽い",
+        "type": "い-adjective",
+        "sentence": [
+          "この かばんは かるいです。",
+          "かるい にもつを もちます。",
+          "この くつは かるいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_15",
+        "name": "いい [コーヒーが～]",
+        "pronounce": "ii [koohii ga ~]",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "good; tastes good [coffee]",
+            "chin": "好的；味道好[咖啡]",
+            "Nepal": "राम्रो; स्वादिष्ट [कफी]",
+            "Vietnam": "ngon; tốt [cà phê]",
+            "Myanmar": "ကောင်းသော; အရသာကောင်းသော [ကော်ဖီ]",
+            "Sri_Lanka": "හොඳ; රසවත් [කෝපි]",
+            "Bangladesh": "ভালো; সুস্বাদু [কফি]",
+            "Indonesia": "enak; baik [kopi]",
+            "Thailand": "ดี; อร่อย [กาแฟ]",
+            "Philippine": "mabuti; masarap [kape]",
+            "Malaysia": "baik; sedap [kopi]",
+            "Taiwan": "好的；味道好[咖啡]",
+            "Korea": "좋다; 맛이 좋다 [커피]",
+            "France": "bon; délicieux [café]",
+            "German": "gut; schmeckt gut [Kaffee]"
+          }
+        ],
+        "kanji": "いい [コーヒーが～]",
+        "type": "い-adjective",
+        "sentence": [
+          "この コーヒーは いいです。",
+          "いい コーヒーを のみます。",
+          "この コーヒーは あじが いいです。"
+        ],
+        "synonyms": "おいしい"
+      }, {
+        "id": "n5_l12_16",
+        "name": "きせつ",
+        "pronounce": "kisetsu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "season",
+            "chin": "季节",
+            "Nepal": "ऋतु; मौसम",
+            "Vietnam": "mùa",
+            "Myanmar": "ရာသီ",
+            "Sri_Lanka": "ඍතුව; කාලය",
+            "Bangladesh": "ঋতু; মৌসুম",
+            "Indonesia": "musim",
+            "Thailand": "ฤดู",
+            "Philippine": "panahon; season",
+            "Malaysia": "musim",
+            "Taiwan": "季節",
+            "Korea": "계절",
+            "France": "saison",
+            "German": "Jahreszeit; Saison"
+          }
+        ],
+        "kanji": "季節",
+        "type": "noun",
+        "sentence": [
+          "にほんには よっつの きせつが あります。",
+          "すきな きせつは はるです。",
+          "いまは あつい きせつです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_17",
+        "name": "はる",
+        "pronounce": "haru",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "spring",
+            "chin": "春天",
+            "Nepal": "वसन्त ऋतु",
+            "Vietnam": "mùa xuân",
+            "Myanmar": "နွေဦးရာသီ",
+            "Sri_Lanka": "වසන්ත ඍතුව",
+            "Bangladesh": "বসন্ত",
+            "Indonesia": "musim semi",
+            "Thailand": "ฤดูใบไม้ผลิ",
+            "Philippine": "tagsibol",
+            "Malaysia": "musim bunga",
+            "Taiwan": "春天",
+            "Korea": "봄",
+            "France": "printemps",
+            "German": "Frühling"
+          }
+        ],
+        "kanji": "春",
+        "type": "noun",
+        "sentence": [
+          "はるは あたたかいです。",
+          "はるに さくらが さきます。",
+          "はるが いちばん すきです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_18",
+        "name": "なつ",
+        "pronounce": "natsu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "summer",
+            "chin": "夏天",
+            "Nepal": "गर्मी; ग्रीष्म ऋतु",
+            "Vietnam": "mùa hè",
+            "Myanmar": "နွေရာသီ",
+            "Sri_Lanka": "ග්‍රීෂ්ම ඍතුව",
+            "Bangladesh": "গ্রীষ্ম; গরমকাল",
+            "Indonesia": "musim panas",
+            "Thailand": "ฤดูร้อน",
+            "Philippine": "tag-araw",
+            "Malaysia": "musim panas",
+            "Taiwan": "夏天",
+            "Korea": "여름",
+            "France": "été",
+            "German": "Sommer"
+          }
+        ],
+        "kanji": "夏",
+        "type": "noun",
+        "sentence": [
+          "なつは あついです。",
+          "なつに うみへ いきます。",
+          "なつが いちばん すきです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_19",
+        "name": "あき",
+        "pronounce": "aki",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "autumn; fall",
+            "chin": "秋天",
+            "Nepal": "शरद ऋतु",
+            "Vietnam": "mùa thu",
+            "Myanmar": "ဆောင်းဦးရာသီ",
+            "Sri_Lanka": "සරත් ඍතුව",
+            "Bangladesh": "শরৎ; হেমন্তকাল",
+            "Indonesia": "musim gugur",
+            "Thailand": "ฤดูใบไม้ร่วง",
+            "Philippine": "taglagas",
+            "Malaysia": "musim luruh",
+            "Taiwan": "秋天",
+            "Korea": "가을",
+            "France": "automne",
+            "German": "Herbst"
+          }
+        ],
+        "kanji": "秋",
+        "type": "noun",
+        "sentence": [
+          "あきは すずしいです。",
+          "あきに こうようを みます。",
+          "あきが いちばん すきです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_20",
+        "name": "ふゆ",
+        "pronounce": "fuyu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "winter",
+            "chin": "冬天",
+            "Nepal": "जाडो; हिउँद ऋतु",
+            "Vietnam": "mùa đông",
+            "Myanmar": "ဆောင်းရာသီ",
+            "Sri_Lanka": "ශීත ඍතුව",
+            "Bangladesh": "শীত; শীতকাল",
+            "Indonesia": "musim dingin",
+            "Thailand": "ฤดูหนาว",
+            "Philippine": "taglamig",
+            "Malaysia": "musim sejuk",
+            "Taiwan": "冬天",
+            "Korea": "겨울",
+            "France": "hiver",
+            "German": "Winter"
+          }
+        ],
+        "kanji": "冬",
+        "type": "noun",
+        "sentence": [
+          "ふゆは さむいです。",
+          "ふゆに ゆきが ふります。",
+          "ふゆが いちばん すきです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_21",
+        "name": "てんき",
+        "pronounce": "tenki",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "weather",
+            "chin": "天气",
+            "Nepal": "मौसम",
+            "Vietnam": "thời tiết",
+            "Myanmar": "ရာသီဥတု",
+            "Sri_Lanka": "කාලගුණය",
+            "Bangladesh": "আবহাওয়া",
+            "Indonesia": "cuaca",
+            "Thailand": "สภาพอากาศ",
+            "Philippine": "panahon; lagay ng panahon",
+            "Malaysia": "cuaca",
+            "Taiwan": "天氣",
+            "Korea": "날씨",
+            "France": "temps; météo",
+            "German": "Wetter"
+          }
+        ],
+        "kanji": "天気",
+        "type": "noun",
+        "sentence": [
+          "きょうは いい てんきです。",
+          "あしたの てんきは どうですか。",
+          "てんきが いいですから、さんぽします。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_22",
+        "name": "あめ",
+        "pronounce": "ame",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "rain",
+            "chin": "雨；下雨",
+            "Nepal": "वर्षा; पानी",
+            "Vietnam": "mưa",
+            "Myanmar": "မိုး",
+            "Sri_Lanka": "වැස්ස",
+            "Bangladesh": "বৃষ্টি",
+            "Indonesia": "hujan",
+            "Thailand": "ฝน",
+            "Philippine": "ulan",
+            "Malaysia": "hujan",
+            "Taiwan": "雨；下雨",
+            "Korea": "비",
+            "France": "pluie",
+            "German": "Regen"
+          }
+        ],
+        "kanji": "雨",
+        "type": "noun",
+        "sentence": [
+          "あめが ふっています。",
+          "きょうは あめです。",
+          "あめが ふりますから、かさを もちます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_23",
+        "name": "ゆき",
+        "pronounce": "yuki",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "snow",
+            "chin": "雪",
+            "Nepal": "हिउँ",
+            "Vietnam": "tuyết",
+            "Myanmar": "နှင်း",
+            "Sri_Lanka": "හිම",
+            "Bangladesh": "তুষার; বরফ",
+            "Indonesia": "salju",
+            "Thailand": "หิมะ",
+            "Philippine": "niyebe",
+            "Malaysia": "salji",
+            "Taiwan": "雪",
+            "Korea": "눈",
+            "France": "neige",
+            "German": "Schnee"
+          }
+        ],
+        "kanji": "雪",
+        "type": "noun",
+        "sentence": [
+          "ゆきが ふっています。",
+          "ふゆに ゆきが ふります。",
+          "ゆきが たくさん あります。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_24",
+        "name": "くもり",
+        "pronounce": "kumori",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "cloudy weather; cloudy",
+            "chin": "阴天；多云",
+            "Nepal": "बादल लागेको मौसम; बादली",
+            "Vietnam": "trời nhiều mây; nhiều mây",
+            "Myanmar": "မိုးအုံ့ခြင်း; တိမ်ထူသော",
+            "Sri_Lanka": "වලාකුළු සහිත කාලගුණය; වලාකුළු සහිත",
+            "Bangladesh": "মেঘলা আবহাওয়া; মেঘাচ্ছন্ন",
+            "Indonesia": "cuaca mendung; mendung",
+            "Thailand": "อากาศครึ้ม; มีเมฆมาก",
+            "Philippine": "maulap na panahon; maulap",
+            "Malaysia": "cuaca mendung; mendung",
+            "Taiwan": "陰天；多雲",
+            "Korea": "흐림; 흐린 날씨",
+            "France": "temps nuageux; nuageux",
+            "German": "bewölktes Wetter; bewölkt"
+          }
+        ],
+        "kanji": "曇り",
+        "type": "noun",
+        "sentence": [
+          "きょうは くもりです。",
+          "あしたは くもりでしょう。",
+          "くもりの ひは すずしいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_25",
+        "name": "ホテル",
+        "pronounce": "hoteru",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "hotel",
+            "chin": "酒店；宾馆",
+            "Nepal": "होटल",
+            "Vietnam": "khách sạn",
+            "Myanmar": "ဟိုတယ်",
+            "Sri_Lanka": "හෝටලය",
+            "Bangladesh": "হোটেল",
+            "Indonesia": "hotel",
+            "Thailand": "โรงแรม",
+            "Philippine": "hotel",
+            "Malaysia": "hotel",
+            "Taiwan": "飯店；旅館",
+            "Korea": "호텔",
+            "France": "hôtel",
+            "German": "Hotel"
+          }
+        ],
+        "kanji": "",
+        "type": "noun",
+        "sentence": [
+          "ホテルに とまります。",
+          "この ホテルは きれいです。",
+          "ホテルの へやは おおきいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_26",
+        "name": "くうこう",
+        "pronounce": "kuukou",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "airport",
+            "chin": "机场",
+            "Nepal": "विमानस्थल",
+            "Vietnam": "sân bay",
+            "Myanmar": "လေဆိပ်",
+            "Sri_Lanka": "ගුවන් තොටුපළ",
+            "Bangladesh": "বিমানবন্দর",
+            "Indonesia": "bandara",
+            "Thailand": "สนามบิน",
+            "Philippine": "paliparan",
+            "Malaysia": "lapangan terbang",
+            "Taiwan": "機場",
+            "Korea": "공항",
+            "France": "aéroport",
+            "German": "Flughafen"
+          }
+        ],
+        "kanji": "空港",
+        "type": "noun",
+        "sentence": [
+          "くうこうへ いきます。",
+          "くうこうで ともだちを まちます。",
+          "くうこうは えきから とおいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_27",
+        "name": "うみ",
+        "pronounce": "umi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "sea; ocean",
+            "chin": "海；大海",
+            "Nepal": "समुद्र",
+            "Vietnam": "biển",
+            "Myanmar": "ပင်လယ်",
+            "Sri_Lanka": "මුහුද",
+            "Bangladesh": "সমুদ্র",
+            "Indonesia": "laut",
+            "Thailand": "ทะเล",
+            "Philippine": "dagat",
+            "Malaysia": "laut",
+            "Taiwan": "海；大海",
+            "Korea": "바다",
+            "France": "mer; océan",
+            "German": "Meer; Ozean"
+          }
+        ],
+        "kanji": "海",
+        "type": "noun",
+        "sentence": [
+          "うみへ いきます。",
+          "うみで およぎます。",
+          "なつに うみへ いきたいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_28",
+        "name": "せかい",
+        "pronounce": "sekai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "world",
+            "chin": "世界",
+            "Nepal": "संसार; विश्व",
+            "Vietnam": "thế giới",
+            "Myanmar": "ကမ္ဘာ",
+            "Sri_Lanka": "ලෝකය",
+            "Bangladesh": "বিশ্ব; পৃথিবী",
+            "Indonesia": "dunia",
+            "Thailand": "โลก",
+            "Philippine": "mundo",
+            "Malaysia": "dunia",
+            "Taiwan": "世界",
+            "Korea": "세계",
+            "France": "monde",
+            "German": "Welt"
+          }
+        ],
+        "kanji": "世界",
+        "type": "noun",
+        "sentence": [
+          "せかいは ひろいです。",
+          "せかいの くにを りょこうしたいです。",
+          "せかいには たくさんの くにが あります。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_29",
+        "name": "パーティー",
+        "pronounce": "paatii",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "party",
+            "chin": "聚会；派对",
+            "Nepal": "पार्टी; भोज",
+            "Vietnam": "bữa tiệc; tiệc",
+            "Myanmar": "ပါတီပွဲ; ဧည့်ခံပွဲ",
+            "Sri_Lanka": "සාදය; සාදයක්",
+            "Bangladesh": "পার্টি; অনুষ্ঠান",
+            "Indonesia": "pesta",
+            "Thailand": "งานเลี้ยง; ปาร์ตี้",
+            "Philippine": "pista; salu-salo",
+            "Malaysia": "pesta",
+            "Taiwan": "聚會；派對",
+            "Korea": "파티",
+            "France": "fête; soirée",
+            "German": "Party; Feier"
+          }
+        ],
+        "kanji": "",
+        "type": "noun",
+        "sentence": [
+          "あした パーティーが あります。",
+          "パーティーに ともだちを よびます。",
+          "パーティーで たくさん たべます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_30",
+        "name": "[ お ] まつり",
+        "pronounce": "o matsuri",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "festival; traditional festival",
+            "chin": "节日；祭典",
+            "Nepal": "चाडपर्व; उत्सव",
+            "Vietnam": "lễ hội",
+            "Myanmar": "ပွဲတော်; ရိုးရာပွဲတော်",
+            "Sri_Lanka": "උත්සවය; පෙරහැර",
+            "Bangladesh": "উৎসব; মেলা",
+            "Indonesia": "festival; perayaan",
+            "Thailand": "เทศกาล; งานเทศกาล",
+            "Philippine": "pista; pagdiriwang",
+            "Malaysia": "perayaan; pesta",
+            "Taiwan": "節日；祭典",
+            "Korea": "축제; 마쓰리",
+            "France": "festival; fête traditionnelle",
+            "German": "Fest; Festival"
+          }
+        ],
+        "kanji": "お祭り",
+        "type": "noun",
+        "sentence": [
+          "おまつりが あります。",
+          "おまつりに いきます。",
+          "おまつりで たこやきを たべます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_31",
+        "name": "しけん",
+        "pronounce": "shiken",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "exam; examination; test",
+            "chin": "考试；测验",
+            "Nepal": "परीक्षा",
+            "Vietnam": "kỳ thi; bài kiểm tra",
+            "Myanmar": "စာမေးပွဲ; စမ်းသပ်မှု",
+            "Sri_Lanka": "විභාගය; පරීක්ෂණය",
+            "Bangladesh": "পরীক্ষা; পরীক্ষা-নিরীক্ষা",
+            "Indonesia": "ujian; tes",
+            "Thailand": "การสอบ; การทดสอบ",
+            "Philippine": "pagsusulit; eksaminasyon",
+            "Malaysia": "peperiksaan; ujian",
+            "Taiwan": "考試；測驗",
+            "Korea": "시험",
+            "France": "examen; épreuve",
+            "German": "Prüfung; Test"
+          }
+        ],
+        "kanji": "試験",
+        "type": "noun",
+        "sentence": [
+          "あした しけんが あります。",
+          "しけんの まえに べんきょうします。",
+          "しけんは むずかしかったです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_32",
+        "name": "すきやき",
+        "pronounce": "sukiyaki",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "sukiyaki; Japanese hot pot dish",
+            "chin": "寿喜烧；日式火锅",
+            "Nepal": "सुकीयाकी; जापानी तातो भाँडाको परिकार",
+            "Vietnam": "sukiyaki; lẩu Nhật Bản",
+            "Myanmar": "ဆူကီယာကီ; ဂျပန်စတိုင် ဟော့ပေါ့",
+            "Sri_Lanka": "සුකියාකි; ජපන් උණු බඳුන් ආහාරයක්",
+            "Bangladesh": "সুকিয়াকি; জাপানি হট পট খাবার",
+            "Indonesia": "sukiyaki; hidangan hot pot Jepang",
+            "Thailand": "สุกี้ยากี้; อาหารหม้อไฟญี่ปุ่น",
+            "Philippine": "sukiyaki; pagkaing hot pot ng Japan",
+            "Malaysia": "sukiyaki; hidangan hot pot Jepun",
+            "Taiwan": "壽喜燒；日式火鍋",
+            "Korea": "스키야키; 일본식 전골 요리",
+            "France": "sukiyaki; fondue japonaise",
+            "German": "Sukiyaki; japanisches Eintopfgericht"
+          }
+        ],
+        "kanji": "すき焼き",
+        "type": "noun",
+        "sentence": [
+          "すきやきを たべます。",
+          "きょう すきやきを つくります。",
+          "すきやきは おいしいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_33",
+        "name": "さしみ",
+        "pronounce": "sashimi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "sashimi; raw fish dish",
+            "chin": "生鱼片",
+            "Nepal": "साशिमी; काँचो माछाको परिकार",
+            "Vietnam": "sashimi; món cá sống",
+            "Myanmar": "ဆာရှီမီ; ငါးစိမ်းအစားအစာ",
+            "Sri_Lanka": "සෂිමි; අමු මාළු ආහාරයක්",
+            "Bangladesh": "সাশিমি; কাঁচা মাছের খাবার",
+            "Indonesia": "sashimi; hidangan ikan mentah",
+            "Thailand": "ซาชิมิ; อาหารปลาดิบ",
+            "Philippine": "sashimi; pagkaing hilaw na isda",
+            "Malaysia": "sashimi; hidangan ikan mentah",
+            "Taiwan": "生魚片",
+            "Korea": "사시미; 생선회",
+            "France": "sashimi; poisson cru",
+            "German": "Sashimi; roher Fisch"
+          }
+        ],
+        "kanji": "刺身",
+        "type": "noun",
+        "sentence": [
+          "さしみを たべます。",
+          "さしみは おいしいです。",
+          "レストランで さしみを たべました。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_34",
+        "name": "[ お ] すし",
+        "pronounce": "o sushi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "sushi",
+            "chin": "寿司",
+            "Nepal": "सुशी",
+            "Vietnam": "sushi",
+            "Myanmar": "ဆူရှီ",
+            "Sri_Lanka": "සුෂි",
+            "Bangladesh": "সুশি",
+            "Indonesia": "sushi",
+            "Thailand": "ซูชิ",
+            "Philippine": "sushi",
+            "Malaysia": "sushi",
+            "Taiwan": "壽司",
+            "Korea": "초밥; 스시",
+            "France": "sushi",
+            "German": "Sushi"
+          }
+        ],
+        "kanji": "お寿司",
+        "type": "noun",
+        "sentence": [
+          "おすしを たべます。",
+          "おすしが すきです。",
+          "レストランで おすしを たべました。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l12_35",
+        "name": "てんぷら",
+        "pronounce": "tenpura",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "tempura; deep-fried Japanese dish",
+            "chin": "天妇罗；日式炸物",
+            "Nepal": "टेम्पुरा; जापानी तारेर पकाइएको परिकार",
+            "Vietnam": "tempura; món chiên kiểu Nhật",
+            "Myanmar": "တင်ပူရာ; ဂျပန်စတိုင် ကြော်ထားသောအစားအစာ",
+            "Sri_Lanka": "ටෙම්පුරා; ජපන් විදිහට බැදපු ආහාරයක්",
+            "Bangladesh": "টেম্পুরা; জাপানি ভাজা খাবার",
+            "Indonesia": "tempura; hidangan goreng Jepang",
+            "Thailand": "เทมปุระ; อาหารทอดแบบญี่ปุ่น",
+            "Philippine": "tempura; pagkaing prito ng Japan",
+            "Malaysia": "tempura; hidangan goreng Jepun",
+            "Taiwan": "天婦羅；日式炸物",
+            "Korea": "튀김; 덴푸라",
+            "France": "tempura; beignet japonais",
+            "German": "Tempura; japanisches Frittiergericht"
+          }
+        ],
+        "kanji": "天ぷら",
+        "type": "noun",
+        "sentence": [
+          "てんぷらを たべます。",
+          "てんぷらが すきです。",
+          "レストランで てんぷらを たべました。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_36",
+        "name": "いけばな",
+        "pronounce": "ikebana",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "ikebana; Japanese flower arrangement",
+            "chin": "插花；日本花道",
+            "Nepal": "इकेबाना; जापानी फूल सजाउने कला",
+            "Vietnam": "ikebana; nghệ thuật cắm hoa Nhật Bản",
+            "Myanmar": "အိကေဘနာ; ဂျပန်ပန်းအလှဆင်အနုပညာ",
+            "Sri_Lanka": "ඉකෙබනා; ජපන් මල් සැකසීමේ කලාව",
+            "Bangladesh": "ইকেবানা; জাপানি ফুল সাজানোর শিল্প",
+            "Indonesia": "ikebana; seni merangkai bunga Jepang",
+            "Thailand": "อิเคบานะ; ศิลปะการจัดดอกไม้ญี่ปุ่น",
+            "Philippine": "ikebana; sining ng pag-aayos ng bulaklak sa Japan",
+            "Malaysia": "ikebana; seni gubahan bunga Jepun",
+            "Taiwan": "插花；日本花道",
+            "Korea": "이케바나; 일본 꽃꽂이",
+            "France": "ikebana; art floral japonais",
+            "German": "Ikebana; japanische Blumensteckkunst"
+          }
+        ],
+        "kanji": "生け花",
+        "type": "noun",
+        "sentence": [
+          "いけばなを します。",
+          "いけばなが すきです。",
+          "いけばなを ならいます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_37",
+        "name": "もみじ",
+        "pronounce": "momiji",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "autumn leaves; maple leaves",
+            "chin": "红叶；枫叶",
+            "Nepal": "शरद ऋतुका पात; मेपलका पात",
+            "Vietnam": "lá mùa thu; lá phong",
+            "Myanmar": "ဆောင်းဦးရွက်များ; မေပယ်ရွက်",
+            "Sri_Lanka": "සරත් කාලයේ කොළ; මේපල් කොළ",
+            "Bangladesh": "শরতের পাতা; ম্যাপল পাতা",
+            "Indonesia": "daun musim gugur; daun maple",
+            "Thailand": "ใบไม้เปลี่ยนสี; ใบเมเปิล",
+            "Philippine": "mga dahon sa taglagas; dahon ng maple",
+            "Malaysia": "daun musim luruh; daun maple",
+            "Taiwan": "紅葉；楓葉",
+            "Korea": "단풍; 단풍잎",
+            "France": "feuilles d'automne; feuilles d'érable",
+            "German": "Herbstlaub; Ahornblätter"
+          }
+        ],
+        "kanji": "紅葉",
+        "type": "noun",
+        "sentence": [
+          "あきは もみじが きれいです。",
+          "もみじを みに いきます。",
+          "こうえんの もみじは あかいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_38",
+        "name": "どちら",
+        "pronounce": "dochira",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "which; which one; where (polite)",
+            "chin": "哪个；哪一个；哪里（礼貌）",
+            "Nepal": "कुन; कुनचाहिँ; कहाँ (विनम्र)",
+            "Vietnam": "cái nào; bên nào; ở đâu (lịch sự)",
+            "Myanmar": "ဘယ်ဟာ; ဘယ်ဘက်; ဘယ်နေရာ (ယဉ်ကျေးသောအသုံး)",
+            "Sri_Lanka": "කොයි එකද; කුමන පැත්තද; කොහෙද (ආචාරශීලී)",
+            "Bangladesh": "কোনটি; কোন দিক; কোথায় (ভদ্রভাবে)",
+            "Indonesia": "yang mana; sebelah mana; di mana (sopan)",
+            "Thailand": "อันไหน; ทางไหน; ที่ไหน (สุภาพ)",
+            "Philippine": "alin; saang panig; saan (magalang)",
+            "Malaysia": "yang mana; sebelah mana; di mana (sopan)",
+            "Taiwan": "哪個；哪一個；哪裡（禮貌）",
+            "Korea": "어느 것; 어느 쪽; 어디 (공손한 표현)",
+            "France": "lequel; lequel des deux; où (poli)",
+            "German": "welches; welche Seite; wo (höflich)"
+          }
+        ],
+        "kanji": "どちら",
+        "type": "question",
+        "sentence": [
+          "どちらが すきですか。",
+          "おなまえは どちらですか。",
+          "どちらへ いきますか。"
+        ],
+        "synonyms": "どっち"
+      }, {
+        "id": "n5_l12_39",
+        "name": "どちらも",
+        "pronounce": "dochira mo",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "both; both of them",
+            "chin": "两者都；两个都",
+            "Nepal": "दुवै; दुवैवटा",
+            "Vietnam": "cả hai; cả hai đều",
+            "Myanmar": "နှစ်ခုလုံး; နှစ်ဖက်လုံး",
+            "Sri_Lanka": "දෙකම; දෙකමත්",
+            "Bangladesh": "দুটিই; উভয়ই",
+            "Indonesia": "keduanya; kedua-duanya",
+            "Thailand": "ทั้งสอง; ทั้งคู่",
+            "Philippine": "pareho; kapwa",
+            "Malaysia": "kedua-duanya; kedua-duanya juga",
+            "Taiwan": "兩個都；兩者都",
+            "Korea": "둘 다; 양쪽 다",
+            "France": "les deux; tous les deux",
+            "German": "beide; beide von ihnen"
+          }
+        ],
+        "kanji": "どちらも",
+        "type": "expression",
+        "sentence": [
+          "どちらも すきです。",
+          "りんごと みかんと、どちらも おいしいです。",
+          "どちらも いいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_40",
+        "name": "ずっと",
+        "pronounce": "zutto",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "all the time; continuously; much more",
+            "chin": "一直；始终；更加",
+            "Nepal": "सधैं; निरन्तर; धेरै बढी",
+            "Vietnam": "suốt; liên tục; hơn nhiều",
+            "Myanmar": "တစ်လျှောက်လုံး; အဆက်မပြတ်; အများကြီးပို",
+            "Sri_Lanka": "දිගටම; අඛණ්ඩව; වඩා බොහෝ",
+            "Bangladesh": "সবসময়; একটানা; অনেক বেশি",
+            "Indonesia": "terus-menerus; sepanjang waktu; jauh lebih",
+            "Thailand": "ตลอดเวลา; อย่างต่อเนื่อง; มากกว่าอย่างมาก",
+            "Philippine": "palagi; tuloy-tuloy; mas higit",
+            "Malaysia": "sentiasa; berterusan; jauh lebih",
+            "Taiwan": "一直；始終；更加",
+            "Korea": "계속; 줄곧; 훨씬",
+            "France": "tout le temps; continuellement; beaucoup plus",
+            "German": "die ganze Zeit; ständig; viel mehr"
+          }
+        ],
+        "kanji": "ずっと",
+        "type": "adverb",
+        "sentence": [
+          "ずっと ここに います。",
+          "きのうから ずっと あめです。",
+          "これの ほうが ずっと おおきいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_41",
+        "name": "はじめて",
+        "pronounce": "hajimete",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "for the first time",
+            "chin": "第一次；初次",
+            "Nepal": "पहिलो पटक",
+            "Vietnam": "lần đầu tiên",
+            "Myanmar": "ပထမဆုံးအကြိမ်",
+            "Sri_Lanka": "පළමු වරට",
+            "Bangladesh": "প্রথমবার",
+            "Indonesia": "untuk pertama kali",
+            "Thailand": "เป็นครั้งแรก",
+            "Philippine": "sa unang pagkakataon",
+            "Malaysia": "buat kali pertama",
+            "Taiwan": "第一次；初次",
+            "Korea": "처음으로; 처음",
+            "France": "pour la première fois",
+            "German": "zum ersten Mal"
+          }
+        ],
+        "kanji": "初めて",
+        "type": "adverb",
+        "sentence": [
+          "はじめて にほんへ いきます。",
+          "きょう はじめて すしを たべました。",
+          "はじめて ひこうきに のりました。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_42",
+        "name": "ただいま",
+        "pronounce": "tadaima",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "I'm home; I'm back",
+            "chin": "我回来了",
+            "Nepal": "म घर आएँ; म फर्किएँ",
+            "Vietnam": "tôi về rồi; tôi đã về",
+            "Myanmar": "ကျွန်တော်/ကျွန်မ ပြန်ရောက်ပြီ",
+            "Sri_Lanka": "මම ආවා; මම ආපහු ආවා",
+            "Bangladesh": "আমি ফিরে এসেছি; আমি বাড়ি এসেছি",
+            "Indonesia": "saya pulang; saya sudah kembali",
+            "Thailand": "ฉันกลับมาแล้ว; กลับมาแล้ว",
+            "Philippine": "nakauwi na ako; nakabalik na ako",
+            "Malaysia": "saya dah balik; saya sudah pulang",
+            "Taiwan": "我回來了",
+            "Korea": "다녀왔습니다; 돌아왔어요",
+            "France": "je suis rentré(e); me voilà de retour",
+            "German": "Ich bin wieder da; Ich bin zurück"
+          }
+        ],
+        "kanji": "ただいま",
+        "type": "expression",
+        "sentence": [
+          "ただいま。",
+          "ただいま。きょうは つかれました。",
+          "ただいま。おなかが すきました。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l12_43",
+        "name": "おかえりなさい",
+        "pronounce": "okaerinasai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "welcome home; welcome back",
+            "chin": "欢迎回来；欢迎回家",
+            "Nepal": "घर फर्किनुभएकोमा स्वागत छ",
+            "Vietnam": "mừng bạn về nhà; chào mừng bạn trở lại",
+            "Myanmar": "ပြန်လာတာကို ကြိုဆိုပါတယ်",
+            "Sri_Lanka": "ආපසු පැමිණි ඔබ සාදරයෙන් පිළිගනිමු",
+            "Bangladesh": "ফিরে আসার জন্য স্বাগতম; বাড়িতে ফিরে আসায় স্বাগতম",
+            "Indonesia": "selamat datang kembali; selamat pulang",
+            "Thailand": "ยินดีต้อนรับกลับบ้าน; ยินดีต้อนรับกลับมา",
+            "Philippine": "maligayang pagbalik; maligayang pag-uwi",
+            "Malaysia": "selamat kembali; selamat pulang",
+            "Taiwan": "歡迎回來；歡迎回家",
+            "Korea": "어서 오세요; 다녀오셨어요",
+            "France": "bon retour; bienvenue à la maison",
+            "German": "Willkommen zurück; Willkommen zu Hause"
+          }
+        ],
+        "kanji": "お帰りなさい",
+        "type": "expression",
+        "sentence": [
+          "おかえりなさい。",
+          "おかえりなさい。きょうは どうでしたか。",
+          "おかえりなさい。ごはんが できました。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_44",
+        "name": "すごいですね",
+        "pronounce": "sugoi desu ne",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "That's amazing; That's great",
+            "chin": "真厉害；真棒",
+            "Nepal": "अचम्मको छ; धेरै राम्रो छ",
+            "Vietnam": "tuyệt quá; giỏi quá",
+            "Myanmar": "အရမ်းကောင်းတယ်; အံ့သြစရာကောင်းတယ်",
+            "Sri_Lanka": "නියමයි; හරිම විශිෂ්ටයි",
+            "Bangladesh": "দারুণ তো; অসাধারণ তো",
+            "Indonesia": "hebat ya; luar biasa",
+            "Thailand": "สุดยอดเลย; เยี่ยมมาก",
+            "Philippine": "ang galing naman; kahanga-hanga",
+            "Malaysia": "hebatnya; bagusnya",
+            "Taiwan": "真厲害；真棒",
+            "Korea": "대단하네요; 정말 멋지네요",
+            "France": "c'est incroyable; c'est super",
+            "German": "Das ist erstaunlich; Das ist großartig"
+          }
+        ],
+        "kanji": "すごいですね",
+        "type": "expression",
+        "sentence": [
+          "にほんごが じょうずですね。すごいですね。",
+          "この くるまは おおきいですね。すごいですね。",
+          "きょう ひとりで りょうりを しました。すごいですね。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_45",
+        "name": "でも",
+        "pronounce": "demo",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "but; however",
+            "chin": "但是；可是",
+            "Nepal": "तर; तर पनि",
+            "Vietnam": "nhưng; tuy nhiên",
+            "Myanmar": "ဒါပေမယ့်; သို့သော်",
+            "Sri_Lanka": "නමුත්; එහෙත්",
+            "Bangladesh": "কিন্তু; তবে",
+            "Indonesia": "tetapi; namun",
+            "Thailand": "แต่; อย่างไรก็ตาม",
+            "Philippine": "pero; gayunpaman",
+            "Malaysia": "tetapi; namun",
+            "Taiwan": "但是；可是",
+            "Korea": "하지만; 그러나",
+            "France": "mais; cependant",
+            "German": "aber; jedoch"
+          }
+        ],
+        "kanji": "",
+        "type": "conjunction",
+        "sentence": [
+          "この りんごは おいしいです。でも、たかいです。",
+          "にほんごは むずかしいです。でも、おもしろいです。",
+          "きょうは いそがしいです。でも、べんきょうします。"
+        ],
+        "synonyms": "しかし"
+      }, {
+        "id": "n5_l12_46",
+        "name": "つかれました",
+        "pronounce": "tsukaremashita",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "I am tired; I got tired",
+            "chin": "累了；感到疲倦了",
+            "Nepal": "म थाकें; थकाइ लाग्यो",
+            "Vietnam": "tôi mệt; đã mệt",
+            "Myanmar": "ပင်ပန်းသွားပြီ; ပင်ပန်းပါတယ်",
+            "Sri_Lanka": "මට මහන්සියි; මම වෙහෙසුණා",
+            "Bangladesh": "আমি ক্লান্ত; ক্লান্ত হয়ে গেছি",
+            "Indonesia": "saya lelah; sudah lelah",
+            "Thailand": "เหนื่อยแล้ว; ฉันเหนื่อย",
+            "Philippine": "pagod na ako; napagod ako",
+            "Malaysia": "saya penat; sudah penat",
+            "Taiwan": "累了；感到疲倦了",
+            "Korea": "피곤해요; 피곤했습니다",
+            "France": "je suis fatigué(e); je me suis fatigué(e)",
+            "German": "Ich bin müde; Ich bin erschöpft"
+          }
+        ],
+        "kanji": "疲れました",
+        "type": "verb",
+        "sentence": [
+          "きょうは つかれました。",
+          "たくさん あるいて、つかれました。",
+          "しごとの あとで つかれました。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_47",
+        "name": "ぎおんまつり",
+        "pronounce": "Gion matsuri",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "Gion Festival",
+            "chin": "祇园祭",
+            "Nepal": "गिओन उत्सव",
+            "Vietnam": "Lễ hội Gion",
+            "Myanmar": "ဂိအွန်ပွဲတော်",
+            "Sri_Lanka": "ගියොන් උත්සවය",
+            "Bangladesh": "গিয়ন উৎসব",
+            "Indonesia": "Festival Gion",
+            "Thailand": "เทศกาลกิออน",
+            "Philippine": "Pista ng Gion",
+            "Malaysia": "Perayaan Gion",
+            "Taiwan": "祇園祭",
+            "Korea": "기온 마쓰리; 기온 축제",
+            "France": "festival de Gion",
+            "German": "Gion-Fest"
+          }
+        ],
+        "kanji": "祇園祭",
+        "type": "noun",
+        "sentence": [
+          "ぎおんまつりは きょうとで あります。",
+          "ぎおんまつりを みに いきたいです。",
+          "ぎおんまつりは ゆうめいな おまつりです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_48",
+        "name": "ホンコン",
+        "pronounce": "Honkon",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "Hong Kong",
+            "chin": "香港",
+            "Nepal": "हङकङ",
+            "Vietnam": "Hồng Kông",
+            "Myanmar": "ဟောင်ကောင်",
+            "Sri_Lanka": "හොංකොං",
+            "Bangladesh": "হংকং",
+            "Indonesia": "Hong Kong",
+            "Thailand": "ฮ่องกง",
+            "Philippine": "Hong Kong",
+            "Malaysia": "Hong Kong",
+            "Taiwan": "香港",
+            "Korea": "홍콩",
+            "France": "Hong Kong",
+            "German": "Hongkong"
+          }
+        ],
+        "kanji": "香港",
+        "type": "place",
+        "sentence": [
+          "ホンコンへ いきます。",
+          "ホンコンは おおきい まちです。",
+          "ホンコンで しゃしんを とりました。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l12_49",
+        "name": "シンガポール",
+        "pronounce": "Shingapōru",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "Singapore",
+            "chin": "新加坡",
+            "Nepal": "सिङ्गापुर",
+            "Vietnam": "Singapore",
+            "Myanmar": "စင်္ကာပူ",
+            "Sri_Lanka": "සිංගප්පූරුව",
+            "Bangladesh": "সিঙ্গাপুর",
+            "Indonesia": "Singapura",
+            "Thailand": "สิงคโปร์",
+            "Philippine": "Singapore",
+            "Malaysia": "Singapura",
+            "Taiwan": "新加坡",
+            "Korea": "싱가포르",
+            "France": "Singapour",
+            "German": "Singapur"
+          }
+        ],
+        "kanji": "シンガポール",
+        "type": "country",
+        "sentence": [
+          "シンガポールへ いきます。",
+          "シンガポールは あたたかい くにです。",
+          "シンガポールで しゃしんを とりました。"
+        ],
+        "synonyms": ""
+      },
 
 
 
@@ -20331,807 +20331,2734 @@ const NFiveVocab = [
     lesson: '13',
     id: 'n5_l13',
     all_vocab: [
+      {
+        "id": "n5_l13_01",
+        "name": "あそびます",
+        "pronounce": "asobimasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "play; have fun",
+            "chin": "玩；游玩",
+            "Nepal": "खेल्नु; रमाइलो गर्नु",
+            "Vietnam": "chơi; vui chơi",
+            "Myanmar": "ကစားသည်; ပျော်ပါးသည်",
+            "Sri_Lanka": "සෙල්ලම් කරනවා; විනෝද වෙනවා",
+            "Bangladesh": "খেলা করা; আনন্দ করা",
+            "Indonesia": "bermain; bersenang-senang",
+            "Thailand": "เล่น; สนุก",
+            "Philippine": "maglaro; magsaya",
+            "Malaysia": "bermain; berseronok",
+            "Taiwan": "玩；遊玩",
+            "Korea": "놀다; 즐기다",
+            "France": "jouer; s'amuser",
+            "German": "spielen; Spaß haben"
+          }
+        ],
+        "kanji": "遊びます",
+        "type": "verb",
+        "sentence": [
+          "ともだちと あそびます。",
+          "こどもが こうえんで あそびます。",
+          "にちようびに いっしょに あそびませんか。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_02",
+        "name": "およぎます",
+        "pronounce": "oyogimasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "swim",
+            "chin": "游泳",
+            "Nepal": "पौडिनु",
+            "Vietnam": "bơi",
+            "Myanmar": "ရေကူးသည်",
+            "Sri_Lanka": "පිහිනනවා",
+            "Bangladesh": "সাঁতার কাটা",
+            "Indonesia": "berenang",
+            "Thailand": "ว่ายน้ำ",
+            "Philippine": "lumangoy",
+            "Malaysia": "berenang",
+            "Taiwan": "游泳",
+            "Korea": "수영하다",
+            "France": "nager",
+            "German": "schwimmen"
+          }
+        ],
+        "kanji": "泳ぎます",
+        "type": "verb",
+        "sentence": [
+          "うみで およぎます。",
+          "プールで およぎます。",
+          "なつに みんなで およぎます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_03",
+        "name": "むかえます",
+        "pronounce": "mukaemasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "go to meet; pick up; welcome",
+            "chin": "迎接；去接；迎来",
+            "Nepal": "लिन जानु; स्वागत गर्नु",
+            "Vietnam": "đón; đi đón; tiếp đón",
+            "Myanmar": "ကြိုသည်; သွားကြိုသည်; လက်ခံကြိုဆိုသည်",
+            "Sri_Lanka": "පිළිගන්නවා; කැඳවාගෙන එනවා",
+            "Bangladesh": "অভ্যর্থনা করা; কাউকে নিতে যাওয়া",
+            "Indonesia": "menjemput; menyambut",
+            "Thailand": "ไปรับ; ต้อนรับ",
+            "Philippine": "sunduin; salubungin",
+            "Malaysia": "menjemput; menyambut",
+            "Taiwan": "迎接；去接；迎來",
+            "Korea": "마중 나가다; 맞이하다",
+            "France": "aller chercher; accueillir",
+            "German": "abholen; empfangen"
+          }
+        ],
+        "kanji": "迎えます",
+        "type": "verb",
+        "sentence": [
+          "えきへ ともだちを むかえます。",
+          "くうこうへ ちちを むかえに いきます。",
+          "らいしゅう せんせいを むかえます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_04",
+        "name": "つかれます",
+        "pronounce": "tsukaremasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "get tired; become tired",
+            "chin": "疲劳；变累",
+            "Nepal": "थाक्नु; थकित हुनु",
+            "Vietnam": "mệt; trở nên mệt",
+            "Myanmar": "ပင်ပန်းသည်; မောပန်းလာသည်",
+            "Sri_Lanka": "මහන්සි වෙනවා; වෙහෙසට පත් වෙනවා",
+            "Bangladesh": "ক্লান্ত হওয়া; পরিশ্রান্ত হওয়া",
+            "Indonesia": "menjadi lelah; merasa lelah",
+            "Thailand": "เหนื่อย; รู้สึกเหนื่อย",
+            "Philippine": "mapagod; mapagod na",
+            "Malaysia": "menjadi penat; berasa penat",
+            "Taiwan": "感到疲倦；變累",
+            "Korea": "피곤해지다; 지치다",
+            "France": "se fatiguer; devenir fatigué",
+            "German": "müde werden; erschöpft werden"
+          }
+        ],
+        "kanji": "疲れます",
+        "type": "verb",
+        "sentence": [
+          "たくさん あるくと、つかれます。",
+          "しごとを すると、つかれます。",
+          "べんきょうを しすぎると、つかれます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_05",
+        "name": "だします",
+        "pronounce": "dashimasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "take out; put out; submit; send",
+            "chin": "拿出；提交；寄出",
+            "Nepal": "निकाल्नु; बुझाउनु; पठाउनु",
+            "Vietnam": "lấy ra; nộp; gửi",
+            "Myanmar": "ထုတ်သည်; တင်ပြသည်; ပို့သည်",
+            "Sri_Lanka": "එළියට ගන්නවා; ඉදිරිපත් කරනවා; යවනවා",
+            "Bangladesh": "বের করা; জমা দেওয়া; পাঠানো",
+            "Indonesia": "mengeluarkan; menyerahkan; mengirim",
+            "Thailand": "นำออก; ส่ง; ยื่น",
+            "Philippine": "ilabas; isumite; ipadala",
+            "Malaysia": "mengeluarkan; menyerahkan; menghantar",
+            "Taiwan": "拿出；提交；寄出",
+            "Korea": "꺼내다; 제출하다; 보내다",
+            "France": "sortir; soumettre; envoyer",
+            "German": "herausnehmen; einreichen; schicken"
+          }
+        ],
+        "kanji": "出します",
+        "type": "verb",
+        "sentence": [
+          "かばんから ほんを だします。",
+          "しゅくだいを せんせいに だします。",
+          "てがみを だします。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_06",
+        "name": "はいります",
+        "pronounce": "hairimasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "enter; go into; join",
+            "chin": "进入；加入",
+            "Nepal": "भित्र पस्नु; प्रवेश गर्नु; सामेल हुनु",
+            "Vietnam": "vào; đi vào; tham gia",
+            "Myanmar": "ဝင်သည်; ဝင်ရောက်သည်; ပါဝင်သည်",
+            "Sri_Lanka": "ඇතුල් වෙනවා; සම්බන්ධ වෙනවා",
+            "Bangladesh": "প্রবেশ করা; ভেতরে যাওয়া; যোগ দেওয়া",
+            "Indonesia": "masuk; bergabung",
+            "Thailand": "เข้า; เข้าร่วม",
+            "Philippine": "pumasok; sumali",
+            "Malaysia": "masuk; menyertai",
+            "Taiwan": "進入；加入",
+            "Korea": "들어가다; 가입하다",
+            "France": "entrer; rejoindre",
+            "German": "eintreten; hineingehen; beitreten"
+          }
+        ],
+        "kanji": "入ります",
+        "type": "verb",
+        "sentence": [
+          "へやに はいります。",
+          "でんしゃに はいります。",
+          "ぎんこうに はいります。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_07",
+        "name": "でます",
+        "pronounce": "demasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "leave; go out; exit",
+            "chin": "出去；离开；出场",
+            "Nepal": "बाहिर निस्कनु; छोड्नु",
+            "Vietnam": "ra; rời khỏi; đi ra",
+            "Myanmar": "ထွက်သည်; ထွက်ခွာသည်",
+            "Sri_Lanka": "පිට වෙනවා; පිටව යනවා",
+            "Bangladesh": "বের হওয়া; ছেড়ে যাওয়া",
+            "Indonesia": "keluar; meninggalkan",
+            "Thailand": "ออก; ออกจาก",
+            "Philippine": "lumabas; umalis",
+            "Malaysia": "keluar; meninggalkan",
+            "Taiwan": "出去；離開",
+            "Korea": "나가다; 나오다",
+            "France": "sortir; partir",
+            "German": "hinausgehen; verlassen"
+          }
+        ],
+        "kanji": "出ます",
+        "type": "verb",
+        "sentence": [
+          "へやを でます。",
+          "うちを 8じに でます。",
+          "でんしゃを でます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_08",
+        "name": "けっこんします",
+        "pronounce": "kekkon shimasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "get married; marry",
+            "chin": "结婚",
+            "Nepal": "विवाह गर्नु; बिहे गर्नु",
+            "Vietnam": "kết hôn; cưới",
+            "Myanmar": "လက်ထပ်သည်; အိမ်ထောင်ပြုသည်",
+            "Sri_Lanka": "විවාහ වෙනවා; කසාද බඳිනවා",
+            "Bangladesh": "বিয়ে করা; বিবাহ করা",
+            "Indonesia": "menikah; kawin",
+            "Thailand": "แต่งงาน; สมรส",
+            "Philippine": "magpakasal; mag-asawa",
+            "Malaysia": "berkahwin; berkahwin dengan",
+            "Taiwan": "結婚",
+            "Korea": "결혼하다",
+            "France": "se marier; épouser",
+            "German": "heiraten; sich verheiraten"
+          }
+        ],
+        "kanji": "結婚します",
+        "type": "verb",
+        "sentence": [
+          "らいねん けっこんします。",
+          "あねは けっこんします。",
+          "ともだちは らいげつ けっこんします。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_09",
+        "name": "かいものします",
+        "pronounce": "kaimono shimasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "go shopping; shop",
+            "chin": "购物；买东西",
+            "Nepal": "किनमेल गर्नु; सामान किन्नु",
+            "Vietnam": "mua sắm; đi mua sắm",
+            "Myanmar": "ဈေးဝယ်သည်; ပစ္စည်းဝယ်သည်",
+            "Sri_Lanka": "සාප්පු සවාරි යනවා; බඩු මිලදී ගන්නවා",
+            "Bangladesh": "কেনাকাটা করা; বাজার করা",
+            "Indonesia": "berbelanja; pergi berbelanja",
+            "Thailand": "ซื้อของ; ไปช้อปปิ้ง",
+            "Philippine": "mamili; mag-shopping",
+            "Malaysia": "membeli-belah; pergi membeli-belah",
+            "Taiwan": "購物；買東西",
+            "Korea": "쇼핑하다; 물건을 사다",
+            "France": "faire des achats; faire du shopping",
+            "German": "einkaufen; shoppen"
+          }
+        ],
+        "kanji": "買い物します",
+        "type": "verb",
+        "sentence": [
+          "デパートで かいものします。",
+          "にちようびに かいものします。",
+          "ともだちと かいものします。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_10",
+        "name": "しょくじします",
+        "pronounce": "shokuji shimasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "have a meal; eat a meal",
+            "chin": "用餐；吃饭",
+            "Nepal": "भोजन गर्नु; खाना खानु",
+            "Vietnam": "dùng bữa; ăn cơm",
+            "Myanmar": "အစားအစာစားသည်; ထမင်းစားသည်",
+            "Sri_Lanka": "ආහාර ගන්නවා; කෑම කනවා",
+            "Bangladesh": "খাওয়া; খাবার খাওয়া",
+            "Indonesia": "makan; bersantap",
+            "Thailand": "รับประทานอาหาร; กินข้าว",
+            "Philippine": "kumain; magsalo-salo",
+            "Malaysia": "makan; menjamu selera",
+            "Taiwan": "用餐；吃飯",
+            "Korea": "식사하다; 식사를 하다",
+            "France": "prendre un repas; manger",
+            "German": "eine Mahlzeit einnehmen; essen"
+          }
+        ],
+        "kanji": "食事します",
+        "type": "verb",
+        "sentence": [
+          "レストランで しょくじします。",
+          "かぞくと しょくじします。",
+          "7じに しょくじします。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_11",
+        "name": "さんぽします",
+        "pronounce": "sanpo shimasu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "take a walk; go for a walk",
+            "chin": "散步；去散步",
+            "Nepal": "हिँडडुल गर्नु; घुम्न जानु",
+            "Vietnam": "đi dạo; đi bộ",
+            "Myanmar": "လမ်းလျှောက်သည်; လမ်းလျှောက်ထွက်သည်",
+            "Sri_Lanka": "ඇවිදින්න යනවා; පා ගමනක් යනවා",
+            "Bangladesh": "হাঁটতে যাওয়া; বেড়াতে হাঁটা",
+            "Indonesia": "berjalan-jalan; pergi berjalan kaki",
+            "Thailand": "เดินเล่น; ไปเดินเล่น",
+            "Philippine": "mamasyal; maglakad-lakad",
+            "Malaysia": "berjalan-jalan; pergi berjalan kaki",
+            "Taiwan": "散步；去散步",
+            "Korea": "산책하다; 산책을 하다",
+            "France": "se promener; faire une promenade",
+            "German": "spazieren gehen; einen Spaziergang machen"
+          }
+        ],
+        "kanji": "散歩します",
+        "type": "verb",
+        "sentence": [
+          "こうえんで さんぽします。",
+          "まいあさ さんぽします。",
+          "いぬと いっしょに さんぽします。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_12",
+        "name": "たいへん [ な ]",
+        "pronounce": "taihen [ na ]",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "hard; difficult; tough",
+            "chin": "辛苦的；困难的",
+            "Nepal": "गाह्रो; कठिन",
+            "Vietnam": "vất vả; khó khăn",
+            "Myanmar": "ခက်ခဲသော; ပင်ပန်းသော",
+            "Sri_Lanka": "අමාරු; දුෂ්කර",
+            "Bangladesh": "কঠিন; কষ্টকর",
+            "Indonesia": "sulit; berat",
+            "Thailand": "ยาก; ลำบาก",
+            "Philippine": "mahirap; mabigat",
+            "Malaysia": "susah; sukar",
+            "Taiwan": "辛苦的；困難的",
+            "Korea": "힘든; 어려운",
+            "France": "difficile; pénible",
+            "German": "schwierig; anstrengend"
+          }
+        ],
+        "kanji": "大変 [な]",
+        "type": "な-adjective",
+        "sentence": [
+          "しごとは たいへんです。",
+          "にほんごの べんきょうは たいへんです。",
+          "きょうは たいへんな ひです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_13",
+        "name": "ほしい",
+        "pronounce": "hoshii",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "want; desire",
+            "chin": "想要；希望得到",
+            "Nepal": "चाहनु; चाहिएको",
+            "Vietnam": "muốn; mong muốn",
+            "Myanmar": "လိုချင်သည်; အလိုရှိသည်",
+            "Sri_Lanka": "ඕනෑ; අවශ්‍යයි",
+            "Bangladesh": "চাই; পেতে চাই",
+            "Indonesia": "ingin; mau",
+            "Thailand": "อยากได้; ต้องการ",
+            "Philippine": "gusto; nais",
+            "Malaysia": "mahu; ingin",
+            "Taiwan": "想要；希望得到",
+            "Korea": "원하다; 갖고 싶다",
+            "France": "vouloir; désirer",
+            "German": "wollen; haben wollen"
+          }
+        ],
+        "kanji": "欲しい",
+        "type": "い-adjective",
+        "sentence": [
+          "あたらしい くるまが ほしいです。",
+          "みずが ほしいです。",
+          "にほんの ほんが ほしいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_14",
+        "name": "さびしい",
+        "pronounce": "sabishii",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "lonely; lonely-feeling",
+            "chin": "寂寞的；孤独的",
+            "Nepal": "एक्लो; एक्लोपन महसुस गर्ने",
+            "Vietnam": "cô đơn; buồn vì cô đơn",
+            "Myanmar": "အထီးကျန်သော; အထီးကျန်မှုခံစားရသော",
+            "Sri_Lanka": "හුදකලා; තනිකම දැනෙන",
+            "Bangladesh": "একাকী; নিঃসঙ্গ",
+            "Indonesia": "kesepian; merasa sepi",
+            "Thailand": "เหงา; รู้สึกโดดเดี่ยว",
+            "Philippine": "malungkot; nakakaramdam ng kalungkutan",
+            "Malaysia": "sunyi; kesunyian",
+            "Taiwan": "寂寞的；孤單的",
+            "Korea": "외로운; 쓸쓸한",
+            "France": "seul; solitaire",
+            "German": "einsam; traurig"
+          }
+        ],
+        "kanji": "寂しい",
+        "type": "い-adjective",
+        "sentence": [
+          "ひとりで いると さびしいです。",
+          "ともだちが いないので、さびしいです。",
+          "かぞくに あえなくて さびしいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_15",
+        "name": "ひろい",
+        "pronounce": "hiroi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "wide; spacious; large",
+            "chin": "宽的；宽敞的；大的",
+            "Nepal": "फराकिलो; विशाल",
+            "Vietnam": "rộng; rộng rãi; lớn",
+            "Myanmar": "ကျယ်သော; ကျယ်ဝန်းသော",
+            "Sri_Lanka": "පුළුල්; ඉඩකඩ ඇති",
+            "Bangladesh": "প্রশস্ত; চওড়া; বড়",
+            "Indonesia": "luas; lapang",
+            "Thailand": "กว้าง; กว้างขวาง",
+            "Philippine": "malawak; maluwang",
+            "Malaysia": "luas; lapang",
+            "Taiwan": "寬的；寬敞的；大的",
+            "Korea": "넓은; 광대한",
+            "France": "large; spacieux",
+            "German": "weit; geräumig"
+          }
+        ],
+        "kanji": "広い",
+        "type": "い-adjective",
+        "sentence": [
+          "この へやは ひろいです。",
+          "ひろい こうえんで あそびます。",
+          "わたしの うちは ひろいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_16",
+        "name": "せまい",
+        "pronounce": "semai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "narrow; small; cramped",
+            "chin": "狭的；狭窄的；拥挤的",
+            "Nepal": "साँघुरो; सानो",
+            "Vietnam": "hẹp; chật",
+            "Myanmar": "ကျဉ်းသော; နေရာကျဉ်းသော",
+            "Sri_Lanka": "පටු; ඉඩ අඩු",
+            "Bangladesh": "সরু; সংকীর্ণ; ছোট",
+            "Indonesia": "sempit; kecil",
+            "Thailand": "แคบ; คับแคบ",
+            "Philippine": "makitid; masikip",
+            "Malaysia": "sempit; kecil",
+            "Taiwan": "狹的；狹窄的；擁擠的",
+            "Korea": "좁은; 비좁은",
+            "France": "étroit; exigu",
+            "German": "eng; schmal"
+          }
+        ],
+        "kanji": "狭い",
+        "type": "い-adjective",
+        "sentence": [
+          "この へやは せまいです。",
+          "せまい みちを あるきます。",
+          "わたしの へやは せまいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_17",
+        "name": "しやくしょ",
+        "pronounce": "shiyakusho",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "city hall; municipal office",
+            "chin": "市政府；市役所",
+            "Nepal": "नगरपालिका कार्यालय; सहरको कार्यालय",
+            "Vietnam": "tòa thị chính; văn phòng thành phố",
+            "Myanmar": "မြို့တော်ရုံး; မြူနီစီပယ်ရုံး",
+            "Sri_Lanka": "නගර සභා කාර්යාලය; මහ නගර කාර්යාලය",
+            "Bangladesh": "সিটি হল; পৌরসভা কার্যালয়",
+            "Indonesia": "balai kota; kantor pemerintahan kota",
+            "Thailand": "ศาลาว่าการเมือง; สำนักงานเทศบาล",
+            "Philippine": "city hall; tanggapan ng lungsod",
+            "Malaysia": "dewan bandaraya; pejabat perbandaran",
+            "Taiwan": "市政府；市役所",
+            "Korea": "시청; 시청사",
+            "France": "mairie; hôtel de ville",
+            "German": "Rathaus; Stadtverwaltung"
+          }
+        ],
+        "kanji": "市役所",
+        "type": "noun",
+        "sentence": [
+          "しやくしょへ いきます。",
+          "しやくしょで しごとを します。",
+          "しやくしょは えきの ちかくです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_18",
+        "name": "プール",
+        "pronounce": "puuru",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "swimming pool; pool",
+            "chin": "游泳池",
+            "Nepal": "स्विमिङ पुल; पौडी पोखरी",
+            "Vietnam": "hồ bơi; bể bơi",
+            "Myanmar": "ရေကူးကန်",
+            "Sri_Lanka": "පිහිනුම් තටාකය",
+            "Bangladesh": "সুইমিং পুল; সাঁতারের পুকুর",
+            "Indonesia": "kolam renang",
+            "Thailand": "สระว่ายน้ำ",
+            "Philippine": "swimming pool; palanguyan",
+            "Malaysia": "kolam renang",
+            "Taiwan": "游泳池",
+            "Korea": "수영장",
+            "France": "piscine",
+            "German": "Schwimmbad; Pool"
+          }
+        ],
+        "kanji": "",
+        "type": "noun",
+        "sentence": [
+          "プールで およぎます。",
+          "あつい ひに プールへ いきます。",
+          "プールに たくさん ひとが います。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_19",
+        "name": "かわ",
+        "pronounce": "kawa",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "river",
+            "chin": "河；河流",
+            "Nepal": "नदी",
+            "Vietnam": "sông",
+            "Myanmar": "မြစ်",
+            "Sri_Lanka": "ගඟ",
+            "Bangladesh": "নদী",
+            "Indonesia": "sungai",
+            "Thailand": "แม่น้ำ",
+            "Philippine": "ilog",
+            "Malaysia": "sungai",
+            "Taiwan": "河；河流",
+            "Korea": "강; 하천",
+            "France": "rivière; fleuve",
+            "German": "Fluss"
+          }
+        ],
+        "kanji": "川",
+        "type": "noun",
+        "sentence": [
+          "かわで およぎます。",
+          "この かわは きれいです。",
+          "かわの ちかくを あるきます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_20",
+        "name": "けいざい",
+        "pronounce": "keizai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "economy; economics",
+            "chin": "经济；经济学",
+            "Nepal": "अर्थतन्त्र; अर्थशास्त्र",
+            "Vietnam": "kinh tế; nền kinh tế",
+            "Myanmar": "စီးပွားရေး; စီးပွားရေးပညာ",
+            "Sri_Lanka": "ආර්ථිකය; ආර්ථික විද්‍යාව",
+            "Bangladesh": "অর্থনীতি; অর্থনৈতিক ব্যবস্থা",
+            "Indonesia": "ekonomi; ilmu ekonomi",
+            "Thailand": "เศรษฐกิจ; เศรษฐศาสตร์",
+            "Philippine": "ekonomiya; ekonomiks",
+            "Malaysia": "ekonomi; ilmu ekonomi",
+            "Taiwan": "經濟；經濟學",
+            "Korea": "경제; 경제학",
+            "France": "économie; économie politique",
+            "German": "Wirtschaft; Volkswirtschaft"
+          }
+        ],
+        "kanji": "経済",
+        "type": "noun",
+        "sentence": [
+          "けいざいを べんきょうします。",
+          "にほんの けいざいについて はなします。",
+          "けいざいは むずかしいです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_21",
+        "name": "びじゅつ",
+        "pronounce": "bijutsu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "art; fine arts",
+            "chin": "美术；艺术",
+            "Nepal": "ललितकला; कला",
+            "Vietnam": "mỹ thuật; nghệ thuật",
+            "Myanmar": "အနုပညာ; ပန်းချီအနုပညာ",
+            "Sri_Lanka": "කලාව; ලලිත කලාව",
+            "Bangladesh": "চারুকলা; শিল্পকলা",
+            "Indonesia": "seni; seni rupa",
+            "Thailand": "ศิลปะ; วิจิตรศิลป์",
+            "Philippine": "sining; fine arts",
+            "Malaysia": "seni; seni halus",
+            "Taiwan": "美術；藝術",
+            "Korea": "미술; 예술",
+            "France": "art; beaux-arts",
+            "German": "Kunst; bildende Kunst"
+          }
+        ],
+        "kanji": "美術",
+        "type": "noun",
+        "sentence": [
+          "びじゅつが すきです。",
+          "びじゅつを べんきょうします。",
+          "きょう びじゅつかんへ いきます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_22",
+        "name": "つり",
+        "pronounce": "tsuri",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "fishing",
+            "chin": "钓鱼",
+            "Nepal": "माछा मार्ने काम; माछा मार्नु",
+            "Vietnam": "câu cá",
+            "Myanmar": "ငါးမျှားခြင်း",
+            "Sri_Lanka": "මාළු ඇල්ලීම",
+            "Bangladesh": "মাছ ধরা; মাছ শিকার",
+            "Indonesia": "memancing",
+            "Thailand": "ตกปลา",
+            "Philippine": "pangingisda; pangingisda gamit ang pamalo",
+            "Malaysia": "memancing",
+            "Taiwan": "釣魚",
+            "Korea": "낚시",
+            "France": "pêche à la ligne",
+            "German": "Angeln"
+          }
+        ],
+        "kanji": "釣り",
+        "type": "noun",
+        "sentence": [
+          "つりが すきです。",
+          "かわで つりを します。",
+          "ちちと つりに いきます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_23",
+        "name": "スキー",
+        "pronounce": "sukii",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "skiing; ski",
+            "chin": "滑雪；滑雪运动",
+            "Nepal": "स्की; स्की खेल",
+            "Vietnam": "trượt tuyết; môn trượt tuyết",
+            "Myanmar": "စကီးစီးခြင်း; စကီးအားကစား",
+            "Sri_Lanka": "ස්කී ක්‍රීඩාව; හිම මත ලිස්සා යාම",
+            "Bangladesh": "স্কি করা; স্কিইং",
+            "Indonesia": "ski; bermain ski",
+            "Thailand": "สกี; เล่นสกี",
+            "Philippine": "skiing; pag-i-ski",
+            "Malaysia": "ski; bermain ski",
+            "Taiwan": "滑雪；滑雪運動",
+            "Korea": "스키; 스키 타기",
+            "France": "ski; ski alpin",
+            "German": "Skifahren; Ski"
+          }
+        ],
+        "kanji": "",
+        "type": "noun",
+        "sentence": [
+          "スキーが すきです。",
+          "ふゆに スキーを します。",
+          "スキーを しに ほっかいどうへ いきます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_24",
+        "name": "かいぎ",
+        "pronounce": "kaigi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "meeting; conference",
+            "chin": "会议",
+            "Nepal": "बैठक; सम्मेलन",
+            "Vietnam": "cuộc họp; hội nghị",
+            "Myanmar": "အစည်းအဝေး; ဆွေးနွေးပွဲ",
+            "Sri_Lanka": "රැස්වීම; සම්මන්ත්‍රණය",
+            "Bangladesh": "সভা; মিটিং",
+            "Indonesia": "rapat; pertemuan",
+            "Thailand": "การประชุม; ที่ประชุม",
+            "Philippine": "pagpupulong; pulong",
+            "Malaysia": "mesyuarat; pertemuan",
+            "Taiwan": "會議",
+            "Korea": "회의; 모임",
+            "France": "réunion; conférence",
+            "German": "Besprechung; Konferenz"
+          }
+        ],
+        "kanji": "会議",
+        "type": "noun",
+        "sentence": [
+          "10じから かいぎが あります。",
+          "かいぎに でます。",
+          "かいぎは 3じに おわります。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_25",
+        "name": "とうろく",
+        "pronounce": "touroku",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "registration; registering",
+            "chin": "登记；注册",
+            "Nepal": "दर्ता; पञ्जीकरण",
+            "Vietnam": "đăng ký; đăng ký thông tin",
+            "Myanmar": "မှတ်ပုံတင်ခြင်း; စာရင်းသွင်းခြင်း",
+            "Sri_Lanka": "ලියාපදිංචිය; ලියාපදිංචි කිරීම",
+            "Bangladesh": "নিবন্ধন; রেজিস্ট্রেশন",
+            "Indonesia": "pendaftaran; mendaftarkan",
+            "Thailand": "การลงทะเบียน; การสมัคร",
+            "Philippine": "pagpaparehistro; pagpaparehistro ng pangalan",
+            "Malaysia": "pendaftaran; mendaftar",
+            "Taiwan": "登記；註冊",
+            "Korea": "등록; 등록하기",
+            "France": "inscription; enregistrement",
+            "German": "Anmeldung; Registrierung"
+          }
+        ],
+        "kanji": "登録",
+        "type": "noun",
+        "sentence": [
+          "ホテルを とうろくします。",
+          "なまえを とうろくします。",
+          "インターネットで とうろくします。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_26",
+        "name": "しゅうまつ",
+        "pronounce": "shuumatsu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "weekend",
+            "chin": "周末",
+            "Nepal": "सप्ताहन्त",
+            "Vietnam": "cuối tuần",
+            "Myanmar": "သီတင်းပတ်ကုန်",
+            "Sri_Lanka": "සති අන්තය",
+            "Bangladesh": "সপ্তাহান্ত",
+            "Indonesia": "akhir pekan",
+            "Thailand": "สุดสัปดาห์",
+            "Philippine": "katapusan ng linggo",
+            "Malaysia": "hujung minggu",
+            "Taiwan": "週末",
+            "Korea": "주말",
+            "France": "week-end",
+            "German": "Wochenende"
+          }
+        ],
+        "kanji": "週末",
+        "type": "noun",
+        "sentence": [
+          "しゅうまつに ともだちと でかけます。",
+          "しゅうまつは うちで やすみます。",
+          "しゅうまつに えいがを みます。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_27",
+        "name": "～ごろ",
+        "pronounce": "~goro",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "about; around (time)",
+            "chin": "大约；左右（时间）",
+            "Nepal": "लगभग; वरिपरि (समय)",
+            "Vietnam": "khoảng; vào khoảng (thời gian)",
+            "Myanmar": "ခန့်; ဝန်းကျင် (အချိန်)",
+            "Sri_Lanka": "පමණ; ආසන්න වශයෙන් (වේලාව)",
+            "Bangladesh": "প্রায়; আনুমানিক (সময়)",
+            "Indonesia": "sekitar; kira-kira (waktu)",
+            "Thailand": "ประมาณ; ราวๆ (เวลา)",
+            "Philippine": "mga; bandang (oras)",
+            "Malaysia": "kira-kira; sekitar (masa)",
+            "Taiwan": "大約；左右（時間）",
+            "Korea": "쯤; 경 (시간)",
+            "France": "vers; environ (heure)",
+            "German": "gegen; ungefähr (Zeit)"
+          }
+        ],
+        "kanji": "頃",
+        "type": "suffix",
+        "sentence": [
+          "7じごろ おきます。",
+          "10じごろ ねます。",
+          "しゅうまつの ごご3じごろ でかけます。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_28",
+        "name": "なにか",
+        "pronounce": "nanika",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "something; anything",
+            "chin": "某事；什么",
+            "Nepal": "केही कुरा; केही",
+            "Vietnam": "cái gì đó; thứ gì đó",
+            "Myanmar": "တစ်ခုခု",
+            "Sri_Lanka": "යමක්; කිසියම් දෙයක්",
+            "Bangladesh": "কিছু; কোনো কিছু",
+            "Indonesia": "sesuatu; apa saja",
+            "Thailand": "บางสิ่ง; อะไรสักอย่าง",
+            "Philippine": "isang bagay; anuman",
+            "Malaysia": "sesuatu; apa-apa",
+            "Taiwan": "某件事；什麼",
+            "Korea": "무언가; 무엇인가",
+            "France": "quelque chose",
+            "German": "etwas"
+          }
+        ],
+        "kanji": "何か",
+        "type": "pronoun",
+        "sentence": [
+          "なにか たべますか。",
+          "なにか のみますか。",
+          "なにか ほしいですか。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_29",
+        "name": "どこか",
+        "pronounce": "dokoka",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "somewhere; anywhere",
+            "chin": "某处；哪里",
+            "Nepal": "कतै; कुनै ठाउँमा",
+            "Vietnam": "đâu đó; nơi nào đó",
+            "Myanmar": "တစ်နေရာရာ",
+            "Sri_Lanka": "කොහේ හෝ; යම් ස්ථානයක",
+            "Bangladesh": "কোথাও; কোনো এক জায়গায়",
+            "Indonesia": "di suatu tempat; ke mana saja",
+            "Thailand": "ที่ไหนสักแห่ง; ที่ไหนก็ได้",
+            "Philippine": "saanman; kahit saan",
+            "Malaysia": "di suatu tempat; ke mana-mana",
+            "Taiwan": "某處；哪裡",
+            "Korea": "어딘가; 어디인가",
+            "France": "quelque part; n'importe où",
+            "German": "irgendwo; irgendwohin"
+          }
+        ],
+        "kanji": "どこか",
+        "type": "pronoun",
+        "sentence": [
+          "どこかへ いきます。",
+          "どこかで ひるごはんを たべます。",
+          "どこか いい ところが ありますか。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_30",
+        "name": "おなかが すきました",
+        "pronounce": "onaka ga sukimashita",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "I am hungry; my stomach is empty",
+            "chin": "我饿了；肚子饿了",
+            "Nepal": "मलाई भोक लाग्यो",
+            "Vietnam": "Tôi đói rồi",
+            "Myanmar": "ဗိုက်ဆာပြီ",
+            "Sri_Lanka": "මට බඩගිනියි",
+            "Bangladesh": "আমার ক্ষুধা লেগেছে",
+            "Indonesia": "saya lapar",
+            "Thailand": "ฉันหิวแล้ว",
+            "Philippine": "gutom na ako",
+            "Malaysia": "saya lapar",
+            "Taiwan": "我餓了；肚子餓了",
+            "Korea": "배가 고파요",
+            "France": "j'ai faim",
+            "German": "ich habe Hunger"
+          }
+        ],
+        "kanji": "お腹が 空きました",
+        "type": "expression",
+        "sentence": [
+          "おなかが すきました。なにか たべましょう。",
+          "おなかが すきましたから、レストランへ いきます。",
+          "もう 12じです。おなかが すきました。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_31",
+        "name": "おなかが いっぱいです",
+        "pronounce": "onaka ga ippai desu",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "I am full; my stomach is full",
+            "chin": "我吃饱了；肚子饱了",
+            "Nepal": "मेरो पेट भरिएको छ",
+            "Vietnam": "Tôi no rồi",
+            "Myanmar": "ဗိုက်ပြည့်နေပြီ",
+            "Sri_Lanka": "මට බඩ පිරිලා",
+            "Bangladesh": "আমার পেট ভরে গেছে",
+            "Indonesia": "saya kenyang",
+            "Thailand": "ฉันอิ่มแล้ว",
+            "Philippine": "busog na ako",
+            "Malaysia": "saya kenyang",
+            "Taiwan": "我吃飽了；肚子飽了",
+            "Korea": "배가 불러요",
+            "France": "j'ai le ventre plein; je n'ai plus faim",
+            "German": "ich bin satt"
+          }
+        ],
+        "kanji": "お腹が いっぱいです",
+        "type": "expression",
+        "sentence": [
+          "おなかが いっぱいです。もう たべません。",
+          "たくさん たべましたから、おなかが いっぱいです。",
+          "おなかが いっぱいですから、ケーキは いりません。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_32",
+        "name": "のどが かわきました",
+        "pronounce": "nodo ga kawakimashita",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "I am thirsty; my throat is dry",
+            "chin": "我渴了；嗓子干了",
+            "Nepal": "मलाई तिर्खा लाग्यो",
+            "Vietnam": "Tôi khát nước",
+            "Myanmar": "ရေငတ်ပြီ",
+            "Sri_Lanka": "මට පිපාසයි",
+            "Bangladesh": "আমার তৃষ্ণা লেগেছে",
+            "Indonesia": "saya haus",
+            "Thailand": "ฉันกระหายน้ำ",
+            "Philippine": "uhaw ako",
+            "Malaysia": "saya dahaga",
+            "Taiwan": "我渴了；喉嚨乾了",
+            "Korea": "목이 말라요",
+            "France": "j'ai soif",
+            "German": "ich habe Durst"
+          }
+        ],
+        "kanji": "喉が 渇きました",
+        "type": "expression",
+        "sentence": [
+          "のどが かわきました。みずを のみます。",
+          "たくさん あるきましたから、のどが かわきました。",
+          "のどが かわきましたから、なにか のみたいです。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_33",
+        "name": "そうですね。",
+        "pronounce": "sou desu ne",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "That's right; I agree; I think so",
+            "chin": "是啊；对；我也这么认为",
+            "Nepal": "हो नि; त्यस्तै हो",
+            "Vietnam": "Đúng vậy; tôi cũng nghĩ vậy",
+            "Myanmar": "ဟုတ်တယ်နော်; အဲဒီလိုပဲ",
+            "Sri_Lanka": "ඔව්; එහෙම තමයි",
+            "Bangladesh": "হ্যাঁ, ঠিক বলেছেন; তাই তো",
+            "Indonesia": "ya, benar; saya setuju",
+            "Thailand": "ใช่ครับ/ค่ะ; ก็จริงนะ",
+            "Philippine": "oo, tama; ganoon nga",
+            "Malaysia": "ya, betul; saya setuju",
+            "Taiwan": "是啊；對；我也這麼認為",
+            "Korea": "그렇네요; 맞아요",
+            "France": "oui, c'est vrai; je suis d'accord",
+            "German": "ja, genau; das stimmt"
+          }
+        ],
+        "kanji": "",
+        "type": "expression",
+        "sentence": [
+          "A: きょうは あついですね。 B: そうですね。",
+          "A: にほんごは むずかしいですね。 B: そうですね。",
+          "A: あした ひまですか。 B: そうですね。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_34",
+        "name": "そう しましょう。",
+        "pronounce": "sou shimashou",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "Let's do that; let's do so",
+            "chin": "就这么做吧；那就这样吧",
+            "Nepal": "त्यसै गरौँ",
+            "Vietnam": "Hãy làm như vậy; vậy thì làm thế nhé",
+            "Myanmar": "အဲဒီလို လုပ်ကြရအောင်",
+            "Sri_Lanka": "එහෙම කරමු",
+            "Bangladesh": "তাই করি; এভাবেই করি",
+            "Indonesia": "mari kita lakukan itu",
+            "Thailand": "ทำอย่างนั้นกันเถอะ",
+            "Philippine": "gawin natin iyon",
+            "Malaysia": "mari kita buat begitu",
+            "Taiwan": "就這麼做吧；那就這樣吧",
+            "Korea": "그렇게 합시다",
+            "France": "faisons comme ça",
+            "German": "machen wir das so"
+          }
+        ],
+        "kanji": "",
+        "type": "expression",
+        "sentence": [
+          "A: いっしょに ひるごはんを たべませんか。 B: そうしましょう。",
+          "A: 7じに あいませんか。 B: そうしましょう。",
+          "A: らいしゅう えいがを みませんか。 B: そうしましょう。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_35",
+        "name": "ごちゅうもんは？",
+        "pronounce": "gochuumon wa",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "What would you like to order?",
+            "chin": "您要点什么？",
+            "Nepal": "तपाईं के अर्डर गर्नुहुन्छ?",
+            "Vietnam": "Quý khách gọi món gì ạ?",
+            "Myanmar": "ဘာမှာယူမလဲ။",
+            "Sri_Lanka": "ඔබ ඇණවුම් කරන්නේ මොනවාද?",
+            "Bangladesh": "আপনি কী অর্ডার করবেন?",
+            "Indonesia": "Anda mau memesan apa?",
+            "Thailand": "จะสั่งอะไรครับ/คะ",
+            "Philippine": "Ano po ang o-order ninyo?",
+            "Malaysia": "Apa yang ingin anda pesan?",
+            "Taiwan": "您要點什麼？",
+            "Korea": "주문은 무엇으로 하시겠어요?",
+            "France": "Qu'est-ce que vous désirez commander ?",
+            "German": "Was möchten Sie bestellen?"
+          }
+        ],
+        "kanji": "ご注文は？",
+        "type": "expression",
+        "sentence": [
+          "てんいん：ごちゅうもんは？",
+          "ごちゅうもんは？ コーヒーです。",
+          "てんいん：ごちゅうもんは？ おきゃく：ラーメンを おねがいします。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_36",
+        "name": "ていしょく",
+        "pronounce": "teishoku",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "set meal; fixed meal",
+            "chin": "套餐；定食",
+            "Nepal": "सेट खाना; निश्चित खाना",
+            "Vietnam": "suất ăn theo phần; cơm phần",
+            "Myanmar": "အစုံစားပွဲ; သတ်မှတ်ထားသော အစားအစာ",
+            "Sri_Lanka": "නියමිත ආහාර වේල; සෙට් ආහාර වේල",
+            "Bangladesh": "সেট মেনু; নির্দিষ্ট খাবারের সেট",
+            "Indonesia": "menu set; makanan set",
+            "Thailand": "อาหารชุด; ชุดอาหาร",
+            "Philippine": "set meal; nakatakdang pagkain",
+            "Malaysia": "hidangan set; makanan set",
+            "Taiwan": "套餐；定食",
+            "Korea": "정식; 세트 메뉴",
+            "France": "menu fixe; repas complet",
+            "German": "Menü; festgelegtes Menü"
+          }
+        ],
+        "kanji": "定食",
+        "type": "noun",
+        "sentence": [
+          "レストランで ていしょくを たべます。",
+          "この ていしょくは おいしいです。",
+          "ひるごはんに ていしょくを たべました。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_37",
+        "name": "ぎゅうどん",
+        "pronounce": "gyuudon",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "beef bowl; beef rice bowl",
+            "chin": "牛肉盖饭",
+            "Nepal": "गाईको मासुको भात",
+            "Vietnam": "cơm thịt bò",
+            "Myanmar": "အမဲသားထမင်း",
+            "Sri_Lanka": "හරක් මස් බත්",
+            "Bangladesh": "গরুর মাংসের ভাত",
+            "Indonesia": "nasi daging sapi",
+            "Thailand": "ข้าวหน้าเนื้อ",
+            "Philippine": "kanin na may karne ng baka",
+            "Malaysia": "nasi daging lembu",
+            "Taiwan": "牛肉蓋飯",
+            "Korea": "소고기 덮밥",
+            "France": "bol de riz au bœuf",
+            "German": "Rindfleisch-Reisschüssel"
+          }
+        ],
+        "kanji": "牛丼",
+        "type": "noun",
+        "sentence": [
+          "ぎゅうどんを たべます。",
+          "ひるごはんに ぎゅうどんを たべました。",
+          "この ぎゅうどんは おいしいです。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_38",
+        "name": "[ しょうしょう ] おまち ください",
+        "pronounce": "shoushou omachi kudasai",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "Please wait a moment",
+            "chin": "请稍等",
+            "Nepal": "कृपया केही बेर पर्खनुहोस्",
+            "Vietnam": "Xin vui lòng đợi một chút",
+            "Myanmar": "ခဏစောင့်ပေးပါ",
+            "Sri_Lanka": "කරුණාකර මොහොතක් රැඳී සිටින්න",
+            "Bangladesh": "অনুগ্রহ করে একটু অপেক্ষা করুন",
+            "Indonesia": "Silakan tunggu sebentar",
+            "Thailand": "กรุณารอสักครู่",
+            "Philippine": "Mangyaring maghintay sandali",
+            "Malaysia": "Sila tunggu sebentar",
+            "Taiwan": "請稍等",
+            "Korea": "잠시 기다려 주세요",
+            "France": "Veuillez patienter un instant",
+            "German": "Bitte warten Sie einen Moment"
+          }
+        ],
+        "kanji": "少々お待ちください",
+        "type": "expression",
+        "sentence": [
+          "しょうしょう おまち ください。",
+          "しょうしょう おまち ください。すぐに いきます。",
+          "てんいん：しょうしょう おまち ください。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_39",
+        "name": "べつべつに",
+        "pronounce": "betsubetsu ni",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "separately; individually",
+            "chin": "分别地；各自地",
+            "Nepal": "छुट्टाछुट्टै; अलग-अलग",
+            "Vietnam": "riêng biệt; riêng từng cái",
+            "Myanmar": "သီးခြားစီ",
+            "Sri_Lanka": "වෙන වෙනම",
+            "Bangladesh": "আলাদাভাবে; পৃথকভাবে",
+            "Indonesia": "secara terpisah; masing-masing",
+            "Thailand": "แยกกัน; แยกต่างหาก",
+            "Philippine": "hiwalay; magkakahiwalay",
+            "Malaysia": "secara berasingan; masing-masing",
+            "Taiwan": "分開地；各自地",
+            "Korea": "따로따로; 각각",
+            "France": "séparément; individuellement",
+            "German": "getrennt; einzeln"
+          }
+        ],
+        "kanji": "別々に",
+        "type": "adverb",
+        "sentence": [
+          "りょうりを べつべつに たのみます。",
+          "おかねを べつべつに はらいます。",
+          "ふたりは べつべつに いきました。"
+        ],
+        "synonyms": ""
+      },
+      {
+        "id": "n5_l13_40",
+        "name": "ロシア",
+        "pronounce": "Roshia",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "Russia",
+            "chin": "俄罗斯",
+            "Nepal": "रूस",
+            "Vietnam": "Nga",
+            "Myanmar": "ရုရှား",
+            "Sri_Lanka": "රුසියාව",
+            "Bangladesh": "রাশিয়া",
+            "Indonesia": "Rusia",
+            "Thailand": "รัสเซีย",
+            "Philippine": "Russia",
+            "Malaysia": "Rusia",
+            "Taiwan": "俄羅斯",
+            "Korea": "러시아",
+            "France": "Russie",
+            "German": "Russland"
+          }
+        ],
+        "kanji": "",
+        "type": "country",
+        "sentence": [
+          "ロシアから きました。",
+          "ロシアへ いきたいです。",
+          "ロシアは おおきい くにです。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_41",
+        "name": "つるや",
+        "pronounce": "Tsuruya",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "Tsuruya (a shop/restaurant name)",
+            "chin": "鹤屋（店名）",
+            "Nepal": "त्सुरुया (पसल/रेस्टुरेन्टको नाम)",
+            "Vietnam": "Tsuruya (tên cửa hàng/nhà hàng)",
+            "Myanmar": "Tsuruya (ဆိုင်/စားသောက်ဆိုင်အမည်)",
+            "Sri_Lanka": "Tsuruya (සාප්පු/ආපනශාලා නාමයක්)",
+            "Bangladesh": "ৎসুরুয়া (দোকান/রেস্তোরাঁর নাম)",
+            "Indonesia": "Tsuruya (nama toko/restoran)",
+            "Thailand": "สึรุยะ (ชื่อร้านค้า/ร้านอาหาร)",
+            "Philippine": "Tsuruya (pangalan ng tindahan/restawran)",
+            "Malaysia": "Tsuruya (nama kedai/restoran)",
+            "Taiwan": "鶴屋（店名）",
+            "Korea": "쓰루야 (가게/식당 이름)",
+            "France": "Tsuruya (nom d'un magasin ou restaurant)",
+            "German": "Tsuruya (Name eines Geschäfts oder Restaurants)"
+          }
+        ],
+        "kanji": "",
+        "type": "proper noun",
+        "sentence": [
+          "つるやで ひるごはんを たべます。",
+          "つるやは あの みせです。",
+          "きょう つるやへ いきます。"
+        ],
+        "synonyms": ""
+      }, {
+        "id": "n5_l13_42",
+        "name": "おはようテレビ",
+        "pronounce": "Ohayou Terebi",
+        "audio": "",
+        "meaning": [
+          {
+            "english": "Ohayou TV; Good Morning TV",
+            "chin": "早安电视",
+            "Nepal": "शुभ प्रभात टिभी",
+            "Vietnam": "Truyền hình Chào buổi sáng",
+            "Myanmar": "မင်္ဂလာနံနက်ခင်း တီဗီ",
+            "Sri_Lanka": "සුභ උදෑසන රූපවාහිනිය",
+            "Bangladesh": "সুপ্রভাত টিভি",
+            "Indonesia": "TV Selamat Pagi",
+            "Thailand": "ทีวีอรุณสวัสดิ์",
+            "Philippine": "Good Morning TV",
+            "Malaysia": "TV Selamat Pagi",
+            "Taiwan": "早安電視",
+            "Korea": "오하요 TV; 굿모닝 TV",
+            "France": "Télévision Bonjour",
+            "German": "Guten-Morgen-Fernsehen"
+          }
+        ],
+        "kanji": "",
+        "type": "proper noun",
+        "sentence": [
+          "おはようテレビを みます。",
+          "まいあさ おはようテレビを みます。",
+          "おはようテレビは おもしろいです。"
+        ],
+        "synonyms": ""
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+    lesson: '14',
+    id: 'n5_l14',
+    all_vocab: [
+
 {
-  "id": "n5_l13_01",
-  "name": "あそびます",
-  "pronounce": "asobimasu",
+  "id": "n5_l14_01",
+  "name": "つけます",
+  "pronounce": "tsukemasu",
   "audio": "",
   "meaning": [
     {
-      "english": "play; have fun",
-      "chin": "玩；游玩",
-      "Nepal": "खेल्नु; रमाइलो गर्नु",
-      "Vietnam": "chơi; vui chơi",
-      "Myanmar": "ကစားသည်; ပျော်ပါးသည်",
-      "Sri_Lanka": "සෙල්ලම් කරනවා; විනෝද වෙනවා",
-      "Bangladesh": "খেলা করা; আনন্দ করা",
-      "Indonesia": "bermain; bersenang-senang",
-      "Thailand": "เล่น; สนุก",
-      "Philippine": "maglaro; magsaya",
-      "Malaysia": "bermain; berseronok",
-      "Taiwan": "玩；遊玩",
-      "Korea": "놀다; 즐기다",
-      "France": "jouer; s'amuser",
-      "German": "spielen; Spaß haben"
+      "english": "turn on; switch on; attach; put on",
+      "chin": "打开；安装；附上",
+      "Nepal": "बाल्नु; जोड्नु; लगाउनु",
+      "Vietnam": "bật; gắn; đeo",
+      "Myanmar": "ဖွင့်သည်; တပ်သည်; ဝတ်သည်",
+      "Sri_Lanka": "සක්‍රිය කරනවා; සවි කරනවා; පළඳිනවා",
+      "Bangladesh": "চালু করা; লাগানো; পরানো",
+      "Indonesia": "menyalakan; memasang; mengenakan",
+      "Thailand": "เปิด; ติด; สวม",
+      "Philippine": "buksan; ikabit; isuot",
+      "Malaysia": "memasang; menghidupkan; memakai",
+      "Taiwan": "打開；裝上；戴上",
+      "Korea": "켜다; 붙이다; 입히다",
+      "France": "allumer; attacher; mettre",
+      "German": "einschalten; anbringen; anziehen"
     }
   ],
-  "kanji": "遊びます",
+  "kanji": "付けます",
   "type": "verb",
   "sentence": [
-    "ともだちと あそびます。",
-    "こどもが こうえんで あそびます。",
-    "にちようびに いっしょに あそびませんか。"
+    "でんきを つけます。",
+    "テレビを つけます。",
+    "なまえを つけます。"
   ],
   "synonyms": ""
 },{
-  "id": "n5_l13_02",
-  "name": "およぎます",
-  "pronounce": "oyogimasu",
+  "id": "n5_l14_02",
+  "name": "けします",
+  "pronounce": "keshimasu",
   "audio": "",
   "meaning": [
     {
-      "english": "swim",
-      "chin": "游泳",
-      "Nepal": "पौडिनु",
-      "Vietnam": "bơi",
-      "Myanmar": "ရေကူးသည်",
-      "Sri_Lanka": "පිහිනනවා",
-      "Bangladesh": "সাঁতার কাটা",
-      "Indonesia": "berenang",
-      "Thailand": "ว่ายน้ำ",
-      "Philippine": "lumangoy",
-      "Malaysia": "berenang",
-      "Taiwan": "游泳",
-      "Korea": "수영하다",
-      "France": "nager",
-      "German": "schwimmen"
+      "english": "turn off; switch off; erase; delete",
+      "chin": "关闭；擦除；删除",
+      "Nepal": "बन्द गर्नु; मेटाउनु",
+      "Vietnam": "tắt; xóa",
+      "Myanmar": "ပိတ်သည်; ဖျက်သည်",
+      "Sri_Lanka": "නිවා දමනවා; මකා දමනවා",
+      "Bangladesh": "বন্ধ করা; মুছে ফেলা",
+      "Indonesia": "mematikan; menghapus",
+      "Thailand": "ปิด; ลบ",
+      "Philippine": "patayin; burahin",
+      "Malaysia": "mematikan; memadamkan",
+      "Taiwan": "關閉；擦掉；刪除",
+      "Korea": "끄다; 지우다",
+      "France": "éteindre; effacer; supprimer",
+      "German": "ausschalten; löschen"
     }
   ],
-  "kanji": "泳ぎます",
+  "kanji": "消します",
   "type": "verb",
   "sentence": [
-    "うみで およぎます。",
-    "プールで およぎます。",
-    "なつに みんなで およぎます。"
+    "でんきを けします。",
+    "テレビを けします。",
+    "まちがいを けします。"
   ],
   "synonyms": ""
 },{
-  "id": "n5_l13_03",
-  "name": "むかえます",
-  "pronounce": "mukaemasu",
+  "id": "n5_l14_03",
+  "name": "あけます",
+  "pronounce": "akemasu",
   "audio": "",
   "meaning": [
     {
-      "english": "go to meet; pick up; welcome",
-      "chin": "迎接；去接；迎来",
-      "Nepal": "लिन जानु; स्वागत गर्नु",
-      "Vietnam": "đón; đi đón; tiếp đón",
-      "Myanmar": "ကြိုသည်; သွားကြိုသည်; လက်ခံကြိုဆိုသည်",
-      "Sri_Lanka": "පිළිගන්නවා; කැඳවාගෙන එනවා",
-      "Bangladesh": "অভ্যর্থনা করা; কাউকে নিতে যাওয়া",
-      "Indonesia": "menjemput; menyambut",
-      "Thailand": "ไปรับ; ต้อนรับ",
-      "Philippine": "sunduin; salubungin",
-      "Malaysia": "menjemput; menyambut",
-      "Taiwan": "迎接；去接；迎來",
-      "Korea": "마중 나가다; 맞이하다",
-      "France": "aller chercher; accueillir",
-      "German": "abholen; empfangen"
+      "english": "open",
+      "chin": "打开",
+      "Nepal": "खोल्नु",
+      "Vietnam": "mở",
+      "Myanmar": "ဖွင့်သည်",
+      "Sri_Lanka": "විවෘත කරනවා",
+      "Bangladesh": "খোলা; খুলে দেওয়া",
+      "Indonesia": "membuka",
+      "Thailand": "เปิด",
+      "Philippine": "buksan",
+      "Malaysia": "membuka",
+      "Taiwan": "打開",
+      "Korea": "열다",
+      "France": "ouvrir",
+      "German": "öffnen"
     }
   ],
-  "kanji": "迎えます",
+  "kanji": "開けます",
   "type": "verb",
   "sentence": [
-    "えきへ ともだちを むかえます。",
-    "くうこうへ ちちを むかえに いきます。",
-    "らいしゅう せんせいを むかえます。"
+    "ドアを あけます。",
+    "まどを あけます。",
+    "はこを あけます。"
   ],
   "synonyms": ""
 },{
-  "id": "n5_l13_04",
-  "name": "つかれます",
-  "pronounce": "tsukaremasu",
+  "id": "n5_l14_04",
+  "name": "しめます",
+  "pronounce": "shimemasu",
   "audio": "",
   "meaning": [
     {
-      "english": "get tired; become tired",
-      "chin": "疲劳；变累",
-      "Nepal": "थाक्नु; थकित हुनु",
-      "Vietnam": "mệt; trở nên mệt",
-      "Myanmar": "ပင်ပန်းသည်; မောပန်းလာသည်",
-      "Sri_Lanka": "මහන්සි වෙනවා; වෙහෙසට පත් වෙනවා",
-      "Bangladesh": "ক্লান্ত হওয়া; পরিশ্রান্ত হওয়া",
-      "Indonesia": "menjadi lelah; merasa lelah",
-      "Thailand": "เหนื่อย; รู้สึกเหนื่อย",
-      "Philippine": "mapagod; mapagod na",
-      "Malaysia": "menjadi penat; berasa penat",
-      "Taiwan": "感到疲倦；變累",
-      "Korea": "피곤해지다; 지치다",
-      "France": "se fatiguer; devenir fatigué",
-      "German": "müde werden; erschöpft werden"
+      "english": "close; shut",
+      "chin": "关闭；关上",
+      "Nepal": "बन्द गर्नु; छोप्नु",
+      "Vietnam": "đóng",
+      "Myanmar": "ပိတ်သည်",
+      "Sri_Lanka": "වසා දමනවා",
+      "Bangladesh": "বন্ধ করা; বন্ধ করে দেওয়া",
+      "Indonesia": "menutup",
+      "Thailand": "ปิด",
+      "Philippine": "isara",
+      "Malaysia": "menutup",
+      "Taiwan": "關閉；關上",
+      "Korea": "닫다",
+      "France": "fermer",
+      "German": "schließen"
     }
   ],
-  "kanji": "疲れます",
+  "kanji": "閉めます",
   "type": "verb",
   "sentence": [
-    "たくさん あるくと、つかれます。",
-    "しごとを すると、つかれます。",
-    "べんきょうを しすぎると、つかれます。"
+    "ドアを しめます。",
+    "まどを しめます。",
+    "はこを しめます。"
   ],
   "synonyms": ""
 },{
-  "id": "n5_l13_05",
-  "name": "だします",
-  "pronounce": "dashimasu",
+  "id": "n5_l14_05",
+  "name": "いそぎます",
+  "pronounce": "isogimasu",
   "audio": "",
   "meaning": [
     {
-      "english": "take out; put out; submit; send",
-      "chin": "拿出；提交；寄出",
-      "Nepal": "निकाल्नु; बुझाउनु; पठाउनु",
-      "Vietnam": "lấy ra; nộp; gửi",
-      "Myanmar": "ထုတ်သည်; တင်ပြသည်; ပို့သည်",
-      "Sri_Lanka": "එළියට ගන්නවා; ඉදිරිපත් කරනවා; යවනවා",
-      "Bangladesh": "বের করা; জমা দেওয়া; পাঠানো",
-      "Indonesia": "mengeluarkan; menyerahkan; mengirim",
-      "Thailand": "นำออก; ส่ง; ยื่น",
-      "Philippine": "ilabas; isumite; ipadala",
-      "Malaysia": "mengeluarkan; menyerahkan; menghantar",
-      "Taiwan": "拿出；提交；寄出",
-      "Korea": "꺼내다; 제출하다; 보내다",
-      "France": "sortir; soumettre; envoyer",
-      "German": "herausnehmen; einreichen; schicken"
+      "english": "hurry; hurry up",
+      "chin": "赶快；加快",
+      "Nepal": "हतार गर्नु; छिटो गर्नु",
+      "Vietnam": "vội; nhanh lên",
+      "Myanmar": "အလျင်လိုသည်; မြန်မြန်လုပ်သည်",
+      "Sri_Lanka": "ඉක්මන් කරනවා",
+      "Bangladesh": "তাড়াহুড়ো করা; দ্রুত করা",
+      "Indonesia": "bergegas; mempercepat",
+      "Thailand": "รีบ; เร่ง",
+      "Philippine": "magmadali; magmadali ka",
+      "Malaysia": "bergegas; mempercepat",
+      "Taiwan": "趕快；加快",
+      "Korea": "서두르다",
+      "France": "se dépêcher; faire vite",
+      "German": "sich beeilen; sich beeilen"
     }
   ],
-  "kanji": "出します",
+  "kanji": "急ぎます",
   "type": "verb",
   "sentence": [
-    "かばんから ほんを だします。",
-    "しゅくだいを せんせいに だします。",
-    "てがみを だします。"
+    "いそいで ください。",
+    "あさは いそぎます。",
+    "でんしゃに のるために いそぎます。"
   ],
   "synonyms": ""
 },{
-  "id": "n5_l13_06",
-  "name": "はいります",
-  "pronounce": "hairimasu",
+  "id": "n5_l14_06",
+  "name": "まちます",
+  "pronounce": "machimasu",
   "audio": "",
   "meaning": [
     {
-      "english": "enter; go into; join",
-      "chin": "进入；加入",
-      "Nepal": "भित्र पस्नु; प्रवेश गर्नु; सामेल हुनु",
-      "Vietnam": "vào; đi vào; tham gia",
-      "Myanmar": "ဝင်သည်; ဝင်ရောက်သည်; ပါဝင်သည်",
-      "Sri_Lanka": "ඇතුල් වෙනවා; සම්බන්ධ වෙනවා",
-      "Bangladesh": "প্রবেশ করা; ভেতরে যাওয়া; যোগ দেওয়া",
-      "Indonesia": "masuk; bergabung",
-      "Thailand": "เข้า; เข้าร่วม",
-      "Philippine": "pumasok; sumali",
-      "Malaysia": "masuk; menyertai",
-      "Taiwan": "進入；加入",
-      "Korea": "들어가다; 가입하다",
-      "France": "entrer; rejoindre",
-      "German": "eintreten; hineingehen; beitreten"
+      "english": "wait",
+      "chin": "等待",
+      "Nepal": "पर्खनु",
+      "Vietnam": "đợi; chờ",
+      "Myanmar": "စောင့်သည်",
+      "Sri_Lanka": "බලා සිටිනවා",
+      "Bangladesh": "অপেক্ষা করা",
+      "Indonesia": "menunggu",
+      "Thailand": "รอ",
+      "Philippine": "maghintay",
+      "Malaysia": "menunggu",
+      "Taiwan": "等待",
+      "Korea": "기다리다",
+      "France": "attendre",
+      "German": "warten"
     }
   ],
-  "kanji": "入ります",
+  "kanji": "待ちます",
   "type": "verb",
   "sentence": [
-    "へやに はいります。",
-    "でんしゃに はいります。",
-    "ぎんこうに はいります。"
+    "ここで まちます。",
+    "ともだちを まちます。",
+    "バスを まちます。"
   ],
   "synonyms": ""
 },{
-  "id": "n5_l13_07",
-  "name": "でます",
-  "pronounce": "demasu",
+  "id": "n5_l14_07",
+  "name": "とめます",
+  "pronounce": "tomemasu",
   "audio": "",
   "meaning": [
     {
-      "english": "leave; go out; exit",
-      "chin": "出去；离开；出场",
-      "Nepal": "बाहिर निस्कनु; छोड्नु",
-      "Vietnam": "ra; rời khỏi; đi ra",
-      "Myanmar": "ထွက်သည်; ထွက်ခွာသည်",
-      "Sri_Lanka": "පිට වෙනවා; පිටව යනවා",
-      "Bangladesh": "বের হওয়া; ছেড়ে যাওয়া",
-      "Indonesia": "keluar; meninggalkan",
-      "Thailand": "ออก; ออกจาก",
-      "Philippine": "lumabas; umalis",
-      "Malaysia": "keluar; meninggalkan",
-      "Taiwan": "出去；離開",
-      "Korea": "나가다; 나오다",
-      "France": "sortir; partir",
-      "German": "hinausgehen; verlassen"
+      "english": "stop; park",
+      "chin": "停止；停车",
+      "Nepal": "रोक्नु; पार्क गर्नु",
+      "Vietnam": "dừng; đỗ xe",
+      "Myanmar": "ရပ်တန့်စေသည်; ကားရပ်သည်",
+      "Sri_Lanka": "නවත්වනවා; වාහනය නවත්වනවා",
+      "Bangladesh": "থামানো; পার্ক করা",
+      "Indonesia": "menghentikan; memarkir",
+      "Thailand": "หยุด; จอด",
+      "Philippine": "patigilin; iparada",
+      "Malaysia": "menghentikan; meletakkan kereta",
+      "Taiwan": "停止；停車",
+      "Korea": "세우다; 주차하다",
+      "France": "arrêter; garer",
+      "German": "anhalten; parken"
     }
   ],
-  "kanji": "出ます",
+  "kanji": "止めます",
   "type": "verb",
   "sentence": [
-    "へやを でます。",
-    "うちを 8じに でます。",
-    "でんしゃを でます。"
+    "くるまを とめます。",
+    "ここに じてんしゃを とめます。",
+    "でんきを とめます。"
   ],
   "synonyms": ""
 },{
-  "id": "n5_l13_08",
-  "name": "けっこんします",
-  "pronounce": "kekkon shimasu",
+  "id": "n5_l14_08",
+  "name": "まがります",
+  "pronounce": "magarimasu",
   "audio": "",
   "meaning": [
     {
-      "english": "get married; marry",
-      "chin": "结婚",
-      "Nepal": "विवाह गर्नु; बिहे गर्नु",
-      "Vietnam": "kết hôn; cưới",
-      "Myanmar": "လက်ထပ်သည်; အိမ်ထောင်ပြုသည်",
-      "Sri_Lanka": "විවාහ වෙනවා; කසාද බඳිනවා",
-      "Bangladesh": "বিয়ে করা; বিবাহ করা",
-      "Indonesia": "menikah; kawin",
-      "Thailand": "แต่งงาน; สมรส",
-      "Philippine": "magpakasal; mag-asawa",
-      "Malaysia": "berkahwin; berkahwin dengan",
-      "Taiwan": "結婚",
-      "Korea": "결혼하다",
-      "France": "se marier; épouser",
-      "German": "heiraten; sich verheiraten"
+      "english": "turn; bend",
+      "chin": "转弯；弯曲",
+      "Nepal": "मोडिनु; घुम्नु",
+      "Vietnam": "rẽ; uốn cong",
+      "Myanmar": "ကွေ့သည်; ကောက်သည်",
+      "Sri_Lanka": "හැරෙනවා; නැමෙනවා",
+      "Bangladesh": "মোড় নেওয়া; বাঁকানো",
+      "Indonesia": "berbelok; membengkok",
+      "Thailand": "เลี้ยว; งอ",
+      "Philippine": "lumiko; yumuko",
+      "Malaysia": "membelok; membengkok",
+      "Taiwan": "轉彎；彎曲",
+      "Korea": "돌다; 구부러지다",
+      "France": "tourner; se courber",
+      "German": "abbiegen; sich biegen"
     }
   ],
-  "kanji": "結婚します",
+  "kanji": "曲がります",
   "type": "verb",
   "sentence": [
-    "らいねん けっこんします。",
-    "あねは けっこんします。",
-    "ともだちは らいげつ けっこんします。"
+    "みぎへ まがります。",
+    "つぎの かどを ひだりへ まがります。",
+    "この みちは まがります。"
   ],
   "synonyms": ""
 },{
-  "id": "n5_l13_09",
-  "name": "かいものします",
-  "pronounce": "kaimono shimasu",
+  "id": "n5_l14_09",
+  "name": "もちます",
+  "pronounce": "mochimasu",
   "audio": "",
   "meaning": [
     {
-      "english": "go shopping; shop",
-      "chin": "购物；买东西",
-      "Nepal": "किनमेल गर्नु; सामान किन्नु",
-      "Vietnam": "mua sắm; đi mua sắm",
-      "Myanmar": "ဈေးဝယ်သည်; ပစ္စည်းဝယ်သည်",
-      "Sri_Lanka": "සාප්පු සවාරි යනවා; බඩු මිලදී ගන්නවා",
-      "Bangladesh": "কেনাকাটা করা; বাজার করা",
-      "Indonesia": "berbelanja; pergi berbelanja",
-      "Thailand": "ซื้อของ; ไปช้อปปิ้ง",
-      "Philippine": "mamili; mag-shopping",
-      "Malaysia": "membeli-belah; pergi membeli-belah",
-      "Taiwan": "購物；買東西",
-      "Korea": "쇼핑하다; 물건을 사다",
-      "France": "faire des achats; faire du shopping",
-      "German": "einkaufen; shoppen"
+      "english": "hold; carry; have",
+      "chin": "拿；携带；拥有",
+      "Nepal": "समात्नु; बोक्नु; हुनु",
+      "Vietnam": "cầm; mang; có",
+      "Myanmar": "ကိုင်သည်; သယ်သည်; ပိုင်ဆိုင်သည်",
+      "Sri_Lanka": "අල්ලගෙන ඉන්නවා; ගෙන යනවා; සතු වෙනවා",
+      "Bangladesh": "ধরা; বহন করা; থাকা",
+      "Indonesia": "memegang; membawa; memiliki",
+      "Thailand": "ถือ; พก; มี",
+      "Philippine": "humawak; magdala; magkaroon",
+      "Malaysia": "memegang; membawa; memiliki",
+      "Taiwan": "拿；攜帶；擁有",
+      "Korea": "가지다; 들다; 들고 가다",
+      "France": "tenir; porter; avoir",
+      "German": "halten; tragen; haben"
     }
   ],
-  "kanji": "買い物します",
+  "kanji": "持ちます",
   "type": "verb",
   "sentence": [
-    "デパートで かいものします。",
-    "にちようびに かいものします。",
-    "ともだちと かいものします。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_10",
-  "name": "しょくじします",
-  "pronounce": "shokuji shimasu",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "have a meal; eat a meal",
-      "chin": "用餐；吃饭",
-      "Nepal": "भोजन गर्नु; खाना खानु",
-      "Vietnam": "dùng bữa; ăn cơm",
-      "Myanmar": "အစားအစာစားသည်; ထမင်းစားသည်",
-      "Sri_Lanka": "ආහාර ගන්නවා; කෑම කනවා",
-      "Bangladesh": "খাওয়া; খাবার খাওয়া",
-      "Indonesia": "makan; bersantap",
-      "Thailand": "รับประทานอาหาร; กินข้าว",
-      "Philippine": "kumain; magsalo-salo",
-      "Malaysia": "makan; menjamu selera",
-      "Taiwan": "用餐；吃飯",
-      "Korea": "식사하다; 식사를 하다",
-      "France": "prendre un repas; manger",
-      "German": "eine Mahlzeit einnehmen; essen"
-    }
-  ],
-  "kanji": "食事します",
-  "type": "verb",
-  "sentence": [
-    "レストランで しょくじします。",
-    "かぞくと しょくじします。",
-    "7じに しょくじします。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_11",
-  "name": "さんぽします",
-  "pronounce": "sanpo shimasu",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "take a walk; go for a walk",
-      "chin": "散步；去散步",
-      "Nepal": "हिँडडुल गर्नु; घुम्न जानु",
-      "Vietnam": "đi dạo; đi bộ",
-      "Myanmar": "လမ်းလျှောက်သည်; လမ်းလျှောက်ထွက်သည်",
-      "Sri_Lanka": "ඇවිදින්න යනවා; පා ගමනක් යනවා",
-      "Bangladesh": "হাঁটতে যাওয়া; বেড়াতে হাঁটা",
-      "Indonesia": "berjalan-jalan; pergi berjalan kaki",
-      "Thailand": "เดินเล่น; ไปเดินเล่น",
-      "Philippine": "mamasyal; maglakad-lakad",
-      "Malaysia": "berjalan-jalan; pergi berjalan kaki",
-      "Taiwan": "散步；去散步",
-      "Korea": "산책하다; 산책을 하다",
-      "France": "se promener; faire une promenade",
-      "German": "spazieren gehen; einen Spaziergang machen"
-    }
-  ],
-  "kanji": "散歩します",
-  "type": "verb",
-  "sentence": [
-    "こうえんで さんぽします。",
-    "まいあさ さんぽします。",
-    "いぬと いっしょに さんぽします。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_12",
-  "name": "たいへん [ な ]",
-  "pronounce": "taihen [ na ]",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "hard; difficult; tough",
-      "chin": "辛苦的；困难的",
-      "Nepal": "गाह्रो; कठिन",
-      "Vietnam": "vất vả; khó khăn",
-      "Myanmar": "ခက်ခဲသော; ပင်ပန်းသော",
-      "Sri_Lanka": "අමාරු; දුෂ්කර",
-      "Bangladesh": "কঠিন; কষ্টকর",
-      "Indonesia": "sulit; berat",
-      "Thailand": "ยาก; ลำบาก",
-      "Philippine": "mahirap; mabigat",
-      "Malaysia": "susah; sukar",
-      "Taiwan": "辛苦的；困難的",
-      "Korea": "힘든; 어려운",
-      "France": "difficile; pénible",
-      "German": "schwierig; anstrengend"
-    }
-  ],
-  "kanji": "大変 [な]",
-  "type": "な-adjective",
-  "sentence": [
-    "しごとは たいへんです。",
-    "にほんごの べんきょうは たいへんです。",
-    "きょうは たいへんな ひです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_13",
-  "name": "ほしい",
-  "pronounce": "hoshii",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "want; desire",
-      "chin": "想要；希望得到",
-      "Nepal": "चाहनु; चाहिएको",
-      "Vietnam": "muốn; mong muốn",
-      "Myanmar": "လိုချင်သည်; အလိုရှိသည်",
-      "Sri_Lanka": "ඕනෑ; අවශ්‍යයි",
-      "Bangladesh": "চাই; পেতে চাই",
-      "Indonesia": "ingin; mau",
-      "Thailand": "อยากได้; ต้องการ",
-      "Philippine": "gusto; nais",
-      "Malaysia": "mahu; ingin",
-      "Taiwan": "想要；希望得到",
-      "Korea": "원하다; 갖고 싶다",
-      "France": "vouloir; désirer",
-      "German": "wollen; haben wollen"
-    }
-  ],
-  "kanji": "欲しい",
-  "type": "い-adjective",
-  "sentence": [
-    "あたらしい くるまが ほしいです。",
-    "みずが ほしいです。",
-    "にほんの ほんが ほしいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_14",
-  "name": "さびしい",
-  "pronounce": "sabishii",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "lonely; lonely-feeling",
-      "chin": "寂寞的；孤独的",
-      "Nepal": "एक्लो; एक्लोपन महसुस गर्ने",
-      "Vietnam": "cô đơn; buồn vì cô đơn",
-      "Myanmar": "အထီးကျန်သော; အထီးကျန်မှုခံစားရသော",
-      "Sri_Lanka": "හුදකලා; තනිකම දැනෙන",
-      "Bangladesh": "একাকী; নিঃসঙ্গ",
-      "Indonesia": "kesepian; merasa sepi",
-      "Thailand": "เหงา; รู้สึกโดดเดี่ยว",
-      "Philippine": "malungkot; nakakaramdam ng kalungkutan",
-      "Malaysia": "sunyi; kesunyian",
-      "Taiwan": "寂寞的；孤單的",
-      "Korea": "외로운; 쓸쓸한",
-      "France": "seul; solitaire",
-      "German": "einsam; traurig"
-    }
-  ],
-  "kanji": "寂しい",
-  "type": "い-adjective",
-  "sentence": [
-    "ひとりで いると さびしいです。",
-    "ともだちが いないので、さびしいです。",
-    "かぞくに あえなくて さびしいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_15",
-  "name": "ひろい",
-  "pronounce": "hiroi",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "wide; spacious; large",
-      "chin": "宽的；宽敞的；大的",
-      "Nepal": "फराकिलो; विशाल",
-      "Vietnam": "rộng; rộng rãi; lớn",
-      "Myanmar": "ကျယ်သော; ကျယ်ဝန်းသော",
-      "Sri_Lanka": "පුළුල්; ඉඩකඩ ඇති",
-      "Bangladesh": "প্রশস্ত; চওড়া; বড়",
-      "Indonesia": "luas; lapang",
-      "Thailand": "กว้าง; กว้างขวาง",
-      "Philippine": "malawak; maluwang",
-      "Malaysia": "luas; lapang",
-      "Taiwan": "寬的；寬敞的；大的",
-      "Korea": "넓은; 광대한",
-      "France": "large; spacieux",
-      "German": "weit; geräumig"
-    }
-  ],
-  "kanji": "広い",
-  "type": "い-adjective",
-  "sentence": [
-    "この へやは ひろいです。",
-    "ひろい こうえんで あそびます。",
-    "わたしの うちは ひろいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_16",
-  "name": "せまい",
-  "pronounce": "semai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "narrow; small; cramped",
-      "chin": "狭的；狭窄的；拥挤的",
-      "Nepal": "साँघुरो; सानो",
-      "Vietnam": "hẹp; chật",
-      "Myanmar": "ကျဉ်းသော; နေရာကျဉ်းသော",
-      "Sri_Lanka": "පටු; ඉඩ අඩු",
-      "Bangladesh": "সরু; সংকীর্ণ; ছোট",
-      "Indonesia": "sempit; kecil",
-      "Thailand": "แคบ; คับแคบ",
-      "Philippine": "makitid; masikip",
-      "Malaysia": "sempit; kecil",
-      "Taiwan": "狹的；狹窄的；擁擠的",
-      "Korea": "좁은; 비좁은",
-      "France": "étroit; exigu",
-      "German": "eng; schmal"
-    }
-  ],
-  "kanji": "狭い",
-  "type": "い-adjective",
-  "sentence": [
-    "この へやは せまいです。",
-    "せまい みちを あるきます。",
-    "わたしの へやは せまいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_17",
-  "name": "しやくしょ",
-  "pronounce": "shiyakusho",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "city hall; municipal office",
-      "chin": "市政府；市役所",
-      "Nepal": "नगरपालिका कार्यालय; सहरको कार्यालय",
-      "Vietnam": "tòa thị chính; văn phòng thành phố",
-      "Myanmar": "မြို့တော်ရုံး; မြူနီစီပယ်ရုံး",
-      "Sri_Lanka": "නගර සභා කාර්යාලය; මහ නගර කාර්යාලය",
-      "Bangladesh": "সিটি হল; পৌরসভা কার্যালয়",
-      "Indonesia": "balai kota; kantor pemerintahan kota",
-      "Thailand": "ศาลาว่าการเมือง; สำนักงานเทศบาล",
-      "Philippine": "city hall; tanggapan ng lungsod",
-      "Malaysia": "dewan bandaraya; pejabat perbandaran",
-      "Taiwan": "市政府；市役所",
-      "Korea": "시청; 시청사",
-      "France": "mairie; hôtel de ville",
-      "German": "Rathaus; Stadtverwaltung"
-    }
-  ],
-  "kanji": "市役所",
-  "type": "noun",
-  "sentence": [
-    "しやくしょへ いきます。",
-    "しやくしょで しごとを します。",
-    "しやくしょは えきの ちかくです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_18",
-  "name": "プール",
-  "pronounce": "puuru",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "swimming pool; pool",
-      "chin": "游泳池",
-      "Nepal": "स्विमिङ पुल; पौडी पोखरी",
-      "Vietnam": "hồ bơi; bể bơi",
-      "Myanmar": "ရေကူးကန်",
-      "Sri_Lanka": "පිහිනුම් තටාකය",
-      "Bangladesh": "সুইমিং পুল; সাঁতারের পুকুর",
-      "Indonesia": "kolam renang",
-      "Thailand": "สระว่ายน้ำ",
-      "Philippine": "swimming pool; palanguyan",
-      "Malaysia": "kolam renang",
-      "Taiwan": "游泳池",
-      "Korea": "수영장",
-      "France": "piscine",
-      "German": "Schwimmbad; Pool"
-    }
-  ],
-  "kanji": "",
-  "type": "noun",
-  "sentence": [
-    "プールで およぎます。",
-    "あつい ひに プールへ いきます。",
-    "プールに たくさん ひとが います。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_19",
-  "name": "かわ",
-  "pronounce": "kawa",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "river",
-      "chin": "河；河流",
-      "Nepal": "नदी",
-      "Vietnam": "sông",
-      "Myanmar": "မြစ်",
-      "Sri_Lanka": "ගඟ",
-      "Bangladesh": "নদী",
-      "Indonesia": "sungai",
-      "Thailand": "แม่น้ำ",
-      "Philippine": "ilog",
-      "Malaysia": "sungai",
-      "Taiwan": "河；河流",
-      "Korea": "강; 하천",
-      "France": "rivière; fleuve",
-      "German": "Fluss"
-    }
-  ],
-  "kanji": "川",
-  "type": "noun",
-  "sentence": [
-    "かわで およぎます。",
-    "この かわは きれいです。",
-    "かわの ちかくを あるきます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_20",
-  "name": "けいざい",
-  "pronounce": "keizai",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "economy; economics",
-      "chin": "经济；经济学",
-      "Nepal": "अर्थतन्त्र; अर्थशास्त्र",
-      "Vietnam": "kinh tế; nền kinh tế",
-      "Myanmar": "စီးပွားရေး; စီးပွားရေးပညာ",
-      "Sri_Lanka": "ආර්ථිකය; ආර්ථික විද්‍යාව",
-      "Bangladesh": "অর্থনীতি; অর্থনৈতিক ব্যবস্থা",
-      "Indonesia": "ekonomi; ilmu ekonomi",
-      "Thailand": "เศรษฐกิจ; เศรษฐศาสตร์",
-      "Philippine": "ekonomiya; ekonomiks",
-      "Malaysia": "ekonomi; ilmu ekonomi",
-      "Taiwan": "經濟；經濟學",
-      "Korea": "경제; 경제학",
-      "France": "économie; économie politique",
-      "German": "Wirtschaft; Volkswirtschaft"
-    }
-  ],
-  "kanji": "経済",
-  "type": "noun",
-  "sentence": [
-    "けいざいを べんきょうします。",
-    "にほんの けいざいについて はなします。",
-    "けいざいは むずかしいです。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_21",
-  "name": "びじゅつ",
-  "pronounce": "bijutsu",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "art; fine arts",
-      "chin": "美术；艺术",
-      "Nepal": "ललितकला; कला",
-      "Vietnam": "mỹ thuật; nghệ thuật",
-      "Myanmar": "အနုပညာ; ပန်းချီအနုပညာ",
-      "Sri_Lanka": "කලාව; ලලිත කලාව",
-      "Bangladesh": "চারুকলা; শিল্পকলা",
-      "Indonesia": "seni; seni rupa",
-      "Thailand": "ศิลปะ; วิจิตรศิลป์",
-      "Philippine": "sining; fine arts",
-      "Malaysia": "seni; seni halus",
-      "Taiwan": "美術；藝術",
-      "Korea": "미술; 예술",
-      "France": "art; beaux-arts",
-      "German": "Kunst; bildende Kunst"
-    }
-  ],
-  "kanji": "美術",
-  "type": "noun",
-  "sentence": [
-    "びじゅつが すきです。",
-    "びじゅつを べんきょうします。",
-    "きょう びじゅつかんへ いきます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_22",
-  "name": "つり",
-  "pronounce": "tsuri",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "fishing",
-      "chin": "钓鱼",
-      "Nepal": "माछा मार्ने काम; माछा मार्नु",
-      "Vietnam": "câu cá",
-      "Myanmar": "ငါးမျှားခြင်း",
-      "Sri_Lanka": "මාළු ඇල්ලීම",
-      "Bangladesh": "মাছ ধরা; মাছ শিকার",
-      "Indonesia": "memancing",
-      "Thailand": "ตกปลา",
-      "Philippine": "pangingisda; pangingisda gamit ang pamalo",
-      "Malaysia": "memancing",
-      "Taiwan": "釣魚",
-      "Korea": "낚시",
-      "France": "pêche à la ligne",
-      "German": "Angeln"
-    }
-  ],
-  "kanji": "釣り",
-  "type": "noun",
-  "sentence": [
-    "つりが すきです。",
-    "かわで つりを します。",
-    "ちちと つりに いきます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_23",
-  "name": "スキー",
-  "pronounce": "sukii",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "skiing; ski",
-      "chin": "滑雪；滑雪运动",
-      "Nepal": "स्की; स्की खेल",
-      "Vietnam": "trượt tuyết; môn trượt tuyết",
-      "Myanmar": "စကီးစီးခြင်း; စကီးအားကစား",
-      "Sri_Lanka": "ස්කී ක්‍රීඩාව; හිම මත ලිස්සා යාම",
-      "Bangladesh": "স্কি করা; স্কিইং",
-      "Indonesia": "ski; bermain ski",
-      "Thailand": "สกี; เล่นสกี",
-      "Philippine": "skiing; pag-i-ski",
-      "Malaysia": "ski; bermain ski",
-      "Taiwan": "滑雪；滑雪運動",
-      "Korea": "스키; 스키 타기",
-      "France": "ski; ski alpin",
-      "German": "Skifahren; Ski"
-    }
-  ],
-  "kanji": "",
-  "type": "noun",
-  "sentence": [
-    "スキーが すきです。",
-    "ふゆに スキーを します。",
-    "スキーを しに ほっかいどうへ いきます。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_24",
-  "name": "かいぎ",
-  "pronounce": "kaigi",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "meeting; conference",
-      "chin": "会议",
-      "Nepal": "बैठक; सम्मेलन",
-      "Vietnam": "cuộc họp; hội nghị",
-      "Myanmar": "အစည်းအဝေး; ဆွေးနွေးပွဲ",
-      "Sri_Lanka": "රැස්වීම; සම්මන්ත්‍රණය",
-      "Bangladesh": "সভা; মিটিং",
-      "Indonesia": "rapat; pertemuan",
-      "Thailand": "การประชุม; ที่ประชุม",
-      "Philippine": "pagpupulong; pulong",
-      "Malaysia": "mesyuarat; pertemuan",
-      "Taiwan": "會議",
-      "Korea": "회의; 모임",
-      "France": "réunion; conférence",
-      "German": "Besprechung; Konferenz"
-    }
-  ],
-  "kanji": "会議",
-  "type": "noun",
-  "sentence": [
-    "10じから かいぎが あります。",
-    "かいぎに でます。",
-    "かいぎは 3じに おわります。"
-  ],
-  "synonyms": ""
-},{
-  "id": "n5_l13_25",
-  "name": "とうろく",
-  "pronounce": "touroku",
-  "audio": "",
-  "meaning": [
-    {
-      "english": "registration; registering",
-      "chin": "登记；注册",
-      "Nepal": "दर्ता; पञ्जीकरण",
-      "Vietnam": "đăng ký; đăng ký thông tin",
-      "Myanmar": "မှတ်ပုံတင်ခြင်း; စာရင်းသွင်းခြင်း",
-      "Sri_Lanka": "ලියාපදිංචිය; ලියාපදිංචි කිරීම",
-      "Bangladesh": "নিবন্ধন; রেজিস্ট্রেশন",
-      "Indonesia": "pendaftaran; mendaftarkan",
-      "Thailand": "การลงทะเบียน; การสมัคร",
-      "Philippine": "pagpaparehistro; pagpaparehistro ng pangalan",
-      "Malaysia": "pendaftaran; mendaftar",
-      "Taiwan": "登記；註冊",
-      "Korea": "등록; 등록하기",
-      "France": "inscription; enregistrement",
-      "German": "Anmeldung; Registrierung"
-    }
-  ],
-  "kanji": "登録",
-  "type": "noun",
-  "sentence": [
-    "ホテルを とうろくします。",
-    "なまえを とうろくします。",
-    "インターネットで とうろくします。"
+    "かばんを もちます。",
+    "ほんを もちます。",
+    "かさを もちます。"
   ],
   "synonyms": ""
 },
+{
+  "id": "n5_l14_10",
+  "name": "とります",
+  "pronounce": "torimasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "take; get; take a photo",
+      "chin": "拿；取得；拍照",
+      "Nepal": "लिनु; प्राप्त गर्नु; फोटो खिच्नु",
+      "Vietnam": "lấy; nhận; chụp ảnh",
+      "Myanmar": "ယူသည်; ရရှိသည်; ဓာတ်ပုံရိုက်သည်",
+      "Sri_Lanka": "ගන්නවා; ලබා ගන්නවා; ඡායාරූප ගන්නවා",
+      "Bangladesh": "নেওয়া; গ্রহণ করা; ছবি তোলা",
+      "Indonesia": "mengambil; mendapatkan; memotret",
+      "Thailand": "หยิบ; ได้รับ; ถ่ายรูป",
+      "Philippine": "kumuha; makakuha; kumuha ng litrato",
+      "Malaysia": "mengambil; mendapatkan; mengambil gambar",
+      "Taiwan": "拿；取得；拍照",
+      "Korea": "가지다; 받다; 사진을 찍다",
+      "France": "prendre; obtenir; prendre une photo",
+      "German": "nehmen; bekommen; fotografieren"
+    }
+  ],
+  "kanji": "取ります",
+  "type": "verb",
+  "sentence": [
+    "しゃしんを とります。",
+    "ほんを とります。",
+    "りんごを とります。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_11",
+  "name": "てつだいます",
+  "pronounce": "tetsudaimasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "help; assist",
+      "chin": "帮助；协助",
+      "Nepal": "सहयोग गर्नु; मद्दत गर्नु",
+      "Vietnam": "giúp đỡ; hỗ trợ",
+      "Myanmar": "ကူညီသည်; အကူအညီပေးသည်",
+      "Sri_Lanka": "උදව් කරනවා; සහාය දෙනවා",
+      "Bangladesh": "সাহায্য করা; সহযোগিতা করা",
+      "Indonesia": "membantu",
+      "Thailand": "ช่วย; ช่วยเหลือ",
+      "Philippine": "tumulong; tumulong sa",
+      "Malaysia": "membantu",
+      "Taiwan": "幫忙；協助",
+      "Korea": "돕다; 도와주다",
+      "France": "aider; assister",
+      "German": "helfen; unterstützen"
+    }
+  ],
+  "kanji": "手伝います",
+  "type": "verb",
+  "sentence": [
+    "ははを てつだいます。",
+    "りょうりを てつだいます。",
+    "ともだちの しごとを てつだいます。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_12",
+  "name": "よびます",
+  "pronounce": "yobimasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "call; invite",
+      "chin": "叫；呼叫；邀请",
+      "Nepal": "बोलाउनु; निम्तो दिनु",
+      "Vietnam": "gọi; mời",
+      "Myanmar": "ခေါ်သည်; ဖိတ်ခေါ်သည်",
+      "Sri_Lanka": "කතා කරනවා; ආරාධනා කරනවා",
+      "Bangladesh": "ডাকা; আমন্ত্রণ করা",
+      "Indonesia": "memanggil; mengundang",
+      "Thailand": "เรียก; เชิญ",
+      "Philippine": "tumawag; mag-imbita",
+      "Malaysia": "memanggil; menjemput",
+      "Taiwan": "叫；呼叫；邀請",
+      "Korea": "부르다; 초대하다",
+      "France": "appeler; inviter",
+      "German": "rufen; einladen"
+    }
+  ],
+  "kanji": "呼びます",
+  "type": "verb",
+  "sentence": [
+    "せんせいを よびます。",
+    "ともだちを よびます。",
+    "タクシーを よびます。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_13",
+  "name": "はなします",
+  "pronounce": "hanashimasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "speak; talk; tell",
+      "chin": "说；谈话；告诉",
+      "Nepal": "बोल्नु; कुरा गर्नु; बताउनु",
+      "Vietnam": "nói; nói chuyện; kể",
+      "Myanmar": "ပြောသည်; စကားပြောသည်; ပြောပြသည်",
+      "Sri_Lanka": "කතා කරනවා; කියනවා",
+      "Bangladesh": "কথা বলা; বলা; জানানো",
+      "Indonesia": "berbicara; berbicara dengan; memberitahu",
+      "Thailand": "พูด; สนทนา; บอก",
+      "Philippine": "magsalita; makipag-usap; magsabi",
+      "Malaysia": "bercakap; berbual; memberitahu",
+      "Taiwan": "說；談話；告訴",
+      "Korea": "말하다; 이야기하다",
+      "France": "parler; raconter; dire",
+      "German": "sprechen; reden; erzählen"
+    }
+  ],
+  "kanji": "話します",
+  "type": "verb",
+  "sentence": [
+    "にほんごを はなします。",
+    "せんせいと はなします。",
+    "ともだちと でんわで はなします。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_14",
+  "name": "みせます",
+  "pronounce": "misemasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "show; display",
+      "chin": "给看；展示",
+      "Nepal": "देखाउनु; प्रदर्शन गर्नु",
+      "Vietnam": "cho xem; trình bày",
+      "Myanmar": "ပြသည်; ပြသသည်",
+      "Sri_Lanka": "පෙන්වනවා; ප්‍රදර්ශනය කරනවා",
+      "Bangladesh": "দেখানো; প্রদর্শন করা",
+      "Indonesia": "menunjukkan; memperlihatkan",
+      "Thailand": "แสดง; ให้ดู",
+      "Philippine": "ipakita; magpakita",
+      "Malaysia": "menunjukkan; memperlihatkan",
+      "Taiwan": "給看；展示",
+      "Korea": "보여주다; 보이다",
+      "France": "montrer; présenter",
+      "German": "zeigen; vorführen"
+    }
+  ],
+  "kanji": "見せます",
+  "type": "verb",
+  "sentence": [
+    "しゃしんを みせます。",
+    "せんせいに しゅくだいを みせます。",
+    "ともだちに しゃしんを みせます。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_15",
+  "name": "おしえます",
+  "pronounce": "oshiemasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "teach; tell; inform",
+      "chin": "教；告诉；通知",
+      "Nepal": "सिकाउनु; बताउनु; जानकारी दिनु",
+      "Vietnam": "dạy; nói cho biết; thông báo",
+      "Myanmar": "သင်ပေးသည်; ပြောပြသည်; အသိပေးသည်",
+      "Sri_Lanka": "උගන්වනවා; කියලා දෙනවා; දැනුම් දෙනවා",
+      "Bangladesh": "শেখানো; জানানো; বলে দেওয়া",
+      "Indonesia": "mengajar; memberi tahu; memberitahu",
+      "Thailand": "สอน; บอก; แจ้ง",
+      "Philippine": "magturo; magsabi; ipaalam",
+      "Malaysia": "mengajar; memberitahu; memaklumkan",
+      "Taiwan": "教；告訴；通知",
+      "Korea": "가르치다; 알려주다",
+      "France": "enseigner; dire; informer",
+      "German": "lehren; sagen; informieren"
+    }
+  ],
+  "kanji": "教えます",
+  "type": "verb",
+  "sentence": [
+    "にほんごを おしえます。",
+    "せんせいが えいごを おしえます。",
+    "ともだちに でんわばんごうを おしえます。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_16",
+  "name": "はじめます",
+  "pronounce": "hajimemasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "start; begin",
+      "chin": "开始",
+      "Nepal": "सुरु गर्नु; आरम्भ गर्नु",
+      "Vietnam": "bắt đầu",
+      "Myanmar": "စတင်သည်",
+      "Sri_Lanka": "ආරම්භ කරනවා; පටන් ගන්නවා",
+      "Bangladesh": "শুরু করা; আরম্ভ করা",
+      "Indonesia": "memulai; mulai",
+      "Thailand": "เริ่ม; เริ่มต้น",
+      "Philippine": "simulan; magsimula",
+      "Malaysia": "memulakan; mula",
+      "Taiwan": "開始",
+      "Korea": "시작하다",
+      "France": "commencer; débuter",
+      "German": "beginnen; anfangen"
+    }
+  ],
+  "kanji": "始めます",
+  "type": "verb",
+  "sentence": [
+    "べんきょうを はじめます。",
+    "しごとを はじめます。",
+    "じゅぎょうを はじめます。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_17",
+  "name": "ふります",
+  "pronounce": "furimasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "fall (rain/snow)",
+      "chin": "下（雨、雪）",
+      "Nepal": "पर्नु (वर्षा/हिउँ)",
+      "Vietnam": "rơi (mưa/tuyết)",
+      "Myanmar": "ရွာသည် (မိုး/နှင်း)",
+      "Sri_Lanka": "වැටෙනවා (වැසි/හිම)",
+      "Bangladesh": "পড়া (বৃষ্টি/তুষার)",
+      "Indonesia": "turun (hujan/salju)",
+      "Thailand": "ตก (ฝน/หิมะ)",
+      "Philippine": "bumagsak (ulan/niyebe)",
+      "Malaysia": "turun (hujan/salji)",
+      "Taiwan": "下（雨、雪）",
+      "Korea": "내리다 (비/눈)",
+      "France": "tomber (pluie/neige)",
+      "German": "fallen (Regen/Schnee)"
+    }
+  ],
+  "kanji": "降ります",
+  "type": "verb",
+  "sentence": [
+    "あめが ふります。",
+    "ゆきが ふります。",
+    "きょうは あめが ふっています。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_18",
+  "name": "コピーします",
+  "pronounce": "kopii shimasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "copy",
+      "chin": "复制；复印",
+      "Nepal": "प्रतिलिपि गर्नु; नक्कल गर्नु",
+      "Vietnam": "sao chép; photocopy",
+      "Myanmar": "မိတ္တူကူးသည်; ကူးယူသည်",
+      "Sri_Lanka": "පිටපත් කරනවා",
+      "Bangladesh": "কপি করা; প্রতিলিপি করা",
+      "Indonesia": "menyalin; mengopi",
+      "Thailand": "คัดลอก; ถ่ายสำเนา",
+      "Philippine": "kopyahin; gumawa ng kopya",
+      "Malaysia": "menyalin; membuat salinan",
+      "Taiwan": "複製；影印",
+      "Korea": "복사하다",
+      "France": "copier; faire une copie",
+      "German": "kopieren"
+    }
+  ],
+  "kanji": "",
+  "type": "verb",
+  "sentence": [
+    "この ぶんを コピーします。",
+    "しりょうを コピーします。",
+    "この しゃしんを コピーします。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_19",
+  "name": "エアコン",
+  "pronounce": "eakon",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "air conditioner; air conditioning",
+      "chin": "空调",
+      "Nepal": "एयर कन्डिसनर; वातानुकूलक",
+      "Vietnam": "máy điều hòa; điều hòa không khí",
+      "Myanmar": "လေအေးပေးစက်; လေအေးပေးခြင်း",
+      "Sri_Lanka": "වායු සමීකරණ යන්ත්‍රය",
+      "Bangladesh": "এয়ার কন্ডিশনার; শীতাতপ নিয়ন্ত্রণ যন্ত্র",
+      "Indonesia": "pendingin ruangan; AC",
+      "Thailand": "เครื่องปรับอากาศ; แอร์",
+      "Philippine": "air conditioner; aircon",
+      "Malaysia": "pendingin hawa; penghawa dingin",
+      "Taiwan": "冷氣機；空調",
+      "Korea": "에어컨; 냉방기",
+      "France": "climatiseur; climatisation",
+      "German": "Klimaanlage; Klimagerät"
+    }
+  ],
+  "kanji": "",
+  "type": "noun",
+  "sentence": [
+    "エアコンを つけます。",
+    "エアコンを けします。",
+    "へやに エアコンが あります。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_20",
+  "name": "パンポート",
+  "pronounce": "panpooto",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "passport",
+      "chin": "护照",
+      "Nepal": "राहदानी",
+      "Vietnam": "hộ chiếu",
+      "Myanmar": "နိုင်ငံကူးလက်မှတ်",
+      "Sri_Lanka": "විදේශ ගමන් බලපත්‍රය",
+      "Bangladesh": "পাসপোর্ট",
+      "Indonesia": "paspor",
+      "Thailand": "หนังสือเดินทาง",
+      "Philippine": "pasaporte",
+      "Malaysia": "pasport",
+      "Taiwan": "護照",
+      "Korea": "여권",
+      "France": "passeport",
+      "German": "Reisepass"
+    }
+  ],
+  "kanji": "",
+  "type": "noun",
+  "sentence": [
+    "パスポートを みせます。",
+    "パスポートを もっています。",
+    "パスポートを ください。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_21",
+  "name": "なまえ",
+  "pronounce": "namae",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "name",
+      "chin": "名字；姓名",
+      "Nepal": "नाम",
+      "Vietnam": "tên",
+      "Myanmar": "အမည်; နာမည်",
+      "Sri_Lanka": "නම",
+      "Bangladesh": "নাম",
+      "Indonesia": "nama",
+      "Thailand": "ชื่อ",
+      "Philippine": "pangalan",
+      "Malaysia": "nama",
+      "Taiwan": "名字；姓名",
+      "Korea": "이름",
+      "France": "nom; prénom",
+      "German": "Name; Vorname"
+    }
+  ],
+  "kanji": "名前",
+  "type": "noun",
+  "sentence": [
+    "なまえを おしえて ください。",
+    "わたしの なまえは マリアです。",
+    "ここに なまえを かきます。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_22",
+  "name": "じゅうしょ",
+  "pronounce": "juusho",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "address",
+      "chin": "地址",
+      "Nepal": "ठेगाना",
+      "Vietnam": "địa chỉ",
+      "Myanmar": "လိပ်စာ",
+      "Sri_Lanka": "ලිපිනය",
+      "Bangladesh": "ঠিকানা",
+      "Indonesia": "alamat",
+      "Thailand": "ที่อยู่",
+      "Philippine": "tirahan; address",
+      "Malaysia": "alamat",
+      "Taiwan": "地址",
+      "Korea": "주소",
+      "France": "adresse",
+      "German": "Adresse"
+    }
+  ],
+  "kanji": "住所",
+  "type": "noun",
+  "sentence": [
+    "じゅうしょを おしえて ください。",
+    "ここに じゅうしょを かきます。",
+    "わたしの じゅうしょは ダッカです。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_23",
+  "name": "ちず",
+  "pronounce": "chizu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "map",
+      "chin": "地图",
+      "Nepal": "नक्सा",
+      "Vietnam": "bản đồ",
+      "Myanmar": "မြေပုံ",
+      "Sri_Lanka": "සිතියම",
+      "Bangladesh": "মানচিত্র",
+      "Indonesia": "peta",
+      "Thailand": "แผนที่",
+      "Philippine": "mapa",
+      "Malaysia": "peta",
+      "Taiwan": "地圖",
+      "Korea": "지도",
+      "France": "carte; plan",
+      "German": "Karte; Landkarte"
+    }
+  ],
+  "kanji": "地図",
+  "type": "noun",
+  "sentence": [
+    "ちずを みます。",
+    "ちずを かいます。",
+    "ちずで ばしょを さがします。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_24",
+  "name": "しお",
+  "pronounce": "shio",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "salt",
+      "chin": "盐",
+      "Nepal": "नुन",
+      "Vietnam": "muối",
+      "Myanmar": "ဆား",
+      "Sri_Lanka": "ලුණු",
+      "Bangladesh": "লবণ",
+      "Indonesia": "garam",
+      "Thailand": "เกลือ",
+      "Philippine": "asin",
+      "Malaysia": "garam",
+      "Taiwan": "鹽",
+      "Korea": "소금",
+      "France": "sel",
+      "German": "Salz"
+    }
+  ],
+  "kanji": "塩",
+  "type": "noun",
+  "sentence": [
+    "しおを いれます。",
+    "しおを ください。",
+    "この りょうりは しおが おおいです。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_25",
+  "name": "さとう",
+  "pronounce": "satou",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "sugar",
+      "chin": "糖；砂糖",
+      "Nepal": "चिनी",
+      "Vietnam": "đường",
+      "Myanmar": "သကြား",
+      "Sri_Lanka": "සීනි",
+      "Bangladesh": "চিনি; চিনি-জাতীয় মিষ্টি পদার্থ",
+      "Indonesia": "gula",
+      "Thailand": "น้ำตาล",
+      "Philippine": "asukal",
+      "Malaysia": "gula",
+      "Taiwan": "糖；砂糖",
+      "Korea": "설탕",
+      "France": "sucre",
+      "German": "Zucker"
+    }
+  ],
+  "kanji": "砂糖",
+  "type": "noun",
+  "sentence": [
+    "コーヒーに さとうを いれます。",
+    "さとうを ください。",
+    "この さとうは あまいです。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_26",
+  "name": "よみかた",
+  "pronounce": "yomikata",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "way of reading; pronunciation; reading",
+      "chin": "读法；读音",
+      "Nepal": "पढ्ने तरिका; उच्चारण",
+      "Vietnam": "cách đọc; cách phát âm",
+      "Myanmar": "ဖတ်နည်း; အသံထွက်",
+      "Sri_Lanka": "කියවන ආකාරය; උච්චාරණය",
+      "Bangladesh": "পড়ার পদ্ধতি; উচ্চারণ",
+      "Indonesia": "cara membaca; pelafalan",
+      "Thailand": "วิธีอ่าน; การออกเสียง",
+      "Philippine": "paraan ng pagbasa; pagbigkas",
+      "Malaysia": "cara membaca; sebutan",
+      "Taiwan": "讀法；讀音",
+      "Korea": "읽는 법; 발음",
+      "France": "façon de lire; prononciation",
+      "German": "Lesart; Aussprache"
+    }
+  ],
+  "kanji": "読み方",
+  "type": "noun",
+  "sentence": [
+    "この かんじの よみかたを おしえて ください。",
+    "この ことばの よみかたが わかりません。",
+    "なまえの よみかたを ききます。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_27",
+  "name": "～かた",
+  "pronounce": "~kata",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "way of; how to",
+      "chin": "……的方法；……的方式",
+      "Nepal": "गर्ने तरिका; गर्ने विधि",
+      "Vietnam": "cách làm; cách thực hiện",
+      "Myanmar": "လုပ်နည်း; လုပ်ပုံလုပ်နည်း",
+      "Sri_Lanka": "කරන ආකාරය; කරන ක්‍රමය",
+      "Bangladesh": "করার পদ্ধতি; কীভাবে করা হয়",
+      "Indonesia": "cara melakukan; cara",
+      "Thailand": "วิธีทำ; วิธีการ",
+      "Philippine": "paraan ng paggawa; kung paano gawin",
+      "Malaysia": "cara melakukan; cara",
+      "Taiwan": "……的方法；……的方式",
+      "Korea": "하는 방법; 하는 법",
+      "France": "façon de faire; manière de",
+      "German": "Art und Weise; wie man etwas macht"
+    }
+  ],
+  "kanji": "～方",
+  "type": "suffix",
+  "sentence": [
+    "たべかたを おしえて ください。",
+    "つかいかたが わかりません。",
+    "かきかたを おしえて ください。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_28",
+  "name": "ゆっくり",
+  "pronounce": "yukkuri",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "slowly; leisurely",
+      "chin": "慢慢地；悠闲地",
+      "Nepal": "बिस्तारै; आरामसँग",
+      "Vietnam": "chậm rãi; thong thả",
+      "Myanmar": "ဖြည်းဖြည်း; အေးအေးဆေးဆေး",
+      "Sri_Lanka": "හෙමින්; විවේකයෙන්",
+      "Bangladesh": "ধীরে ধীরে; আরাম করে",
+      "Indonesia": "perlahan; santai",
+      "Thailand": "ช้าๆ; อย่างสบายๆ",
+      "Philippine": "dahan-dahan; nang maluwag",
+      "Malaysia": "perlahan-lahan; dengan santai",
+      "Taiwan": "慢慢地；悠閒地",
+      "Korea": "천천히; 느긋하게",
+      "France": "lentement; tranquillement",
+      "German": "langsam; gemütlich"
+    }
+  ],
+  "kanji": "ゆっくり",
+  "type": "adverb",
+  "sentence": [
+    "ゆっくり はなして ください。",
+    "ゆっくり たべます。",
+    "きょうは ゆっくり やすみます。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_29",
+  "name": "すぐ",
+  "pronounce": "sugu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "immediately; soon; right away",
+      "chin": "马上；立刻；很快",
+      "Nepal": "तुरुन्तै; चाँडै",
+      "Vietnam": "ngay lập tức; sớm",
+      "Myanmar": "ချက်ချင်း; မကြာခင်",
+      "Sri_Lanka": "වහාම; ඉක්මනින්",
+      "Bangladesh": "সঙ্গে সঙ্গে; শীঘ্রই; তৎক্ষণাৎ",
+      "Indonesia": "segera; langsung",
+      "Thailand": "ทันที; เร็วๆ นี้",
+      "Philippine": "kaagad; agad",
+      "Malaysia": "segera; terus",
+      "Taiwan": "馬上；立刻；很快",
+      "Korea": "바로; 곧; 즉시",
+      "France": "immédiatement; bientôt; tout de suite",
+      "German": "sofort; bald; gleich"
+    }
+  ],
+  "kanji": "すぐ",
+  "type": "adverb",
+  "sentence": [
+    "すぐ いきます。",
+    "すぐ きて ください。",
+    "しごとの あとで すぐ かえります。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_30",
+  "name": "また",
+  "pronounce": "mata",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "again; also",
+      "chin": "又；再次；也",
+      "Nepal": "फेरि; पनि",
+      "Vietnam": "lại; cũng",
+      "Myanmar": "ထပ်ပြီး; လည်း",
+      "Sri_Lanka": "නැවත; ද",
+      "Bangladesh": "আবার; এছাড়াও",
+      "Indonesia": "lagi; juga",
+      "Thailand": "อีกครั้ง; ด้วย",
+      "Philippine": "muli; din",
+      "Malaysia": "lagi; juga",
+      "Taiwan": "又；再次；也",
+      "Korea": "다시; 또; 또한",
+      "France": "encore; aussi",
+      "German": "wieder; auch"
+    }
+  ],
+  "kanji": "また",
+  "type": "adverb",
+  "sentence": [
+    "また あした きます。",
+    "また いっしょに べんきょうしましょう。",
+    "また でんわを します。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_31",
+  "name": "あとで",
+  "pronounce": "atode",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "later; afterwards",
+      "chin": "以后；稍后；之后",
+      "Nepal": "पछि; पछि गएर",
+      "Vietnam": "sau; lát nữa",
+      "Myanmar": "နောက်မှ; ပြီးနောက်",
+      "Sri_Lanka": "පසුව; ටික වේලාවකට පසු",
+      "Bangladesh": "পরে; কিছুক্ষণ পরে",
+      "Indonesia": "nanti; setelah itu",
+      "Thailand": "ทีหลัง; ภายหลัง",
+      "Philippine": "mamaya; pagkatapos",
+      "Malaysia": "nanti; kemudian",
+      "Taiwan": "之後；稍後",
+      "Korea": "나중에; 후에",
+      "France": "plus tard; après",
+      "German": "später; danach"
+    }
+  ],
+  "kanji": "後で",
+  "type": "adverb",
+  "sentence": [
+    "あとで でんわします。",
+    "あとで べんきょうします。",
+    "しごとの あとで えいがを みます。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_32",
+  "name": "もうすこし",
+  "pronounce": "mou sukoshi",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "a little more; a bit more",
+      "chin": "再多一点；再稍微多一点",
+      "Nepal": "अलि अझै; अलि बढी",
+      "Vietnam": "thêm một chút; thêm một ít",
+      "Myanmar": "နည်းနည်း ထပ်ပြီး; နည်းနည်းပို",
+      "Sri_Lanka": "තව ටිකක්; තවත් ස්වල්පයක්",
+      "Bangladesh": "আরও একটু; আরেকটু",
+      "Indonesia": "sedikit lagi; sedikit lebih banyak",
+      "Thailand": "อีกนิดหน่อย; อีกสักหน่อย",
+      "Philippine": "kaunti pa; kaunti pang dagdag",
+      "Malaysia": "sedikit lagi; sedikit lebih",
+      "Taiwan": "再一點；再稍微多一點",
+      "Korea": "조금 더; 좀 더",
+      "France": "un peu plus; encore un peu",
+      "German": "etwas mehr; noch ein bisschen"
+    }
+  ],
+  "kanji": "もう少し",
+  "type": "adverb",
+  "sentence": [
+    "もうすこし まって ください。",
+    "もうすこし ゆっくり はなして ください。",
+    "もうすこし たべます。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_33",
+  "name": "もう～",
+  "pronounce": "mou",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "already; any more; anymore",
+      "chin": "已经；再也；还",
+      "Nepal": "पहिले नै; अब फेरि",
+      "Vietnam": "đã; nữa; không còn",
+      "Myanmar": "ပြီးပြီ; နောက်ထပ်; မတော့",
+      "Sri_Lanka": "දැනටමත්; තවත්; තවදුරටත්",
+      "Bangladesh": "ইতিমধ্যে; আর; আর কোনো",
+      "Indonesia": "sudah; lagi; tidak lagi",
+      "Thailand": "แล้ว; อีก; อีกต่อไป",
+      "Philippine": "na; pa; hindi na",
+      "Malaysia": "sudah; lagi; tidak lagi",
+      "Taiwan": "已經；再；不再",
+      "Korea": "이미; 더 이상",
+      "France": "déjà; encore; ne... plus",
+      "German": "schon; noch; nicht mehr"
+    }
+  ],
+  "kanji": "もう",
+  "type": "adverb",
+  "sentence": [
+    "もう たべました。",
+    "もう いきます。",
+    "もう ありません。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_34",
+  "name": "いいですよ",
+  "pronounce": "ii desu yo",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "sure; that's fine; it's okay",
+      "chin": "可以；没关系；好的",
+      "Nepal": "हुन्छ; ठीक छ; कुनै समस्या छैन",
+      "Vietnam": "được; không sao; được thôi",
+      "Myanmar": "ရပါတယ်; အဆင်ပြေပါတယ်",
+      "Sri_Lanka": "හරි; කමක් නැහැ",
+      "Bangladesh": "ঠিক আছে; সমস্যা নেই; হ্যাঁ, করা যাবে",
+      "Indonesia": "boleh; tidak apa-apa; baiklah",
+      "Thailand": "ได้; ไม่เป็นไร; ตกลง",
+      "Philippine": "sige; ayos lang; okay",
+      "Malaysia": "boleh; tidak apa-apa; baiklah",
+      "Taiwan": "可以；沒關係；好的",
+      "Korea": "좋아요; 괜찮아요; 됩니다",
+      "France": "d'accord; ça va; pas de problème",
+      "German": "in Ordnung; das ist okay; gern"
+    }
+  ],
+  "kanji": "いいですよ",
+  "type": "expression",
+  "sentence": [
+    "ここに すわっても いいですか。— いいですよ。",
+    "これを つかっても いいですか。— いいですよ。",
+    "あした きても いいですか。— いいですよ。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_35",
+  "name": "さあ",
+  "pronounce": "saa",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "well; let's see; come on",
+      "chin": "嗯；这个嘛；来吧",
+      "Nepal": "ल; हेरौँ; आउनुहोस्",
+      "Vietnam": "nào; để xem; thôi nào",
+      "Myanmar": "အင်း; ကြည့်ရအောင်; လာပါ",
+      "Sri_Lanka": "හොඳයි; බලමු; එන්න",
+      "Bangladesh": "আচ্ছা; দেখা যাক; চলুন",
+      "Indonesia": "nah; mari kita lihat; ayo",
+      "Thailand": "เอาล่ะ; มาดูกัน; มาเถอะ",
+      "Philippine": "sige; tingnan natin; tara",
+      "Malaysia": "baiklah; mari kita lihat; ayuh",
+      "Taiwan": "嗯；這個嘛；來吧",
+      "Korea": "자; 글쎄; 어서",
+      "France": "eh bien; voyons; allez",
+      "German": "nun; mal sehen; komm"
+    }
+  ],
+  "kanji": "さあ",
+  "type": "expression",
+  "sentence": [
+    "さあ、いきましょう。",
+    "さあ、どうぞ。",
+    "さあ、わかりません。"
+  ],
+  "synonyms": ""
+},
+
+{
+  "id": "n5_l14_36",
+  "name": "あれ？",
+  "pronounce": "are",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "huh?; oh?; that's strange",
+      "chin": "咦？；啊？；奇怪",
+      "Nepal": "ए?; अँ?; अनौठो",
+      "Vietnam": "ơ?; hả?; lạ thật",
+      "Myanmar": "ဟင်?; အော်?; ထူးဆန်းတယ်",
+      "Sri_Lanka": "ආ?; මොකක්ද?; පුදුමයි",
+      "Bangladesh": "আরে?; কী?; অদ্ভুত তো",
+      "Indonesia": "hah?; oh?; aneh",
+      "Thailand": "เอ๊ะ?; อ้าว?; แปลกจัง",
+      "Philippine": "ha?; ay?; ang kakaiba",
+      "Malaysia": "eh?; oh?; pelik",
+      "Taiwan": "咦？；啊？；奇怪",
+      "Korea": "어?; 어라?; 이상하네",
+      "France": "hein ?; oh ?; c'est étrange",
+      "German": "hä?; oh?; seltsam"
+    }
+  ],
+  "kanji": "あれ？",
+  "type": "expression",
+  "sentence": [
+    "あれ？ かぎが ありません。",
+    "あれ？ これは だれの かばんですか。",
+    "あれ？ でんきが ついて います。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_37",
+  "name": "しんごうを みぎへ まがって ください",
+  "pronounce": "shingou o migi e magatte kudasai",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "Please turn right at the traffic light.",
+      "chin": "请在红绿灯处向右转。",
+      "Nepal": "ट्राफिक बत्तीमा दायाँ मोड्नुहोस्।",
+      "Vietnam": "Hãy rẽ phải ở đèn giao thông.",
+      "Myanmar": "မီးပွိုင့်မှာ ညာဘက်ကို ကွေ့ပါ။",
+      "Sri_Lanka": "සංඥා ලයිට් එක ළඟ දකුණට හැරෙන්න.",
+      "Bangladesh": "ট্রাফিক সিগন্যালে ডানদিকে মোড় নিন।",
+      "Indonesia": "Silakan belok kanan di lampu lalu lintas.",
+      "Thailand": "กรุณาเลี้ยวขวาที่สัญญาณไฟจราจร",
+      "Philippine": "Mangyaring lumiko sa kanan sa traffic light.",
+      "Malaysia": "Sila belok ke kanan di lampu isyarat.",
+      "Taiwan": "請在紅綠燈處向右轉。",
+      "Korea": "신호등에서 오른쪽으로 돌아 주세요.",
+      "France": "Veuillez tourner à droite au feu.",
+      "German": "Bitte biegen Sie an der Ampel rechts ab."
+    }
+  ],
+  "kanji": "信号を 右へ 曲がって ください",
+  "type": "expression",
+  "sentence": [
+    "しんごうを みぎへ まがって ください。",
+    "つぎの しんごうを ひだりへ まがって ください。",
+    "しんごうを わたって ください。"
+  ],
+  "synonyms": ""
+},{
+  "id": "n5_l14_38",
+  "name": "まっすぐ",
+  "pronounce": "massugu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "straight; straight ahead",
+      "chin": "直；一直向前",
+      "Nepal": "सिधा; सिधै अगाडि",
+      "Vietnam": "thẳng; đi thẳng",
+      "Myanmar": "တည့်တည့်; ရှေ့တည့်တည့်",
+      "Sri_Lanka": "කෙළින්; කෙළින්ම ඉදිරියට",
+      "Bangladesh": "সোজা; সোজাসুজি",
+      "Indonesia": "lurus; terus lurus",
+      "Thailand": "ตรง; ตรงไป",
+      "Philippine": "tuwid; diretso",
+      "Malaysia": "lurus; terus",
+      "Taiwan": "直；一直向前",
+      "Korea": "곧바로; 똑바로",
+      "France": "tout droit; droit",
+      "German": "gerade; geradeaus"
+    }
+  ],
+  "kanji": "真っ直ぐ",
+  "type": "adverb",
+  "sentence": [
+    "まっすぐ いって ください。",
+    "まっすぐ あるきます。",
+    "この みちを まっすぐ いきます。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_39",
+  "name": "これで おねがいします",
+  "pronounce": "kore de onegai shimasu",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "This one, please; I'll have this one.",
+      "chin": "请给我这个；就这个吧",
+      "Nepal": "यो दिनुहोस्; मलाई यही चाहिन्छ",
+      "Vietnam": "Cho tôi cái này; tôi lấy cái này.",
+      "Myanmar": "ဒါကိုပေးပါ; ဒါကိုယူပါမယ်",
+      "Sri_Lanka": "මේක දෙන්න; මම මේක ගන්නම්",
+      "Bangladesh": "এটাই দিন; আমি এটা নেব",
+      "Indonesia": "Yang ini, tolong; saya pilih yang ini.",
+      "Thailand": "เอาอันนี้ครับ/ค่ะ; ขออันนี้",
+      "Philippine": "Ito na lang, pakiusap; ito ang gusto ko.",
+      "Malaysia": "Yang ini, sila; saya mahu yang ini.",
+      "Taiwan": "請給我這個；就這個吧",
+      "Korea": "이것으로 부탁합니다; 이걸로 할게요",
+      "France": "Celui-ci, s'il vous plaît.",
+      "German": "Dieses bitte; Ich nehme dieses."
+    }
+  ],
+  "kanji": "これで お願いします",
+  "type": "expression",
+  "sentence": [
+    "これで おねがいします。",
+    "この かばんを ください。— これで おねがいします。",
+    "この りんごを ください。— これで おねがいします。"
+  ],
+  "synonyms": ""
+},
+{
+  "id": "n5_l14_40",
+  "name": "おつり",
+  "pronounce": "otsuri",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "change (money)",
+      "chin": "找钱；零钱",
+      "Nepal": "फिर्ता पैसा; बाँकी पैसा",
+      "Vietnam": "tiền thừa; tiền trả lại",
+      "Myanmar": "အမ်းငွေ; ပြန်အမ်းငွေ",
+      "Sri_Lanka": "ඉතිරි මුදල්; මාරු මුදල්",
+      "Bangladesh": "ফেরত টাকা; খুচরা টাকা",
+      "Indonesia": "uang kembalian",
+      "Thailand": "เงินทอน",
+      "Philippine": "sukli",
+      "Malaysia": "wang baki; wang pulangan",
+      "Taiwan": "找錢；零錢",
+      "Korea": "거스름돈",
+      "France": "monnaie; rendu",
+      "German": "Wechselgeld"
+    }
+  ],
+  "kanji": "お釣り",
+  "type": "noun",
+  "sentence": [
+    "おつりを ください。",
+    "おつりは いくらですか。",
+    "おつりを もらいました。"
+  ],
+  "synonyms": ""
+},
+
+{
+  "id": "n5_l14_41",
+  "name": "うめだ",
+  "pronounce": "umeda",
+  "audio": "",
+  "meaning": [
+    {
+      "english": "Umeda (a district in Osaka)",
+      "chin": "梅田（大阪的一个地区）",
+      "Nepal": "उमेडा (ओसाकाको एउटा क्षेत्र)",
+      "Vietnam": "Umeda (một khu vực ở Osaka)",
+      "Myanmar": "Umeda (အိုဆာကာရှိ ဧရိယာတစ်ခု)",
+      "Sri_Lanka": "උමේදා (ඔසාකාහි ප්‍රදේශයක්)",
+      "Bangladesh": "উমেদা (ওসাকার একটি এলাকা)",
+      "Indonesia": "Umeda (sebuah daerah di Osaka)",
+      "Thailand": "อุเมดะ (ย่านหนึ่งในโอซากา)",
+      "Philippine": "Umeda (isang lugar sa Osaka)",
+      "Malaysia": "Umeda (sebuah kawasan di Osaka)",
+      "Taiwan": "梅田（大阪的一個地區）",
+      "Korea": "우메다 (오사카의 한 지역)",
+      "France": "Umeda (un quartier d'Osaka)",
+      "German": "Umeda (ein Stadtteil von Osaka)"
+    }
+  ],
+  "kanji": "梅田",
+  "type": "place",
+  "sentence": [
+    "うめだへ いきます。",
+    "うめだで かいものを します。",
+    "うめだは おおさかに あります。"
+  ],
+  "synonyms": ""
+},
+
+
 
 
 
